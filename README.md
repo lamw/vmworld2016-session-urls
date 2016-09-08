@@ -4,37 +4,65 @@ Here is a nice summary list of all VMworld US 2016 Breakout session with the res
 
 ### Most Popular Sessions (13)
 
-[CTO10624-S - Are you ahead of the IoT curve](http://vmware.mediasite.com/mediasite/Play/45623442b2084219acc7b3b5e054977e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://vmware.mediasite.com/mediasite/Play/f0deddfd407d414e81ead5e526ee3c451d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[SDDC7808-S - How I Learned to Stop Worrying and Love Consistency: Standardizing Datacenter Designs](http://vmware.mediasite.com/mediasite/Play/3fa06610fa924e21abbe7a0083c4ee381d?catalog=dbf1ec
-28-2557-4dd3-a381-e5fe4ceabc40)
+[INF8225 - The vCenter Server and Platform Services Controller Guide to the Galaxy](http://vmware.mediasite.com/mediasite/Play/2417db244c0043f2bee7410d1b3479421d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[HBC9363-S - Virtualization 2.0: How the Cloud Is Evolving the Modern Data Center](http://vmware.mediasite.com/mediasite/Play/270bcc2503414d6f885f8cc6af56e12d1d?catalog=dbf1ec28-2557-4dd3-a381-
-e5fe4ceabc40)
+[INF9044 - Journey to the vCenter Server Appliance: A Migration Story](http://vmware.mediasite.com/mediasite/Play/2576798222674c72bc998c5ceae32b771d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[EUC10682-S - Delivering the Digital Workspace: The Transformation of End-User Computing](http://vmware.mediasite.com/mediasite/Play/2add5fd3872f45ef8cf6c1040d4e9ffa1d?catalog=dbf1ec28-2557-4dd
-3-a381-e5fe4ceabc40)
+[MGT7924 - vRealize Operations Capacity Explained](http://vmware.mediasite.com/mediasite/Play/eb814784edd341988d9b3a0d80dfb5101d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[CNA9993-S - Cloud Native Applications, What it means & Why it matters](http://vmware.mediasite.com/mediasite/Play/882a63e012454aa1b3b03eea6bd0f3e81d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc4
-0)
+[CTO9943 - VMware Chief Technology Officer Panel - Trends and Futures](http://vmware.mediasite.com/mediasite/Play/08777839165a4035a5b1522bc6d344001d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[VIRT8612-S - How Travis Credit Union Virtualized Their Systems and Significantly Improved Stability and Performance](http://vmware.mediasite.com/mediasite/Play/99c9274aa88440099d926070fb3cfced
-1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[CTO7516 - Ask the Experts - Titans of Tech](http://vmware.mediasite.com/mediasite/Play/474ef30d2ae74a7aaeb3cd019e22440d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[SDDC8618-S - Introducing VMware Cloud Foundation](http://vmware.mediasite.com/mediasite/Play/a7f598b7cb0641eabb99ff7ab26fad341d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[INF7827 - vSphere DRS Deep Dive: Understanding the Best Practices, Advanced Concepts, and Future Direction of DRS](http://vmware.mediasite.com/mediasite/Play/59ddc779701149b2a84bdca6977d5ccf1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[SEC9990-S - How Virtualization Will Transform Security](http://vmware.mediasite.com/mediasite/Play/95d689c2ecfc4e11bb199bca1ab61f811d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[SDDC8468 - A Beginner's Guide to the Software-Defined Data Center](http://vmware.mediasite.com/mediasite/Play/1eff78e44ebd4e5aa3c85a42d502c2541d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[NET9989-S - NSX - The Network Bridge to the Multi-cloud Future](http://vmware.mediasite.com/mediasite/Play/4019befeb25f44659e4fc3540664329f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[EUC8203 - Beyond the Marketing: Horizon Instant Clones Deep Dive](http://vmware.mediasite.com/mediasite/Play/a65cc3b55ce941d9b2b9a6bacbc0d3441d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[CTO9978-S - Digital Transformation - Technology & Business Futures, A CTO's Perspective](http://vmware.mediasite.com/mediasite/Play/041c06b4afbd423eb6c9a82befa7bc721d?catalog=dbf1ec28-2557-4dd
-3-a381-e5fe4ceabc40)
+[INF8755R - Troubleshooting vSphere 6: Tips and Tricks for the Real World](http://vmware.mediasite.com/mediasite/Play/821a81c79ffa4ba8bb64ef26f6acdfcb1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[INF9947-S - Spotlight on vSphere: Today, Tomorrow, and Beyond](http://vmware.mediasite.com/mediasite/Play/2fdb6489d11540b6a84c74a0f1046ff01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[INF8089 - Extreme Performance Series: vSphere Compute and Memory](http://vmware.mediasite.com/mediasite/Play/3122d878584543c8819fa366c4bdca0e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[SDDC9035-S - SDDC and Hyperconverged has Arrived â€“ Get on Board!](http://vmware.mediasite.com/mediasite/Play/dbcb2ade5e6e4e239c4a5bfb0631c4df1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[CNA7522 - Containers for the vSphere Admin](http://vmware.mediasite.com/mediasite/Play/b32cb425a9db4b4d88054cbbde24b00f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-[STO9424-S - Taking HCI Mainstream](http://vmware.mediasite.com/mediasite/Play/606379674bfe483e82002a007e60a72b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[INF8430 - vSphere 6.x Host Resource Deep Dive](http://vmware.mediasite.com/mediasite/Play/596de7ac0fd24d44a2bdad93caca88851d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8243R - Troubleshooting 101 for Horizon](http://vmware.mediasite.com/mediasite/Play/ed56ba9e24ec49da97b875cfe7c6b3651d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC9461-SPO - Veeam Availability Suite 9.5 Deep Dive](http://vmware.mediasite.com/mediasite/Play/f44820ebc5e94eb185ffe3f1b96325031d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7907 - Advanced Network Services with NSX](http://vmware.mediasite.com/mediasite/Play/f7f9e07b1afa4f719918c185d101dc7d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8364R - How to Deploy VMware NSX with Cisco Infrastructure](http://vmware.mediasite.com/mediasite/Play/2767a7e4c6e245c7a78d00c1504879321d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8092 - The Power Hour: Deep Dive, DevOps, and New Features of PowerCLI](http://vmware.mediasite.com/mediasite/Play/61ba23c4f0fb4fc2b85c705acd74b1a61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9617-SPO - Containers & VVols - a technical deep dive on new technologies that revolutionize storage for vSphere](http://vmware.mediasite.com/mediasite/Play/064d70d2da3c4c439f6634170492859b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[VIRT8290R - Monster VMs (Database Virtualization) Doing IT Right](http://vmware.mediasite.com/mediasite/Play/fa9ca7fc9793495a88af9b8e4af5536c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8404 - What's New with Horizon 7](http://vmware.mediasite.com/mediasite/Play/0054013051d149ceb4dd9f1f74695f521d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[MGT7718 - The KISS of vRealize Operations!](http://vmware.mediasite.com/mediasite/Play/0503d3a58af84729bbe87c63f95e50191d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[VIRT7621 - Virtualize Active Directory, the Right Way!](http://vmware.mediasite.com/mediasite/Play/20b48ea2bc7740059b5704aa0df280dc1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9989-S - NSX - The Network Bridge to the Multi-cloud Future](http://vmware.mediasite.com/mediasite/Play/9543eaceb29b465f84e0b4c07b25fc631d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8036 - Enforcing a vSphere Cluster Design with PowerCLI Automation](http://vmware.mediasite.com/mediasite/Play/de08e26cf80a4f218dbe93b3c63df1781d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9083 - Ask the vCenter Server Experts Panel](http://vmware.mediasite.com/mediasite/Play/49af76842c114e668eb1ee84f738ec691d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7645 - Virtual Volumes Technical Deep Dive](http://vmware.mediasite.com/mediasite/Play/5660b4d7c7984221b9312bc983cad52e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8038 - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://vmware.mediasite.com/mediasite/Play/26902c97499b4b1a83bd5c8ed49535631d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9424-S - Taking HCI Mainstream](http://vmware.mediasite.com/mediasite/Play/01b69830e3534c8ba3621dac5aef86831d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7601 - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://vmware.mediasite.com/mediasite/Play/f295b58ed3d34c738f9f636cfaab9ab91d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 ## All General Sessions (2)
 

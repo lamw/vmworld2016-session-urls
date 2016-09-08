@@ -117,7 +117,6 @@ ay/dd2d47635b0142c69800d3f32f54a03a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc
 
 [INF8045 - vSphere High Availability Best Practices and Tech Preview](http://vmware.mediasite.com/mediasite/Play/42cf4dd6366949a29a17f21688478c751d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
-
 [INF8375 - What's New with vSphere](http://vmware.mediasite.com/mediasite/Play/54d452518c7f4b01a9b66f73ebe075de1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 [INF9144 - Through the Looking Glass:  An Overview of the vCenter Server Appliance Management Interface and API](http://vmware.mediasite.com/mediasite/Play/8795dd810e6a481891e26c1073afc3fa1d?ca
@@ -186,6 +185,71 @@ ec28-2557-4dd3-a381-e5fe4ceabc40)
 [INF8097 - Production Is Down and So Are My Tools: Meeting Infrastructure High Availability by Deploying an Out-of-Band Management Cluster, A Customer Evolution](http://vmware.mediasite.com/med
 iasite/Play/288478a3d7de4240ad3e95647a5fa74c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
+[INF8837 - How to Relocate Your Physical Data Center Without Downtime in a Few Clicks, Thanks to Automation](http://vmware.mediasite.com/mediasite/Play/5c1e3cf9c4154397a3bfa2664a34bba01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8122 - A Storage Story: Capacity Management and Performance Planning for Storage Systems in vRealize Operations](http://vmware.mediasite.com/mediasite/Play/694e90ab80224d7e8d1f46c0e636ec8f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8914 - Mastering the VM Tools Lifecycle in your vSphere Data Center](http://vmware.mediasite.com/mediasite/Play/6d33be3f5da840a19ec1997e220aedfe1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8926 - Take Control of VMware vSphere Lifecycle Management in Your Software-Defined Data Center](http://vmware.mediasite.com/mediasite/Play/2014399a420942c39bd3d114c03d8a6e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9119 - How to Manage Your Platform Services Controller Like Batman](http://vmware.mediasite.com/mediasite/Play/913961cc8d6e49ffb2534b8496da432a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8038r - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://vmware.mediasite.com/mediasite/Play/6d7a834a3efc468ca6cc6a0f4b93f73a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8525-SPO - Enterprise-Class Cloud Stacks Power Mission-Critical Applications](http://vmware.mediasite.com/mediasite/Play/ea5cc4bb41274cf3acdd00ecf40dba261d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF7818 - Take Virtualization to the Next Level](http://vmware.mediasite.com/mediasite/Play/746a45cf4e3a45c6a2d94b1bd98ca2df1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[MGT7713 - Intelligent IT Operations Management from Infra to Apps, On-Premises and in The Cloud](http://vmware.mediasite.com/mediasite/Play/537b125aa63d4491a9e6246b63863e071d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF7825 - vSphere DRS and vRealize Operations: Better Together](http://vmware.mediasite.com/mediasite/Play/00281bf99e9341f4bf3da9d2d54bf42b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8459 - VMware Security: How to Meet Your Compliance Objectives Using Cool Technology](http://vmware.mediasite.com/mediasite/Play/dc42c439396f42e1add6d213e5e5906b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9151 - Getting to Zero: Zero Downtime, Zero Data Loss with vSphere Fault Tolerance](http://vmware.mediasite.com/mediasite/Play/b03ed50e66db45ccbfab3f72598e102e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://vmware.mediasite.com/mediasite/Play/24299c0d83094780ad04e1773f91282e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8701R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 2: Disk and Network](http://vmware.mediasite.com/mediasite/Play/5fd5645f0e4342f7a2fba5c4a5bf966a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[MGT7878r - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment (Copy)](http://vmware.mediasite.com/mediasite/Play/d68affbdb00444b181d08572991a17b11d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8465 - Extreme Performance Series: Power Management's Impact on Performance](http://vmware.mediasite.com/mediasite/Play/a062b5b499be4e738741e18f33ba796e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8920 - Leveraging Stateless Compute Infrastructure for Centralized Control of the Software-Defined Data Center](http://vmware.mediasite.com/mediasite/Play/8a8828aa47e2459cba51bd3c8dbf1c5c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9455-SPO - Best Practices for All-Flash Data Reduction Arrays with VMware vSphere](http://vmware.mediasite.com/mediasite/Play/24813e8638844927ad46b058ebde14291d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://vmware.mediasite.com/mediasite/Play/fda88ef2c3034706832743370317a7871d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8553 - The Nuts and Bolts of vSphere Resource Management](http://vmware.mediasite.com/mediasite/Play/5eb3baa1aa4c427eb6e52464a2544e8f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://vmware.mediasite.com/mediasite/Play/7afe44aca09d4ab692adcb98c10f8fb71d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF7578 - A Cloud Service Provider's Success Story: Adoption of vSphere with Operations Management](http://vmware.mediasite.com/mediasite/Play/991f0f83860b4f0d9e9a8226190ea5471d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[MGT7878 - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment](http://vmware.mediasite.com/mediasite/Play/c57a80b540ff477d9ab00e904b8fd9961d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8663 - The Making of a Legend-Dairy Software-Defined Data Center](http://vmware.mediasite.com/mediasite/Play/5f18c57de2ca4e08a1d0c9431481d0dd1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8260 - Automated Deployment and Configuration of the vCenter Server Appliance](http://vmware.mediasite.com/mediasite/Play/414463c2038c4130855713b9c1a5b8ef1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8850 - vSphere Platform Security](http://vmware.mediasite.com/mediasite/Play/536201f1bd3846d1a0b71b3f952a6e591d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9944R - What's New with vCenter Server](http://vmware.mediasite.com/mediasite/Play/ba4cb7ce031845f5a3ac824053f8adbb1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8780R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 1: CPU and RAM](http://vmware.mediasite.com/mediasite/Play/a9296c86f2fb47dd8c832660bcda15841d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[MGT8439 - Lessons Learned from EMC IT's Data Center Evolution](http://vmware.mediasite.com/mediasite/Play/bca9e709e020419289ee8600c33807c81d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8277-QT - Dear IT, You Can Be a Strategic Partner to Your Business. Let me help. Yours Truly, vSphere with Operations Management.](http://vmware.mediasite.com/mediasite/Play/e0ec000b63ee407ebc86a14d4e0eea171d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8558-QT - Business Value of Data Center Virtualization and Hybrid Cloud Extensibility](http://vmware.mediasite.com/mediasite/Play/9942dcf3ace148d29c299626bf27907b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF8516-QT - VMware Security: The Whole Is Greater than the Sum of Parts](http://vmware.mediasite.com/mediasite/Play/f89f8ad387ed4e20a58bc2019a0aabf41d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF7764-QT - Has the Hypervisor Been Commoditized?](http://vmware.mediasite.com/mediasite/Play/98153adca06746d29c045e02b8a3f0311d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 ## Cloud Management (37)
 
@@ -498,6 +562,56 @@ a381-e5fe4ceabc40)
 
 [EUC8648R - Architecting VSAN for Horizon the VCDX Way](http://vmware.mediasite.com/mediasite/Play/fa2ba407856b4a68a74e1273955df5321d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
+[EUC7611 - User Environment Manager 9: Do It Fast, Do It Right, Do It Big!](http://vmware.mediasite.com/mediasite/Play/925fd62bd2794d2da795dd6db4f2a7aa1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8670 - Your Digital Workspace: How to Plan, How to Start](http://vmware.mediasite.com/mediasite/Play/8951f37fb63e4e6992571139f31842e61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9610-SPO - Optimize Storage Infrastructure for Horizon Performance](http://vmware.mediasite.com/mediasite/Play/7373b30cc3f1429a9a7cba3b241601a71d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7644R - Unify Endpoint Management Across Mobile and Desktop](http://vmware.mediasite.com/mediasite/Play/78c14b47ebbb466c801188cbb069e3fb1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7453 - Horizon for Linux Technical Deep Dive](http://vmware.mediasite.com/mediasite/Play/d33d465feff54abcb47dab3d02d04c7e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8441 - End-to-End Security for End-User Computing](http://vmware.mediasite.com/mediasite/Play/6e94a0a7fd264458ab98671d974a2ae21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7856 - Solve Your Citrix Problems with VMware Technologies](http://vmware.mediasite.com/mediasite/Play/ae0ae454a5a34df0bf8a85024c1bedf51d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9922-SPO - Cisco HyperFlex Systems: Next Generation Hyperconvergence](http://vmware.mediasite.com/mediasite/Play/9974f75ed1654c2fae5844c07a67a52a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9992 - Ask the Experts: Practical Tips and Tricks to Help You Succeed in EUC](http://vmware.mediasite.com/mediasite/Play/ada4c4c1145c436a9d6f2f95af7aa54f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8437 - Workspace ONEâs Secure App Token System (SATS) for Mobile Single Sign-On explained](http://vmware.mediasite.com/mediasite/Play/2025849e44564f8fb2b0a6e9ecfd59e81d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8589 - Best Practices for Effectively Planning and Implementing BYOD Programs](http://vmware.mediasite.com/mediasite/Play/51ae02f7beea4fc089c17bc6e9a17bf31d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9393 - Real-time Endpoint Visibility and Control with VMware TrustPoint](http://vmware.mediasite.com/mediasite/Play/a20adf5cceaf438c9bd9a75a048c7d931d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9469-SPO - Scale, Efficiency and Data Management for EUC solutions with NetApp](http://vmware.mediasite.com/mediasite/Play/beed61472ad6442e80f520eac7a4b8681d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9217 - On-Premises Workloads with Cloud-Based Management: Technical Deep Dive into Horizon Air Hybrid Mode](http://vmware.mediasite.com/mediasite/Play/f8060f42594c47f09bc3cd48f21ab6c21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7443r - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://vmware.mediasite.com/mediasite/Play/c81656bda92a4de3b5cd551d6d7ee0ff1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9160 - Secure Digital Workspace of the Future: Embracing the Opportunities Presented by Enterprise Mobility in Financial Services](http://vmware.mediasite.com/mediasite/Play/087bb3f92cd243419cbaff30381e76f21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8160 - Discover AirWatch: Enterprise Mobility Management](http://vmware.mediasite.com/mediasite/Play/cb8d51b8c04d4855ae6fb7f3556f79f01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9970-SPO - 0-70 with Horizon 7](http://vmware.mediasite.com/mediasite/Play/ea704ab6d6874f5abd82beaa29935c2b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8990 - CSC Hyper-Productive Digital Workplace](http://vmware.mediasite.com/mediasite/Play/56302e8d6d2340948e685e151431da141d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7601R - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://vmware.mediasite.com/mediasite/Play/19deac8681ad4568851145161b6316091d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC8584 - vRealize Operations: The Authoritative Source for Monitoring and Reporting for Horizon and Citrix XenApp Deployments on vSphere](http://vmware.mediasite.com/mediasite/Play/13b078992eca419bb0005df5ae2fce9b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9389 - What Is VMware Workspace ONE?](http://vmware.mediasite.com/mediasite/Play/7275474da7cc4388a78d8231909a7f0c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC7800 - Deliver a Digital Clinical Workspace: Healthcare Customer Panel](http://vmware.mediasite.com/mediasite/Play/b286ed6ff85d47f2bb5f695af7a22a5d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7443 - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://vmware.mediasite.com/mediasite/Play/c70d29e2db834d5c83ba5a5cd39f4cb01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[EUC9387 - Deployment Best Practices for VMware Identity Manager](http://vmware.mediasite.com/mediasite/Play/7675fd8f1b4c42ceb958348e43e991621d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
 ## Hybrid Cloud - vCloud Air (17)
 
 [HBC8915 - SLED and Cloud: Is Cost Containment the Right Question?  Yes and No](http://vmware.mediasite.com/mediasite/Play/10eb23eb463942a6a34d6c494c6b12ee1d?catalog=dbf1ec28-2557-4dd3-a381-e5f
@@ -715,6 +829,74 @@ c40)
 
 [STO8144 - VMware vSphere Virtual Volumes in a NetApp Environment](http://vmware.mediasite.com/mediasite/Play/e992402f2e9e4de58e21bdefa6060cfe1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
+[STO8144 - VMware vSphere Virtual Volumes in a NetApp Environment](http://vmware.mediasite.com/mediasite/Play/e992402f2e9e4de58e21bdefa6060cfe1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8689 - Virtual SAN Primer and What?s New](http://vmware.mediasite.com/mediasite/Play/efe487061cb64101ae2d96eb5ca471de1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7650 - Software-Defined Storage at VMware Primer](http://vmware.mediasite.com/mediasite/Play/e6d3bb355c4744cc99e57c9d4e4266081d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8279 - Deploying Virtual SAN with VMware Private Cloud](http://vmware.mediasite.com/mediasite/Play/e83591c8c5b94ff29a464e12dbbff5c91d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7552r - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://vmware.mediasite.com/mediasite/Play/241c0ded3ff14e178e49549ce53f6d6f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8840 - Deploy Scalable Private Cloud with vSphere Virtual Volumes](http://vmware.mediasite.com/mediasite/Play/5596f0e5264a4009957f4fad9cc91e7d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7557 - Successful Virtual SAN 6 Stretched Clusters](http://vmware.mediasite.com/mediasite/Play/feffc478a01142698571b01786f7752c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7953 - The Future is Here:  Turbocharge All Flash Virtual SAN with Next Generation Hardware](http://vmware.mediasite.com/mediasite/Play/aaf7aee8c20f42feb64e49fdb7e3fb081d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8179R - Understanding the Availability Features of Virtual SAN](http://vmware.mediasite.com/mediasite/Play/aa26eadc021047a5a7a716d269a74c671d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9058 - Evolution of VMware Virtual SAN](http://vmware.mediasite.com/mediasite/Play/44f02d791c874472bbc93d2de188faf91d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7534 - Virtual SAN - Day 2 Operations](http://vmware.mediasite.com/mediasite/Play/5bc0dc4e663a4ca3b686250fb0c3d9891d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9607-SPO - Running Business Critical Applications and the Software Defined Data Center on Hyper-Converged Infrastructure at the Speed of Flash](http://vmware.mediasite.com/mediasite/Play/7d908742938a4539b3f0be17863087141d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7902 - VMware Virtual SAN: Enterprise-Grade Storage For Hyper-Converged Infrastructures](http://vmware.mediasite.com/mediasite/Play/895de81c34c440d9b4c3d4bec25ec14b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7875 - A Day in the Life of a VSAN I/O](http://vmware.mediasite.com/mediasite/Play/6193bd74f34d478f8c08a100354d42ad1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8904 - Hardware Choices in the Software Defined World â Tips on Choosing Hardware for Virtual SAN Deployment](http://vmware.mediasite.com/mediasite/Play/36e07ba0abc94a5daf953b59a973fdb41d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9614-SPO - You have an all-flash Virtual SAN - what's next?](http://vmware.mediasite.com/mediasite/Play/84c094fc25114e71b3c23cad4b6aa9761d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9054 - VVol and Storage Policy-Based Management ? Is It Everything They Said It Would Be?](http://vmware.mediasite.com/mediasite/Play/f2bb72b4713a486980fad819d9c02ca21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7755 - Storage for Virtual Environments - What's new and What's next for vSphere Storage](http://vmware.mediasite.com/mediasite/Play/dd0056cab64c4484ad7c720c2dea64961d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8568 - Virtual SAN with just 2 Failure Domains](http://vmware.mediasite.com/mediasite/Play/38a2e3f59c60406f961cc2f1c1225f681d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8743 - Extreme Performance Series: Virtual SAN Performance Troubeshooting](http://vmware.mediasite.com/mediasite/Play/7abb9a4d5a004e378ddde985765948001d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9967-SPO - Rethinking Data Protection:  The Rise of Hyperconverged Infrastructure and Built-in Backup and Disaster Recovery](http://vmware.mediasite.com/mediasite/Play/dd69881dac5f476d918ef4827bbb34a31d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9396-SPO - Real World Guidance for Implementing VMware Virtual SAN from Ready Nodes to Build Your Own](http://vmware.mediasite.com/mediasite/Play/a040dbe20a4e4967b1365911b651de681d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8165R - VSAN Networking Deep Dive and Best Practices](http://vmware.mediasite.com/mediasite/Play/f2ac0e72b6cb46ee8d8cb3ce30e9f18d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7977 - SRM with NSX: Simplifying Disaster Recovery Operations & Reducing RTO](http://vmware.mediasite.com/mediasite/Play/81d31d38b5d34003af8a12af0d197cb91d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7552 - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://vmware.mediasite.com/mediasite/Play/1cdfceeb9276442ab6b909555e10e0ea1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8488 - Hyperconvergence Panel Discussion: Exploring the ?Reality? of Hyper-Converged Infrastructure and Virtual SAN](http://vmware.mediasite.com/mediasite/Play/be8925f88dae409fbc9bbf89d737770e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO7914 - Revamped vSphere Storage DRS and SIOC for automating the Data Centers](http://vmware.mediasite.com/mediasite/Play/918ebe69f79e448d8045cc418ec01d1b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[HBC10704-QT - Backups to the cloud - Leverage the cloud for Business Continuity](http://vmware.mediasite.com/mediasite/Play/92c6693782c6429085f6dfb83088a8e51d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9988-QT - Running Epic with VSAN â Modern Architecture for Healthcare](http://vmware.mediasite.com/mediasite/Play/6ae128e005814c20ab005d2a34f5df9e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9987-QT - Hardware Procurement Guide for Virtual SAN](http://vmware.mediasite.com/mediasite/Play/2ba3b70c17704a9c8f4120917f6fb8c31d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[HBC10703-QT - Top Tips for Moving to the Cloud](http://vmware.mediasite.com/mediasite/Play/68afcfe224fb406caf09c1da4612e5211d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO9977-QT - 5 Tips for Getting The Most From Virtual Volumes and vSphere Storage Policy-Based Management](http://vmware.mediasite.com/mediasite/Play/ab82316c6bef49f3be30f59ee206fbc51d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[INF9991-QT - vSphere Web Client Plug-in Certification Program](http://vmware.mediasite.com/mediasite/Play/e4e58bf0a9d34631b867de86ce9d73a31d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[STO8267 - Hours to Minutes: Automated Provisioning and Deployment Using PowerCLI, vRealize Automation and vRealize Orchestrator](http://vmware.mediasite.com/mediasite/Play/1208639504e2471d8894a1fe2cb6382f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
 ## Networking and Security (79)
 
 [NET9094 - Customer Case Study on American Tire Distributor (ATD): Migrating to the Software-Defined Data Center with Arista Networks and VMware NSX](http://vmware.mediasite.com/mediasite/Play/
@@ -819,6 +1001,84 @@ dd3-a381-e5fe4ceabc40)
 c34d8ae4403b50d81912167980b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 [NET8935 - NSX for Small Data Centersâ€”Breaking Boundaries](http://vmware.mediasite.com/mediasite/Play/cd27e0ab54bb415d8bed70b249f080d41d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC7628 - Use NSX to Automate Your Security Incident Response so You Can Stay Above Water](http://vmware.mediasite.com/mediasite/Play/a430233ebfd24761a086c2f2915861861d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://vmware.mediasite.com/mediasite/Play/fd06f1f962064ee095826111b0f720201d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8675r - The Practical Path to NSX](http://vmware.mediasite.com/mediasite/Play/943fd3ba12374103afee5ceec11aca8b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC9609-SPO - Trusted Security in the Software Defined Data Center: Real-World Use Cases Across VMware Platforms, including NSX](http://vmware.mediasite.com/mediasite/Play/230ed7e1b946466f93f0dc8fbcd2eca61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8734 - Automating Networking and Security Operations with NSX Customer Panel](http://vmware.mediasite.com/mediasite/Play/71365a8a98bc4a988983e405469b487a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9156 - Customer Case Study: Journey to Automate Security As a Part Of Service Delivery](http://vmware.mediasite.com/mediasite/Play/a8b54f932fe54d428c173491144f96521d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7861R - Multisite Networking and Security with Cross-vCenter NSX: Part 2](http://vmware.mediasite.com/mediasite/Play/cc245ea443d64e2f8857eb2080f27f441d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7760 - Enhanced Disaster Recovery with NSX](http://vmware.mediasite.com/mediasite/Play/7a29d77c644d447b973bef78192ac97a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7854R - Multisite Networking and Security with Cross-vCenter NSXâPart 1](http://vmware.mediasite.com/mediasite/Play/4349a47fdb434b54909ef21b5e16a2461d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8903 - Stories from the Alexandria SDN Zone](http://vmware.mediasite.com/mediasite/Play/1e20a17143cc4e388ae51bf734f9dee21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8680R - Advanced NSX Troubleshooting: Tips & Tricks for Experienced Users](http://vmware.mediasite.com/mediasite/Play/34b27aeed38a420a825cc3b659adb4fc1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC9976-SPO - Extending security beyond the SDDC with VMware NSX and Palo Alto Networks VM-Series Virtualized Next-Generation Firewall](http://vmware.mediasite.com/mediasite/Play/f0167b57447747dba19b4bf7885426711d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8131R - NSX for vSphere Logical Routing Deep Dive](http://vmware.mediasite.com/mediasite/Play/0a3de49506224dbeb5946da52eb410791d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC8730 - NSX Security and Micro-segmentation Customer Panel](http://vmware.mediasite.com/mediasite/Play/3af343dbdd93457c94c970367b3931411d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8241 - Monitoring and Troubleshooting NSX with vRealize Network Insight (Arkin)](http://vmware.mediasite.com/mediasite/Play/d7b472a7f03d4c8397162d1d10459d1e1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7834r - Introduction to VMware NSX](http://vmware.mediasite.com/mediasite/Play/c402ca1a52c343d5b04a8faa334f95c01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7944 - NSX Brownfield Deployment Best Practices](http://vmware.mediasite.com/mediasite/Play/c0313a064bf542b5aeaf606a3b12a8ca1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC7568 - Practical NSX Distributed Firewall Policy Creation](http://vmware.mediasite.com/mediasite/Play/5c0dc29cb12443dfae7d7fbb216500351d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8731 - IT Automation with NSX Network Virtualization and Security](http://vmware.mediasite.com/mediasite/Play/36920d43562a4885a1ea9c9b6a12497c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC9968-SPO - Automate Check Point vSEC Advanced Security with NSX](http://vmware.mediasite.com/mediasite/Play/e95ed31bce0f466fbeb7f9056527b4281d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC9618-SPO - Deep Dive:  Extending L4-L7 Security Controls for VMware NSX and VMware Integrated OpenStack (VIO) Environments with Fortinet Next Generation Security](http://vmware.mediasite.com/mediasite/Play/988af0abd8be485aae2a0dbfbd34252c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC9972-SPO - Deep Dive: Secure your multi-tenant cloud with Palo Alto Networks VM-Series and VMware NSX](http://vmware.mediasite.com/mediasite/Play/7ee56c72b4b5486e9bcf46f6c8252f7f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8729 - NSX on Cisco ACI Customer Panel](http://vmware.mediasite.com/mediasite/Play/cc23e77673b041658d735aa3fb52bb411d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7837 - Introduction to Application Continuity with VMware NSX](http://vmware.mediasite.com/mediasite/Play/7d6be96bcebe44fe980248577d5f7fe61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7935 - Container Orchestration and Network Virtualization](http://vmware.mediasite.com/mediasite/Play/7732a31ec13d4546b141ea335c7d0cea1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7656-SPO - Accelerating SDDC through mainstream adoption of network virtualization](http://vmware.mediasite.com/mediasite/Play/d489c66084564197bb75a3de2baaf81f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8193R - The Architectural Future of Network Virtualization](http://vmware.mediasite.com/mediasite/Play/c6dfdf45950148a4a863d2c69a9357c11d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC7836R - Introduction to Security with VMware NSX](http://vmware.mediasite.com/mediasite/Play/14e90fd2ac4645f0825c828ea462304c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7834 - Introduction to VMware NSX](http://vmware.mediasite.com/mediasite/Play/22b7caef355c4d71a978c8a6e35483101d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://vmware.mediasite.com/mediasite/Play/d1864c0c2dbd44f4877426cbb0ea741a1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8675 - The Practical Path to NSX](http://vmware.mediasite.com/mediasite/Play/977ef33d140b48a38f431e8eca81c1d11d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9381 - Operationalizing NSX Customer Panel](http://vmware.mediasite.com/mediasite/Play/b0dddac81176410e9c2088f545b1c3571d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SEC10019 - VMware NSX Micro-segmentation â Definition & Benchmark Deep-Dive](http://vmware.mediasite.com/mediasite/Play/daed4cb24d7c4223a5de4e30e1edb5d61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9152 - VMware NSXâDeep Dive](http://vmware.mediasite.com/mediasite/Play/114e5936fc8e43718fe46977a858fe561d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET10884 - Moving to the next level of the SDDC - a Public Agency introduces VMware NSX, AirWatch, and Palo Alto Networks integration](http://vmware.mediasite.com/mediasite/Play/bc03a57b38a3431887eb7a243858fe351d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9004-QT - Virtually Unstoppable: Scaling NSX to Bridge the Gap between Security & Cloud Automation](http://vmware.mediasite.com/mediasite/Play/9e7222ce67fe4b25a9b2b65080295eea1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET8769-QT - Hyper-convergence in Healthcare:  The Key to Doing More with Less](http://vmware.mediasite.com/mediasite/Play/68142a53f41d48f39d38fe674a7cdd821d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9382-QT - A Software-Defined Data Center in Overseas Bases and Military Operations](http://vmware.mediasite.com/mediasite/Play/a2c8ed946747495598d63248694b5d2f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET7774 - Day Two NSX Operations in VMware's Private Cloud](http://vmware.mediasite.com/mediasite/Play/4526c3e0a7b44e4bac691e1201c094b91d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 ## Software-Defined Data Center – Plan, Build and Operate (54)
 
@@ -925,6 +1185,34 @@ ceabc40)
 [SDDC9176 - How VMware Cloud Foundation powers the IBM Cloud](http://vmware.mediasite.com/mediasite/Play/2d3d0a9bac2a4957a1e98491ae98e3dc1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 [SDDC8994 - Taming the Hydra: IT in a Multi-Cloud World](http://vmware.mediasite.com/mediasite/Play/b6172f9438194d3890603f7d2edd0bea1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC9448-SPO - Donât Let Data Protection Drag Down Your Business Transformation](http://vmware.mediasite.com/mediasite/Play/d573df521a5c451f94478641288b16b41d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[NET9460-SPO - Use Cases for Software Defined Data Center with NSX: Transform to Digital Business by deploying multi-tenant agile network in SDDC environment](http://vmware.mediasite.com/mediasite/Play/4938098bef4a41f4b72dff843d2d69dd1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7819-SPO - Lessons learned to provide secure service assurance for your VMware investments](http://vmware.mediasite.com/mediasite/Play/666102de8b66469ba32267b447dfc7ed1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC9023 - Hyperconverged Infrastructure at Scale with VxRack 1000 SDDC](http://vmware.mediasite.com/mediasite/Play/1ae7e2368b3b4e69bed47c8538e5dba61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC8351 - How VMware Cloud Foundation Makes Your Private Cloud Operation More Efficient](http://vmware.mediasite.com/mediasite/Play/89d7cddc3ffe474d91bd9ebb6221b9f51d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC9404-SPO - Reinventing Disaster Recovery Leveraging Public Cloud Infrastructure](http://vmware.mediasite.com/mediasite/Play/7b75a8850556461ea9f3b85d7141b78d1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7616 - Strategizing Cloud Business Management Using vRealize Business](http://vmware.mediasite.com/mediasite/Play/71f55b21db8e4a8489cb7f610da236fc1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7587 - Software-Defined Networking in VMware Validated Designs](http://vmware.mediasite.com/mediasite/Play/7b2135487e2842abb15d1a2a3043923c1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC8475-QT - A Manager's Guide to the Software-Defined Data Center](http://vmware.mediasite.com/mediasite/Play/0e5c8ea0a864463f9a1cf9ee0eb631b61d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7609-QT - How to Respond to the &quot;Bring Your Own Data Center&quot; Trend](http://vmware.mediasite.com/mediasite/Play/f132f5ab6e2b4cb691635b8224d4c26f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7881-QT - Cloud Service Lifecycle in a DevOps-Focused Delivery Model](http://vmware.mediasite.com/mediasite/Play/a729a1d2332b413b8e328511fe42eabe1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC8945-QT - Learning in the Cloud: VMware Education's New Enterprise Learning Subscription](http://vmware.mediasite.com/mediasite/Play/966c0ee60c614d608cf6a5db42711abf1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC7876-QT - Service Automation Roadmap: Approach and Samples](http://vmware.mediasite.com/mediasite/Play/c6debf9db26a483e8f3dbccd34cfc9851d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+
+[SDDC8024 - VMWorld Hands on Labs Architecture Design](http://vmware.mediasite.com/mediasite/Play/059e4827d6204fd5bc55312756b93b941d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 ## Technology Futures (12)
 

@@ -1,6 +1,6 @@
 # VMworld US 2016 Breakout Sessions Download URLs
 
-Here is a nice summary list of all VMworld US 2016 Breakout session with the respective video download URLs. Enjoy!
+Here is a nice summary list of all VMworld US 2016 Breakout session with the respective video download URLs. You simply just need to right click on the link and "Save As" to download the mp4 file. You can also simply script the download by storing the list of download URLs in a file and using something like cURL or wget. Enjoy!
 
 [INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)
 

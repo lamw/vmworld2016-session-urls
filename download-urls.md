@@ -21,6 +21,30 @@ For those that want a simpler 1-liner that even fits in a tweet, have a look at:
 for i in $(cat urls.txt);do;A=$(echo $i | awk -F ',' '{print $1}');B=$(echo $i | awk -F ',' '{print $2}');curl -o "${A}.mp4" "${B}";done
 ```
 
+For those who prefer PowerShell (works on Windows/Mac and Linux Versions) use the following:
+```console
+$Filelocation = "C:\VMW2016Sessions\raw_download_urls.txt" #Mac/Linux example: "~/VMW2016Sessions/raw_download_urls.txt"
+$SaveLocation = "C:\VMW2016Sessions\" #Mac/Linux example: "~/VMW2016Sessions/"
+$List = Import-CSV $Filelocation -Header "ID", "Link"
+If (Get-Module BitsTransfer -ErrorAction SilentlyContinue) {
+    $Bits=$true
+    Write-Host "Using BITS transfer for faster more reliable downloads"
+}
+
+Foreach ($Session in $List) {
+    if (Test-Path "$($Savelocation)$($Session.ID).mp4") {
+        Write-Host "$($Session.ID) already downloaded... Skipping"
+    } Else {
+        Write-Host "Downloading Session $($Session.ID)"
+        If ($Bits) {
+            Start-BitsTransfer -Source $Session.Link -Destination "$($Savelocation)$($Session.ID).mp4"
+        } Else {
+            Invoke-WebRequest -Uri $Session.Link -OutFile "$($Savelocation)$($Session.ID).mp4"
+        }
+    }
+}
+```
+
 Enjoy! 
 
 [INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)

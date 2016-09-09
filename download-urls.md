@@ -1,6 +1,27 @@
 # VMworld US 2016 Breakout Sessions Download URLs
 
-Here is a nice summary list of all VMworld US 2016 Breakout session with the respective video download URLs. You simply just need to right click on the link and "Save As" to download the mp4 file. You can also simply script the download by storing the list of download URLs in a file and using something like cURL or wget. Enjoy!
+Here is a nice summary list of all VMworld US 2016 Breakout session with the respective video download URLs. You simply just need to right click on the link and "Save As" to download the mp4 file.
+
+If you wish to download this in bulk, I have also published the "raw" download URLs [here](raw_download_urls.txt) which simply just has the VMworld Session ID and the download URL seperate by a comma which should be easier to parse (sorry about that Athony).
+
+Here's a quick script that you can use by passing in the **raw_download_urls.txt** or a subset of that list in a file you create yourself.
+
+```console
+for i in $(cat raw_download_urls.txt);
+do
+  LABEL=$(echo $i | awk -F ',' '{print $1}')
+  URL=$(echo $i | awk -F ',' '{print $2}')
+  curl -o "${LABEL}.mp4" "${URL}"
+done
+```
+
+For those that want a simpler 1-liner that even fits in a tweet, have a look at:
+
+```console
+for i in $(cat urls.txt);do;A=$(echo $i | awk -F ',' '{print $1}');B=$(echo $i | awk -F ',' '{print $2}');curl -o "${A}.mp4" "${B}";done
+```
+
+Enjoy! 
 
 [INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)
 

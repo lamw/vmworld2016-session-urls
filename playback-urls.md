@@ -688,8 +688,7 @@ g=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 ## Hybrid Cloud - vCloud Air Network (25)
 
-[HBC7602 - Build True Hybrid Clouds: See How Service Providers Can Use NSX to Extend Customer On-Premises Data Centers](http://vmware.mediasite.com/mediasite/Play/96426f2874e943648620f75c76c2ce
-431d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
+[HBC7602 - Build True Hybrid Clouds: See How Service Providers Can Use NSX to Extend Customer On-Premises Data Centers](http://vmware.mediasite.com/mediasite/Play/96426f2874e943648620f75c76c2ce431d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
 
 [HBC8474 - Making It Easy to Orchestrate and Automate Your Hybrid Cloud Environment](http://vmware.mediasite.com/mediasite/Play/cecf6cd7e2624f3ca65e7a8f5af88e4e1d?catalog=dbf1ec28-2557-4dd3-a38
 1-e5fe4ceabc40)

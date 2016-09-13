@@ -7,6 +7,7 @@ If you wish to download this in bulk, I have also published the "raw" download U
 Here's a quick script that you can use by passing in the **raw_download_urls.txt** or a subset of that list in a file you create yourself.
 
 ```console
+IFS=$'\n'
 for i in $(cat raw_download_urls.txt);
 do
   LABEL=$(echo $i | awk -F '#' '{print $1}')
@@ -18,7 +19,7 @@ done
 For those that want a simpler 1-liner that even fits in a tweet, have a look at:
 
 ```console
-for i in $(cat urls.txt);do;A=$(echo $i | awk -F '#' '{print $1}');B=$(echo $i | awk -F '#' '{print $2}');curl -o "${A}.mp4" "${B}";done
+IFS=$'\n';for i in $(cat urls.txt);do;A=$(echo $i | awk -F '#' '{print $1}');B=$(echo $i | awk -F '#' '{print $2}');curl -o "${A}.mp4" "${B}";done
 ```
 
 For those who prefer PowerShell (works on Windows/Mac and Linux Versions) use the following:

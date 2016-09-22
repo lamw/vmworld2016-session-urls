@@ -48,1000 +48,994 @@ Foreach ($Session in $List) {
 
 Enjoy!
 
-[CNA7454 - Introduction to Containers as a Service](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c00a93e3-64d8-4672-b049-cc47c9fd57c4.mp4?playbackTicket=6f3679a1b23943179159be66966c874a&site=vmware.mediasite.com)
+[CTO10624-S - Are you ahead of the IoT curve](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/01fae26b-4035-4dd8-b9b9-3fb18b2b49b9.mp4?playbackTicket=1401431908df4903b32a6f82a2e01725&site=vmware.mediasite.com)
 
-[CNA7522 - Containers for the vSphere Admin](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a30fe5bb-d60b-4f33-bd10-3defe6afda99.mp4?playbackTicket=82237a79a3c544108511ff49a9616b4d&site=vmware.mediasite.com)
+[SDDC7808-S - How I Learned to Stop Worrying and Love Consistency: Standardizing Datacenter Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dfafac9a-4f90-4087-8b0b-194c6b495851.mp4?playbackTicket=0c87ec18c19f46daa9447bfb2c12689e&site=vmware.mediasite.com)
 
-[CNA7524 - Photon Platform, vSphere, or Both?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d2d40873-7ad0-4272-b43d-130cbed7587a.mp4?playbackTicket=df41aab82e7e4fa5b402b59f1488b892&site=vmware.mediasite.com)
-
-[CNA7741 - From Zero to VMware Photon Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3c85b6b2-aefa-47c6-ba5c-e7a3e5298f2d.mp4?playbackTicket=999dcc2b104c47d5ab6e88e34d668632&site=vmware.mediasite.com)
-
-[CNA8145 - From Today to ''CNA'': VMware Technologies and DevOps Frameworks as a Service](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e4e498af-e8ce-49d3-8a00-4d205692d12b.mp4?playbackTicket=c946b4f1203e43cf91acf33d55ebe8f4&site=vmware.mediasite.com)
-
-[CNA8313 - Your Open-Source Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1666c675-e776-4d67-82db-135c40e81c49.mp4?playbackTicket=df874e97142b413b908c951811a4b4aa&site=vmware.mediasite.com)
-
-[CNA8578 - VMware Private Cloud and Containers in Production: Lessons Learned from a Real-World Deployment at Retailer Otto](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f3e7ddd3-9397-4bf0-846d-ce83323d80b7.mp4?playbackTicket=9986179cdea649fea4011b4ef0267fbc&site=vmware.mediasite.com)
-
-[CNA8897 - Continuous Integration and Continuous Deployment for Containers: Confidently Promote Your Code into Production](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6e8a6150-3771-428a-b01c-33c01f30366f.mp4?playbackTicket=984e3cb3178448eb8a834a413571394e&site=vmware.mediasite.com)
-
-[CNA8986 - Running Docker on Your Existing Infrastructure with vSphere Integrated Containers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0a23fdc4-ddbf-4e8b-adde-4668538a5c10.mp4?playbackTicket=986e9555de4a499aa664079130f8b7da&site=vmware.mediasite.com)
-
-[CNA8986R - Running Docker on Your Existing Infrastructure with vSphere Integrated Containers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a459cc08-49fd-4487-8697-0a1351f1a054.mp4?playbackTicket=7e2465880ae74238ba6e931854151d41&site=vmware.mediasite.com)
-
-[CNA9993-S - Cloud Native Applications, What it means & Why it matters](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/78332728-0f36-4ad3-a79d-f5af5f1e4904.mp4?playbackTicket=06bb963256e0420780ecb07c8cbc72bd&site=vmware.mediasite.com)
-
-[CNA9994-QT - VMware's Cloud Native Stack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e51cd9b-cf8a-4a81-8a22-a9f7722aab57.mp4?playbackTicket=8dded29111d4425eb5e71b47aa3d4b63&site=vmware.mediasite.com)
-
-[CTO10624-S - Are you ahead of the IoT curve](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/01fae26b-4035-4dd8-b9b9-3fb18b2b49b9.mp4?playbackTicket=db38717da0114311b69eb51628cafa40&site=vmware.mediasite.com)
-
-[CTO7516 - Ask the Experts - Titans of Tech](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5a6e8319-01e7-4e34-b2fa-8fdfcab5a9f3.mp4?playbackTicket=39822286a8a744f8b26bfad6ac62fd92&site=vmware.mediasite.com)
-
-[CTO7942 - Unik: A Platform for Automating Unikernels Compilation and Deployment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e77b2fd4-110f-4db9-a816-ed7acb8ba825.mp4?playbackTicket=5a740f3e771343568ad3153bdf67bdc8&site=vmware.mediasite.com)
-
-[CTO7964 - Cloud Native Buzzwords (Demystified) for Dummies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ecd734f3-6c76-4c6c-afbe-1613fca1a917.mp4?playbackTicket=781f2e6d4cae4ac59e82450cabaf066f&site=vmware.mediasite.com)
-
-[CTO8120 - Debunking the Myths about Virtualizing High Performance Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7addbc86-091d-49b7-bce1-4b82f4d2300b.mp4?playbackTicket=d4b031354cb14faa8b06bff4c2a71f26&site=vmware.mediasite.com)
-
-[CTO8519 - Best of Both Worlds: Achieving Ultra-Low VM Network Latencies and Extreme Bandwidth Without Compromise](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6486a7e1-de71-437e-a245-7aa3a8ca69a6.mp4?playbackTicket=486a03bdc48c490f818df6a8cc02a215&site=vmware.mediasite.com)
-
-[CTO8995-QT - How Do You Manage Security Vs Privacy in IoT Beyond Device Management?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ab81a983-a114-4f53-9a10-1172d4f95007.mp4?playbackTicket=f541761e5df14b898229aa3fd9ac7971&site=vmware.mediasite.com)
-
-[CTO9002-QT - Artificial Intelligence Is the Future of IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a657dff9-c9e6-42de-9feb-d7655a146def.mp4?playbackTicket=ec89a355f59f466882589e51d8258df9&site=vmware.mediasite.com)
-
-[CTO9018 - VMware Internet of Things Strategy; Unveiled](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a36f731f-0772-41cb-87ce-c97451f20aba.mp4?playbackTicket=c49a839423fb4332bd43894e81d7a96f&site=vmware.mediasite.com)
-
-[CTO9032 - Is it Possible to Use NSX to Cut WAN Network Costs in Half?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a9038d55-f8bb-40cc-b70d-ebca41e83845.mp4?playbackTicket=b632de9433da43da89b3740f809c9ee4&site=vmware.mediasite.com)
-
-[CTO9036 - Providing Management Tools for the Emerging IoT Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5239219a-9e26-43f2-afb3-f292203de50f.mp4?playbackTicket=ca7bf6016c414be99eb5d9f0a8c54e1b&site=vmware.mediasite.com)
-
-[CTO9471-SPO - New Capabilities in ONTAP 9 Optimized for All Flash Virtualized Workloads](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b0a4825f-5c93-4b0f-a434-bfc1c47da3f4.mp4?playbackTicket=1d6c669e1e9243ab9f2f77dddde74693&site=vmware.mediasite.com)
-
-[CTO9606 - Open Source as Critical Ingredient in Enterprise Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ec63056a-7995-42a7-a8d3-a339a0c0ec6b.mp4?playbackTicket=05cf07c10f3e4d19a8d4b51835cb74c8&site=vmware.mediasite.com)
-
-[CTO9943 - VMware Chief Technology Officer Panel - Trends and Futures](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/089b2b2c-abb9-4b89-802f-1ae5feafbed5.mp4?playbackTicket=ed037dc25b1747d9b85e95c7d8fbc88b&site=vmware.mediasite.com)
-
-[CTO9951-SPO - What’s Old Is New Again: Next Generation Storage](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d52773e8-b6c5-4523-9113-643a24a4d5b9.mp4?playbackTicket=0bfacfe6fd7d4a8ab6c2617f3b841409&site=vmware.mediasite.com)
-
-[CTO9978-S - Digital Transformation - Technology & Business Futures, A CTO's Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b86cd48c-8ae4-47d9-ae22-9568e05e1450.mp4?playbackTicket=f556b5a31bb84b8084b39412ccffa5c3&site=vmware.mediasite.com)
-
-[CTO9996-SPO - Fortifying the Cloud: What the New Samsung-VMware Partnership Means](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef193cad-b079-4716-882c-bab49e29c035.mp4?playbackTicket=0d2ef66adee24afeac480d7e757a76ad&site=vmware.mediasite.com)
-
-[DEVOP7447 - Redefining Enterprise Resource Planning Using vSphere 6 and Workspace ONE](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b68e46cc-409c-44b5-958e-36175ff360b7.mp4?playbackTicket=61a41bff36e74247aa722f7dda73c1df&site=vmware.mediasite.com)
-
-[DEVOP7674 - vRA, API, CI, Oh My!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d6743640-1d0c-4ef0-849f-bab15f0268dc.mp4?playbackTicket=e74b7e8f817443b4bf35d3ada37f72c4&site=vmware.mediasite.com)
-
-[DEVOP7730 - DevOps Bootcamp Actual](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dff45cf0-51e3-43af-afa0-d9810177f42e.mp4?playbackTicket=520fc0dad5b04834b3d12aac258add7b&site=vmware.mediasite.com)
-
-[DEVOP7788 - Industry Perspective: Enterprise Reality of Doing DevOps](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/602f7c97-9082-4bc4-ada1-6c6afb1f1361.mp4?playbackTicket=56cded200da248c0a2808e3fc74ee1fd&site=vmware.mediasite.com)
-
-[DEVOP7859 - Real-World DevOps Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/26df095b-709e-4221-a6ca-4226bcdf3fb3.mp4?playbackTicket=7ff5d8586d084e1bbc8772fac5004143&site=vmware.mediasite.com)
-
-[DEVOP7915 - Network as Code: DevOps Implications of Programmable Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/451f8d95-0e35-4d4a-9e06-c013217edc05.mp4?playbackTicket=37b33c091cad4d6e86c454d6ef8879c6&site=vmware.mediasite.com)
-
-[DEVOP8630 - Increased Employee Productivity with Enterprise-Grade Security Using VMware IT’s Managed Public Key Infrastructure Service and AirWatch](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/befc6a60-c561-4e7b-8e96-0fd3faa3064c.mp4?playbackTicket=0bf9e1f5caeb4a9ea380aacc570921c0&site=vmware.mediasite.com)
-
-[DEVOP8924 - Building an Actionable Strategy Around DevOps and Platform as a Service (PaaS)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e3282a09-3b57-4119-a7a9-11d156262b62.mp4?playbackTicket=668b7d59b40545a1ab9a6136eac516da&site=vmware.mediasite.com)
-
-[DEVOP8971 - Run a Hybrid Application Across VMware and Google Cloud Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1a9e5995-9f83-4164-8471-94f38d614dc9.mp4?playbackTicket=fbe5ce3907dc415696e8b7cdb165864b&site=vmware.mediasite.com)
-
-[DEVOP9403-SPO - Hacking Your Backups: Making Your Backup Data & Systems Work for You](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52479be8-d8f4-4551-9d8e-0b40dd2a2922.mp4?playbackTicket=968b15e91b1e42b99348011f065f96b0&site=vmware.mediasite.com)
-
-[DEVOP9965-SPO - Implementing DevOps with VMware vRealize and Cisco UCS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/725fe6a3-9cab-449c-afe3-560a589fd8b6.mp4?playbackTicket=7a745aeb7d3d471881561deb07f62d67&site=vmware.mediasite.com)
+[HBC9363-S - Virtualization 2.0: How the Cloud Is Evolving the Modern Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/219e226b-a919-4eb1-8394-0983ca2f8f75.mp4?playbackTicket=b9fb3c61b392401496b318efa6ddd3d3&site=vmware.mediasite.com)
 
 [EUC10682-S - Delivering the Digital Workspace: The Transformation of End-User Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7e7da282-3138-4332-97f6-3b842130fd37.mp4?playbackTicket=0c9fd099666c4634a806d06abba64ee5&site=vmware.mediasite.com)
 
-[EUC7453 - Horizon for Linux Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3e238fd9-4693-485e-b66a-c0a545377032.mp4?playbackTicket=f16834a151ca4cb9b2c6d947949e649e&site=vmware.mediasite.com)
+[CNA9993-S - Cloud Native Applications, What it means & Why it matters](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/78332728-0f36-4ad3-a79d-f5af5f1e4904.mp4?playbackTicket=578b52b458404b539bc10549d0992015&site=vmware.mediasite.com)
 
-[EUC7519 - Access Point: Advances in End-User Computing Remote Access](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5801bd25-a7d3-4122-8aa6-91d609c00a8c.mp4?playbackTicket=43d17a379fa04845ad551f0db552b1ac&site=vmware.mediasite.com)
+[VIRT8612-S - How Travis Credit Union Virtualized Their Systems and Significantly Improved Stability and Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2131953d-b383-4d2a-8328-16c1888f3f86.mp4?playbackTicket=7d52e1144cca471da0eae55b5319a2bf&site=vmware.mediasite.com)
 
-[EUC7562 - Cloud-Hosted Virtual Desktops and Apps: A Technical Deep Dive into Horizon Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dc80c8a-0c33-45ec-b1b1-d0813053258c.mp4?playbackTicket=af83a7bc28af451b955e742d12a454e5&site=vmware.mediasite.com)
+[SDDC8618-S - Introducing VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e0912fd2-aa5a-4144-baf8-a4491af2bf13.mp4?playbackTicket=dd219cffec9f43d9ac0fcd5024dd55d5&site=vmware.mediasite.com)
 
-[EUC7601 - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6dbb3b5-ff86-4071-b6f6-2796cee9af27.mp4?playbackTicket=5624d5fa080d42448639efe7c6f2698d&site=vmware.mediasite.com)
+[CTO9978-S - Digital Transformation - Technology & Business Futures, A CTO's Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b86cd48c-8ae4-47d9-ae22-9568e05e1450.mp4?playbackTicket=766c4411dc934dc6ab0c10167bc8f0b7&site=vmware.mediasite.com)
 
-[EUC7601R - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1fff7498-1519-4a87-adc9-9eda2a63eda2.mp4?playbackTicket=67b2d5b9585a4a2ebd51b1881e7382b3&site=vmware.mediasite.com)
+[INF9947-S - Spotlight on vSphere: Today, Tomorrow, and Beyond](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d6fa026-80f4-4879-ab77-b14866636186.mp4?playbackTicket=f078c3cc070b4bab83cc0a9726199694&site=vmware.mediasite.com)
 
-[EUC7611 - User Environment Manager 9: Do It Fast, Do It Right, Do It Big!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/465fdb6d-2db1-49c5-b21d-5761066447cc.mp4?playbackTicket=5b80a1fd7a7e4cef8529de6f0637e9b2&site=vmware.mediasite.com)
+[SDDC9035-S - SDDC and Hyperconverged has Arrived â Get on Board!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/16009f16-157c-494c-83db-c36344096943.mp4?playbackTicket=54ef80291c494817bf8b893c719dfe53&site=vmware.mediasite.com)
 
-[EUC7644R - Unify Endpoint Management Across Mobile and Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dba82114-36af-4b2a-95b8-180e151ade94.mp4?playbackTicket=be2eddc4ba8c474b84fced9cccc9acc3&site=vmware.mediasite.com)
+[STO9424-S - Taking HCI Mainstream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/192fe167-453f-4961-b241-df10a01f9202.mp4?playbackTicket=36ca166ab0fb460cbcc15de43eb4fb7b&site=vmware.mediasite.com)
 
-[EUC7644R - Unify Endpoint Management Across Mobile and Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff9b9d5c-3dca-41b2-ab2c-7c42ea7672d1.mp4?playbackTicket=b63eba89e6c54985b5ce13cc02946c4a&site=vmware.mediasite.com)
+[INF8396 - Winter Is Coming. Are You Dev/Ops Ready? Instant Clone Is!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1414f2a7-ffa3-41b5-bcd4-75c2af91c84c.mp4?playbackTicket=cd6f76e7b8e041e09d0e3152ad60d6ca&site=vmware.mediasite.com)
 
-[EUC7678 - Real-World Examples Using App Volumes, User Environment Manager, Mirage, and vRealize Operations to Deliver Complete Desktop, App, and User Management and Monitoring](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/551f1099-059e-40cc-9a54-23e515b78e1c.mp4?playbackTicket=72b34153b4744762babf80f381dc8cab&site=vmware.mediasite.com)
+[INF8755R - Troubleshooting vSphere 6: Tips and Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2e2bb9f5-1de5-4bf4-9489-d9d71cb49a83.mp4?playbackTicket=42dde2c1a0ae4dc888d82a60465add7d&site=vmware.mediasite.com)
 
-[EUC7797 - How to Manage Personal Settings with App Volumes and ThinApp](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/345bb591-6ea5-4abf-b74f-6326b60e96ab.mp4?playbackTicket=ab18cd429c8743ddbdd5527094baac86&site=vmware.mediasite.com)
+[INF8845 - vSphere Logs Grow Up! Tech Preview of Actionable Logging with vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/07b71600-0b14-42a3-a516-16704a61407e.mp4?playbackTicket=2b776340099e44d2886c166fd2a3ed41&site=vmware.mediasite.com)
 
-[EUC7799 - Design Horizon the Easy Way with Help from the Horizon Sizing Estimator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0751d0e8-46b0-472b-9c04-9ede3e382b87.mp4?playbackTicket=a895efe1eee6431d9ad649a4437eb194&site=vmware.mediasite.com)
+[INF8038r - Getting Started with PowerShell and PowerCLI for Your VMware Environment (Copy)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d06701d-6bd1-44c8-be5f-94b0ba8ab40f.mp4?playbackTicket=2e4d48add02c457994d046d22b5046d6&site=vmware.mediasite.com)
 
-[EUC7856 - Solve Your Citrix Problems with VMware Technologies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/920db7a3-ccba-44e7-87bd-12b1b93f569d.mp4?playbackTicket=568ba40e672943e3899fe241d4a0c26d&site=vmware.mediasite.com)
+[INF8631 - VMware Certificate Management for Mere Mortals](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0875c252-9193-4999-967a-b89d71ceafb8.mp4?playbackTicket=2859d6d48bd64dc7a8b20043e0e6c516&site=vmware.mediasite.com)
 
-[EUC7870 - VMware's Solution Strategy on Mobility’s Evolution to Internet of Things into 2016 and Beyond](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c87ab1e1-d61a-4953-8911-727c2b99c86c.mp4?playbackTicket=7a88e694380a49c38203107c91ed81e6&site=vmware.mediasite.com)
+[INF8374 - Zero Downtime, 20K+ VMware vSphere 6 Upgrade](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/32cdada2-55ef-403c-a276-52b0fd97b861.mp4?playbackTicket=9e71f1d5b6ce47c4a02a74e647b37871&site=vmware.mediasite.com)
 
-[EUC7888 - Why Siemens Uses High-Performance Desktops with VMware Horizon and Nvidia GRID vGPU](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e72851aa-58c4-4460-b904-68a539c6951d.mp4?playbackTicket=0385a4052ad34b1a9e8a610d43dec13d&site=vmware.mediasite.com)
+[MGT8040 - Turning Up the Noise: How VMware's Private Cloud Team Is Getting Closer to the Heartbeat of Its Infrastructure, Billions of Events at a Time](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4e300c36-f458-4ffa-978d-fa17470b1857.mp4?playbackTicket=c949b1645df24b11973aa552bd79c2a3&site=vmware.mediasite.com)
 
-[EUC7995 - Enterprise Mobility Automation using Software Defined Data Center (SDDC): Role-based Desktop and infrastructure provisioning](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cac0cea1-25e9-43ee-a38a-535f585f3366.mp4?playbackTicket=35c73c1a55554b83b0e2a2706ecccff8&site=vmware.mediasite.com)
+[INF8379 - Virtualization 101](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/93da5bc3-3dd3-443a-81f7-1d580b3d8c52.mp4?playbackTicket=58e58de8cc31443cb8c201b523cba63d&site=vmware.mediasite.com)
 
-[EUC7998 - The Latest in High-Performance Desktops and Applications with  Horizon 7, Blast Extreme Protocol,  and NVIDIA GRID vGPU](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/24ffd9ea-2f2b-482c-8950-d9a117c0a5c0.mp4?playbackTicket=e5a2f5feec18426494cf58603e98dd4f&site=vmware.mediasite.com)
+[INF8251 - vSphere Host Fabric: Why It Matters to You?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80fa3989-6846-446a-89d6-4c29c49043be.mp4?playbackTicket=b53b9529d3474838bf7e85db5449a959&site=vmware.mediasite.com)
 
-[EUC8160 - Discover AirWatch: Enterprise Mobility Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1ce83258-307d-4813-a9a4-4a1c47fb4b78.mp4?playbackTicket=ee7868fa38b64011a9147a73e10bd0fe&site=vmware.mediasite.com)
+[INF8108 - Extreme Performance Series: vCenter Performance Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51ff8ada-1fd4-402c-8648-79c640e6c5cd.mp4?playbackTicket=a1515917368e4f7296d4aa3fc34fa4df&site=vmware.mediasite.com)
 
-[EUC8160r - Discover AirWatch: Enterprise Mobility Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7cefde1a-fe78-46b5-9bf3-7d976f8fcc80.mp4?playbackTicket=05535258b4cd475f94a39a205e29f8bd&site=vmware.mediasite.com)
+[INF8045 - vSphere High Availability Best Practices and Tech Preview](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52a4b2b1-5c3b-4eec-89cf-2839cb1d1d5e.mp4?playbackTicket=e0cbbb6d85804723ba32a6bff201c1d0&site=vmware.mediasite.com)
 
-[EUC8203 - Beyond the Marketing: Horizon Instant Clones Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9b6f6f52-5dfa-4fa3-8dc8-f6d51e98f586.mp4?playbackTicket=cd18357f14ea422783ba57707658b9fd&site=vmware.mediasite.com)
+[INF8375 - What's New with vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80d4642c-9da5-45de-bc0d-414139f72c7a.mp4?playbackTicket=fb7b9dfeed4a407da4a24b278c46f029&site=vmware.mediasite.com)
 
-[EUC8243R - Troubleshooting 101 for Horizon](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8a2493b-71cd-4671-9dca-bfd0807770f5.mp4?playbackTicket=7aea1b18c55441f9a3094cc94b7b3fc7&site=vmware.mediasite.com)
+[INF8371 - How Did the Private Cloud Transform VMware IT?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/130b3d4a-2847-43ef-a006-1cf2618c4f96.mp4?playbackTicket=b2aed1ac3a9a4be2aa7df8a252952a05&site=vmware.mediasite.com)
 
-[EUC8243R - Troubleshooting 101 for Horizon](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a1effcaa-ae5e-481f-9d06-58d29be1928d.mp4?playbackTicket=352ea96818a8406aa8c717f4a7f11a66&site=vmware.mediasite.com)
+[INF9144 - Through the Looking Glass:  An Overview of the vCenter Server Appliance Management Interface and API](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/849650f4-893a-44cb-8051-a65f02f5c892.mp4?playbackTicket=2b42b59ed9e84392853c7f61e66e541c&site=vmware.mediasite.com)
 
-[EUC8345 - Mobilizing and Modernizing Government IT to Advance Missions: The Secure Digital Workspace for Government](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9968bd24-8546-482d-b9ba-2bc1990ece46.mp4?playbackTicket=3789ba3ac58a42a4ab1b5bf6060336a6&site=vmware.mediasite.com)
+[MGT9997-SPO - How to Automate Cloud Operations with vRealize and NSX Featuring Lessons Learned from Deluxe Corpâs Transformation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6e8217e6-de61-4fe4-bab6-1173d531c231.mp4?playbackTicket=ea88545d35ba43e191b66bafeaa1bbb7&site=vmware.mediasite.com)
 
-[EUC8346 - Modernizing and Mobilizing Retail IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d4bc8d91-2cd0-43f0-993d-769d62815ef3.mp4?playbackTicket=2815513b529944fba0e9648678f49f0e&site=vmware.mediasite.com)
+[INF8858 - vSphere Identity: Multifactor Authentication Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fba352fa-976b-4391-a406-afb4e650932f.mp4?playbackTicket=22bd214d0b9249008d2f4cd7c868e483&site=vmware.mediasite.com)
 
-[EUC8392 - Untethered Yet Secure: Technical Deep Dive on Using Horizon FLEX to Manage VMware Workstation Player and VMware Fusion Pro](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9bce471a-b9fb-4ae6-a220-5e011b345662.mp4?playbackTicket=0e667f351aa5444c89a793ac3efbed37&site=vmware.mediasite.com)
+[INF8683 - Understanding the Role SNMP Agents Play in a vSphere Stack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/896be611-932c-46e2-a864-bab90d7908a2.mp4?playbackTicket=585640bd44284c7386127b843dff4278&site=vmware.mediasite.com)
 
-[EUC8404 - What's New with Horizon 7](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a23fe748-0d10-43c4-aa4e-32a754dd94a6.mp4?playbackTicket=e14800125fd54e639affdb2e55c00800&site=vmware.mediasite.com)
+[INF9048 - An Architect's Guide to Designing Risk: The VCDX Methodology](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cc8a552-e12b-4701-b52d-6b35dafc21ee.mp4?playbackTicket=ccf22346dbdc4a4ba767e8de777a6745&site=vmware.mediasite.com)
 
-[EUC8437 - Workspace ONE’s Secure App Token System (SATS) for Mobile Single Sign-On explained](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/aa848ed6-6904-404f-8cac-3350767eceba.mp4?playbackTicket=98e90347d7c2453da93afd5272c8e1c1&site=vmware.mediasite.com)
+[INF8469 - iSCSI/iSER: HW SAN Performance Over the Converged Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1ac81c00-a233-479f-a457-b2d4330979a6.mp4?playbackTicket=cd78762441584ad1b2c4d35572ed51e7&site=vmware.mediasite.com)
 
-[EUC8441 - End-to-End Security for End-User Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f972d8b3-6167-482f-82a9-72ea1107a807.mp4?playbackTicket=f517c64893084e7788a0af4c9e644978&site=vmware.mediasite.com)
+[INF9089 - Managing vCenter Server at Scale? Here's What You Need to Know](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d92dafa-054d-44aa-8722-91749035c509.mp4?playbackTicket=6d89c773f7524e4f953f239b5e1a154f&site=vmware.mediasite.com)
 
-[EUC8521 - The Future of VMware Fusion and Workstation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/426732dd-6b9f-42b5-ace2-a480c6947905.mp4?playbackTicket=6a5bfa31fc7b48559be53410ba61a930&site=vmware.mediasite.com)
+[INF8250 - Case Study: Using vCloud Suite to monitor Global operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/87e2cf5f-b458-4e41-91b9-980c6c8442b4.mp4?playbackTicket=5843dc5045394c5e888d3ceaa407c78f&site=vmware.mediasite.com)
 
-[EUC8584 - vRealize Operations: The Authoritative Source for Monitoring and Reporting for Horizon and Citrix XenApp Deployments on vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6bdf625-2bb7-42bc-a996-9a220a87af4e.mp4?playbackTicket=e77bd6886cd4461cbdb6bdbba04718b7&site=vmware.mediasite.com)
+[INF9608-SPO - How to Use Machine Learning to Increase Application Availability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dce78c7-e4ff-40a2-b53c-5f5dfe3aee3d.mp4?playbackTicket=f6a6a30a992c4eadac0906200c201940&site=vmware.mediasite.com)
 
-[EUC8589 - Best Practices for Effectively Planning and Implementing BYOD Programs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae245971-c6a5-4e2d-a4f4-4f85831e3944.mp4?playbackTicket=b3465ef407914fc1a82e82d8d7d3ae5a&site=vmware.mediasite.com)
-
-[EUC8605 - Next-Generation Mobile Productivity with Workspace ONE Apps](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/302fee13-a6fa-4c47-ab0e-0deeb22c056f.mp4?playbackTicket=2969f8fa75d8476a88f8e2583fa1ea55&site=vmware.mediasite.com)
-
-[EUC8648R - Architecting VSAN for Horizon the VCDX Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/889c34d2-5e13-464d-8c21-221d3d869f96.mp4?playbackTicket=60ded63da4834224824252de13ac20ff&site=vmware.mediasite.com)
-
-[EUC8648R - Architecting VSAN for Horizon the VCDX Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8511e61a-b3b4-48e5-a0fd-e3fa562a2417.mp4?playbackTicket=21350825a4cd4d1f8f777ac85c6d17d1&site=vmware.mediasite.com)
-
-[EUC8670 - Your Digital Workspace: How to Plan, How to Start](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b451012c-7040-450f-b346-4731125316a1.mp4?playbackTicket=330e75e64961443d97a5cbe60b67f3da&site=vmware.mediasite.com)
-
-[EUC8725 - Everything You Need to Know About Horizon Remote Desktop Services Hosted Applications (But Probably Do Not)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d23d478-06ea-4e5b-b874-b01ccf6d5dfd.mp4?playbackTicket=9d19e86367fc4081a8acc3741ee025c3&site=vmware.mediasite.com)
-
-[EUC8745 - Under the Hood with Identity Manager and Office 365](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/56941882-36db-4144-ba46-3ef6f9c471cd.mp4?playbackTicket=fa5a8d83856f4de0b90f35c9d20c8665&site=vmware.mediasite.com)
-
-[EUC8784-SPO - Architecting Highly Available, Scalabe and Resilient Enterprise Mobility & Desktop/Application Solutions](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bfab2dd5-02ef-4ff4-8065-05cc2f14d541.mp4?playbackTicket=b84a9f58618c4211a327718b8151be6b&site=vmware.mediasite.com)
-
-[EUC8822 - Case Study: Large-Scale Deployment of VMware App Volumes and User Environment Manager for 10,000 Seats](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/333badbf-1f4c-4ebb-964b-cb49b90e6e3b.mp4?playbackTicket=8602d5a1e0034e3b83669d6c14583cb6&site=vmware.mediasite.com)
-
-[EUC8853 - Taking Back the Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/67a58451-7ada-4136-b115-c43e7db21415.mp4?playbackTicket=b29cc43d816e4fd9a3a34a51b6a9404b&site=vmware.mediasite.com)
-
-[EUC8938 - Limitless Learning: Leveraging VMware Technology to Provide a Digital Learning and Working Environment for Every Student and All Faculty and Staff](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2c9d47f7-c4db-4509-b8f0-ddc90df7392c.mp4?playbackTicket=8a633aa37bea42d5b4566929e9e5af48&site=vmware.mediasite.com)
-
-[EUC8990 - CSC Hyper-Productive Digital Workplace](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/42287088-fb98-46a8-97b2-6e02f72cdf1b.mp4?playbackTicket=163cd9d5516f4aef9ba04ae380a60dbc&site=vmware.mediasite.com)
-
-[EUC9139 - NSX and Horizon Reference Design: Secure End-User Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a14c5bf-dc3a-44eb-9128-5373d9cee5ee.mp4?playbackTicket=57c9fb88cb74469facd92d8c474eb712&site=vmware.mediasite.com)
-
-[EUC9160 - Secure Digital Workspace of the Future: Embracing the Opportunities Presented by Enterprise Mobility in Financial Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/758a3a0b-2c40-4ba7-8bf4-a6e35056ba08.mp4?playbackTicket=d2b179e797be4e54954855f92bedeb35&site=vmware.mediasite.com)
-
-[EUC9179 - Introducing Horizon Air Hybrid Mode: Low-Cost, Simplified Virtual Desktop and Application Deployment and Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4a4e16fa-61bd-46b4-b451-f3db2851327c.mp4?playbackTicket=a352b8bad1374dcc8ee6b23cb0573cfd&site=vmware.mediasite.com)
-
-[EUC9217 - On-Premises Workloads with Cloud-Based Management: Technical Deep Dive into Horizon Air Hybrid Mode](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/09a96be4-52a3-4e8b-b03e-15b93dc25c3f.mp4?playbackTicket=17d468486ad64bcdb6353af060b55355&site=vmware.mediasite.com)
-
-[EUC9386 - What’s new with Workspace ONE: Identity meets Mobility](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d8d5f67-6515-4e9c-aac3-6b2cc895f0f1.mp4?playbackTicket=07de557c3b5f450c9abded95c8a4287d&site=vmware.mediasite.com)
-
-[EUC9387 - Deployment Best Practices for VMware Identity Manager](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2b083f40-2cf1-477a-998c-7409584245e5.mp4?playbackTicket=52ff60042ff84b358bb0a13923cbed8b&site=vmware.mediasite.com)
-
-[EUC9388 - Customer Panel: How Enterprises Are Using VMware Identity Manager to Enable Their Users to Be Productive on Any Device, Anywhere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d8f728a4-bfe8-4cbd-8c5c-784b6a74bc47.mp4?playbackTicket=b95b34d78e3943cab0a33f19d91b323f&site=vmware.mediasite.com)
-
-[EUC9389 - What Is VMware Workspace ONE?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6980f296-5b3a-48ed-b653-211d9c56ac57.mp4?playbackTicket=4adf7e1217ba42b4bb68324a237e473c&site=vmware.mediasite.com)
-
-[EUC9390 - Securing Against Cyber Attacks from Datacenter to Device](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca1ca96c-439e-4879-8cbe-2adba1a32723.mp4?playbackTicket=049a31c79d824158b2fdaf2d8a1939bb&site=vmware.mediasite.com)
-
-[EUC9391 - Managing Windows in a Modern Mobile-Cloud Framework](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/705317fd-7db1-4c27-942d-a50cceefa3ec.mp4?playbackTicket=0a2ba01109904b238f07979689467780&site=vmware.mediasite.com)
-
-[EUC9392 - Expand Your Enterprise Mobility Strategy with VMware and the AirWatch Partners](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3cdeaa04-4ff3-45aa-8aa7-f7d87786a5a4.mp4?playbackTicket=68c4e843ef624baf959cd2be7c603dee&site=vmware.mediasite.com)
-
-[EUC9393 - Real-time Endpoint Visibility and Control with VMware TrustPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/695a0ed4-494d-40db-b04f-70337e4c5f71.mp4?playbackTicket=13877def51cc467f88486923355199d2&site=vmware.mediasite.com)
-
-[EUC9394 - Horizon Air and Interconnecting the Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/58c631da-fd14-41bd-bf09-522c23b6168d.mp4?playbackTicket=2093402acc944bd2a20ee7847aef67ea&site=vmware.mediasite.com)
-
-[EUC9451-SPO - Preventing Attacks on Mobile Devices using AirWatch Integration with Palo Alto Networks](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/47bdb86a-ffb3-4698-bf1c-81c4d3de11ad.mp4?playbackTicket=6e802a2fdba5445782e6b73f92d1f4ad&site=vmware.mediasite.com)
-
-[EUC9469-SPO - Scale, Efficiency and Data Management for EUC solutions with NetApp](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0f441738-4956-4143-a512-5303f8ae6ca0.mp4?playbackTicket=01c2460e620041eabc663c5ad6d60a9a&site=vmware.mediasite.com)
-
-[EUC9610-SPO - Optimize Storage Infrastructure for Horizon Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3b9e9aa7-9370-4154-93a3-6ebc250e4157.mp4?playbackTicket=0463d2bc1a2642339f1db8200a0c36a6&site=vmware.mediasite.com)
-
-[EUC9970-SPO - 0-70 with Horizon 7](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0fbcf7e1-009d-4ffc-914f-886253b97157.mp4?playbackTicket=c1d9d1c9b42d49d7aad902e8d804130c&site=vmware.mediasite.com)
-
-[EUC9992 - Ask the Experts: Practical Tips and Tricks to Help You Succeed in EUC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0332e1ad-b459-41e1-abf8-a25209832c01.mp4?playbackTicket=d8ce8d7503b54adbbdab2791cbc0c8ad&site=vmware.mediasite.com)
-
-[HBC10703-QT - Top Tips for Moving to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/753561a7-293f-4b03-937e-62d8fef159a3.mp4?playbackTicket=87593b796e684f1bb0522a167652caff&site=vmware.mediasite.com)
-
-[HBC10704-QT - Backups to the cloud - Leverage the cloud for Business Continuity](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d373172-3f12-4322-ad14-453619b57d9c.mp4?playbackTicket=efa9a1cb469348beb078ff388ca6ead5&site=vmware.mediasite.com)
-
-[HBC10827-SPO - Ensure Success of Hybrid Cloud with Amazon Web Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a749a3ab-4c94-4f7b-abcb-f160de2023d2.mp4?playbackTicket=cc32fa5e2b434dd19c5dbce8a8da85e6&site=vmware.mediasite.com)
-
-[HBC7602 - Build True Hybrid Clouds: See How Service Providers Can Use NSX to Extend Customer On-Premises Data Centers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/38d02c53-daf4-4e0c-bcbf-b66890345119.mp4?playbackTicket=1f2fa1c819614e32b52a9020bfed560d&site=vmware.mediasite.com)
-
-[HBC7646 - St. John's University Leverages vCloud Air Disaster Recovery for Its Critical ERP System, Banner](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9931795e-75c4-4278-844a-4e81e1589523.mp4?playbackTicket=468e8827ab3e4c8eb656f9ebc69f9c07&site=vmware.mediasite.com)
-
-[HBC7661-QT - Generate Revenue with vSphere Optimization Assessment (VOA) for Service Providers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d2d85af5-7f02-408e-8222-f9ae4e5a46c6.mp4?playbackTicket=9226025e741d4a51a1f598acdcbe971e&site=vmware.mediasite.com)
-
-[HBC7830 - Virtualize, Secure, and Extend Your Data Center to the Cloud Using NSX: A Perspective for Service Providers and End Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96ab1fa7-4fb1-432c-a333-6077482f653d.mp4?playbackTicket=27004bf1acee4baa8551ac6b6545474b&site=vmware.mediasite.com)
-
-[HBC7928 - Introduction to vCloud Air Networking and Security Portfolio: A Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/72693426-caa8-4829-888e-eac837f33266.mp4?playbackTicket=1b5414fddeee46c4ab4d8fc82b304420&site=vmware.mediasite.com)
-
-[HBC7943 - Designing a Data Center in the Cloud: A vCloud Air Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/12653315-3309-48f4-8e56-30767992e382.mp4?playbackTicket=e9141375973d45efbe89295aa940ac48&site=vmware.mediasite.com)
-
-[HBC7948 - Extending Your Data Center to vCloud Air in Less than 60 Minutes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a4ca518f-da7f-4103-a0c7-5efcfcd619b4.mp4?playbackTicket=59545fed27f24300a74caec90936e739&site=vmware.mediasite.com)
-
-[HBC7954 - Implementing Hybrid Cloud with VMware vCloud Air and NSX: A Closer Look](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ebef739a-a48c-4c29-829e-08943179e525.mp4?playbackTicket=fe9f24acc07e47de83461853d13ad4ee&site=vmware.mediasite.com)
-
-[HBC7999 - VMware Availability for VCAN: Native vSphere Replication](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/025a6455-130f-4542-b0ca-3f9f3191c798.mp4?playbackTicket=51ba220a7a51431c96782631b03e190d&site=vmware.mediasite.com)
-
-[HBC8046-QT - Customer Onboarding with VMware NSX L2VPN Service for VMware vCloud Air Network](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d632a06b-7662-4524-845f-4350274c1778.mp4?playbackTicket=49c38c7de0cb476aa52fe8fc47dc4c00&site=vmware.mediasite.com)
-
-[HBC8292 - vCloud Air Recovery as a Service (RaaS) Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/75913957-404b-4b52-a877-1a224fac9ed4.mp4?playbackTicket=ce5978bc8558436c9ab62a6be1e89710&site=vmware.mediasite.com)
-
-[HBC8295 - The VMware Journey to Cloud with vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f9598f6b-9b50-4f5a-a4bb-ac2c5ed72d08.mp4?playbackTicket=10a8e53a53374bbbba1c5cbbd160c340&site=vmware.mediasite.com)
-
-[HBC8312 - Maintaining Regulatory Compliance in the Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/06d347aa-aac9-4df8-a124-4544d9888e29.mp4?playbackTicket=6cc163c1456f4d3f99890544fe5a93e4&site=vmware.mediasite.com)
-
-[HBC8474 - Making It Easy to Orchestrate and Automate Your Hybrid Cloud Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/799aec9e-91f7-424e-bcd3-5292e896d295.mp4?playbackTicket=b26570f655f844619b389991c5fba1aa&site=vmware.mediasite.com)
-
-[HBC8484 - Data Sovereignty and Compliance Automation In The Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4b42e505-08e0-4fec-b301-da013525f163.mp4?playbackTicket=d5acd6fad7394da1b1c24733614eb82f&site=vmware.mediasite.com)
-
-[HBC8491 - Deep Dive: VMware on IBM Cloud Validated Design](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2d098a0a-d6b4-43f1-b95f-e9011497d904.mp4?playbackTicket=bb3bb59e8119480ead7608adb32c74f0&site=vmware.mediasite.com)
-
-[HBC8503 - Taking VDI and Published Application Environments to the Next Level with App Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3c07d192-efa6-41cf-8625-670210ef8037.mp4?playbackTicket=1ea5d02f7df844a49ef18f9d54ee2c01&site=vmware.mediasite.com)
-
-[HBC8504 - Have It Your Way: Hybrid Cloud Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d006204-6f3e-44fe-b6c0-01dff52f1885.mp4?playbackTicket=c894bf7d020845cdbe46f68a501ea877&site=vmware.mediasite.com)
-
-[HBC8617 - Seamless Security and Compliance in a Hybrid Cloud Architecture](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4668f565-aa7c-4d04-9219-fa3f2011ea13.mp4?playbackTicket=31142db0dc7c4358af9dd4f02aafb783&site=vmware.mediasite.com)
-
-[HBC8799 - How OVH, vCloud Air Network Service Provider, Is Using NSX to Easily Onboard Workloads to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/91183f3f-781d-4c55-b60e-f0f5b55468a6.mp4?playbackTicket=478b096b14f94859a09b5aaa42ba1a43&site=vmware.mediasite.com)
-
-[HBC8805 - Extend Your Data Center to the Cloud: A Real-World Example](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7106079c-72a7-4bc4-a587-b90f6651198a.mp4?playbackTicket=b937bc05f285498db4252509f530a847&site=vmware.mediasite.com)
-
-[HBC8861 - Getting the Most Out of Your Hybrid Cloud Service Provider](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8bb37f93-6ecb-4c56-b4ac-fd8ef1217b15.mp4?playbackTicket=8a20b877950c49c782b9325e6af5fb54&site=vmware.mediasite.com)
-
-[HBC8915 - SLED and Cloud: Is Cost Containment the Right Question?  Yes and No](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/79227b2a-7fd1-4bcc-80e7-b5879832f0d7.mp4?playbackTicket=a63458cdc3ac447eaf165a1f437e641f&site=vmware.mediasite.com)
-
-[HBC8952 - vCloud Air Design Patterns for Design, Implementation, and Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d6a0dad-c682-4206-b611-ecd00d37e0ed.mp4?playbackTicket=9719bc88235c4826b97605c68bcee27c&site=vmware.mediasite.com)
-
-[HBC9065 - Better Together: vRealize Automation and vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5ce767de-b2df-44ab-bf07-1df96e80670e.mp4?playbackTicket=a8070002ba5248fbbbabf3b8165ca5a0&site=vmware.mediasite.com)
-
-[HBC9092 - vCloud Air: Advanced Networking Concepts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a1f6d3d-9236-47fc-afd3-fdc163ece69a.mp4?playbackTicket=89472b87e55d40e582be247817477d67&site=vmware.mediasite.com)
-
-[HBC9111 - vRealize Operations and vCloud Air: Monitoring Your Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8c7643e-51a5-4c95-901f-00f21ef427df.mp4?playbackTicket=737a6c4819e74971878d764be4946d13&site=vmware.mediasite.com)
-
-[HBC9164 - Modernizing Healthcare IT with the Public Cloud, Your Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/aa5252bd-f68e-479d-ba82-511a81ad36c2.mp4?playbackTicket=4443d69a92fd4c7d9b7ce1e5ad783bac&site=vmware.mediasite.com)
-
-[HBC9171 - Intercontinental vMotion with Purpose](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a2cbb462-5e27-4897-836d-0b3f009f2d59.mp4?playbackTicket=b9d24c50b77d44cf8f3d397643b7deb8&site=vmware.mediasite.com)
-
-[HBC9185 - How to Connect Your On-Premises Data Center to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f6ee960d-55a7-4f01-8e70-0154aa64975f.mp4?playbackTicket=2d3b49c4afe542228423af7f82c6a80d&site=vmware.mediasite.com)
-
-[HBC9363-S - Virtualization 2.0: How the Cloud Is Evolving the Modern Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/219e226b-a919-4eb1-8394-0983ca2f8f75.mp4?playbackTicket=b4543b71729948389128e4e615f74427&site=vmware.mediasite.com)
-
-[HBC9401 - Whats New with vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f53efd07-a26c-472d-bed0-ba09e4183c97.mp4?playbackTicket=f75d6bd6faaa4249bd2a84a95f31b3d9&site=vmware.mediasite.com)
-
-[HBC9453-SPO - Achieving New Levels of Cloud Efficiency over vSphere based Hyper-Converged Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a59122b8-3952-4ee1-81a9-781184008646.mp4?playbackTicket=992858558346419f8d1af289721f48f6&site=vmware.mediasite.com)
-
-[HBC9463-SPO - Data Protection as a service for your vCloud Director environment with Veeam](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1d161f6-d86c-4f51-bd4b-a0ac96dd163a.mp4?playbackTicket=611fd61f02914478a206bc4a7d541aa3&site=vmware.mediasite.com)
-
-[HBC9611-SPO - OnApp: your hybrid cloud delivered](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d345739-6ad9-46b1-a9c2-596f1935def3.mp4?playbackTicket=c1d9a7bc69ca42a2b7747162b9beb18f&site=vmware.mediasite.com)
-
-[HBC9949-SPO - Hybrid Cloud: Automated and validated VMware deployments on IBM Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4797fd28-6cbe-4ba0-8f2f-04d837ff4a45.mp4?playbackTicket=9d754c8137fe4ace964fb88cdaa99516&site=vmware.mediasite.com)
-
-[INF7578 - A Cloud Service Provider's Success Story: Adoption of vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ec08d346-515b-40dc-89d2-c6e22e94ad5d.mp4?playbackTicket=22d023275ffb4367bd247b697198e834&site=vmware.mediasite.com)
-
-[INF7818 - Take Virtualization to the Next Level](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c3681486-24d1-4bd3-9fd3-2a0d54f2f8d4.mp4?playbackTicket=ae1dba1986f74d219c7f91809136a7cf&site=vmware.mediasite.com)
-
-[INF7825 - vSphere DRS and vRealize Operations: Better Together](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/972faeb8-cae6-4cd4-85ae-8d5ddca1388e.mp4?playbackTicket=38a1cbd238eb4ff1aecc8ef9dfbbb573&site=vmware.mediasite.com)
-
-[INF7827 - vSphere DRS Deep Dive: Understanding the Best Practices, Advanced Concepts, and Future Direction of DRS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e665824-de61-4007-80c0-6752f6e1f626.mp4?playbackTicket=bba75249951546c88b7bbd5e1bca866d&site=vmware.mediasite.com)
-
-[INF8036 - Enforcing a vSphere Cluster Design with PowerCLI Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6ba959a6-9220-4524-b886-4a48df46d36d.mp4?playbackTicket=3541cf9b61e44d9fb14339c8ffee546e&site=vmware.mediasite.com)
-
-[INF8038 - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6c26b53f-53b8-45d5-8215-395edf199814.mp4?playbackTicket=c48df70e802846ddaa86953056928701&site=vmware.mediasite.com)
-
-[INF8038r - Getting Started with PowerShell and PowerCLI for Your VMware Environment (Copy)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d06701d-6bd1-44c8-be5f-94b0ba8ab40f.mp4?playbackTicket=28160f8e25354e548d3477f45e53253e&site=vmware.mediasite.com)
-
-[INF8038r - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3e0c884f-e6aa-4a0c-84f0-995603b60b53.mp4?playbackTicket=2cc0c118630b4c829845f84cab36d9db&site=vmware.mediasite.com)
-
-[INF8045 - vSphere High Availability Best Practices and Tech Preview](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52a4b2b1-5c3b-4eec-89cf-2839cb1d1d5e.mp4?playbackTicket=14c457aa9bab4a3d8c0ad416da225676&site=vmware.mediasite.com)
-
-[INF8089 - Extreme Performance Series: vSphere Compute and Memory](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7ecb27d4-9fe7-44b6-9bc2-8b96206693fb.mp4?playbackTicket=41d26c88f5f44a2a8e311bc6901297c0&site=vmware.mediasite.com)
-
-[INF8092 - The Power Hour: Deep Dive, DevOps, and New Features of PowerCLI](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4022bd26-efd7-4db0-a63e-9d62dfd006f8.mp4?playbackTicket=252d03958cd4485a8e13e6969a9bafdb&site=vmware.mediasite.com)
-
-[INF8097 - Production Is Down and So Are My Tools: Meeting Infrastructure High Availability by Deploying an Out-of-Band Management Cluster, A Customer Evolution](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a782976f-139c-42b9-9eb4-764c5676fe23.mp4?playbackTicket=73ce22eeeffc45a8997444532fc2b1b4&site=vmware.mediasite.com)
-
-[INF8108 - Extreme Performance Series: vCenter Performance Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51ff8ada-1fd4-402c-8648-79c640e6c5cd.mp4?playbackTicket=725207a831c44b96b2098fe740dba361&site=vmware.mediasite.com)
-
-[INF8117 - Why Fiserv Deployed Auto Deploy and Why You Should as Well](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bd847eff-60cf-44c3-aea9-ea05333ed432.mp4?playbackTicket=66355b148b3d422d9a37524e4fa60487&site=vmware.mediasite.com)
-
-[INF8122 - A Storage Story: Capacity Management and Performance Planning for Storage Systems in vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c0c3db6d-a0b6-4a93-8a36-0c2c1aaa19a0.mp4?playbackTicket=3dd9857cb53f4c2fb9971b40c02f916b&site=vmware.mediasite.com)
-
-[INF8225 - The vCenter Server and Platform Services Controller Guide to the Galaxy](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3fc56ead-c735-436b-9f49-de699335b666.mp4?playbackTicket=244b6e8412274704846d3d86d1abe40b&site=vmware.mediasite.com)
-
-[INF8250 - Case Study: Using vCloud Suite to monitor Global operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/87e2cf5f-b458-4e41-91b9-980c6c8442b4.mp4?playbackTicket=dc964bd8cd974459b196b88705bd8808&site=vmware.mediasite.com)
-
-[INF8251 - vSphere Host Fabric: Why It Matters to You?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80fa3989-6846-446a-89d6-4c29c49043be.mp4?playbackTicket=45ff1fe3f72040a7b80cbedc340bc9be&site=vmware.mediasite.com)
-
-[INF8255 - Evolving the vSphere API for the Modern Era](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fa25d2c4-fc32-43b4-bb5c-c2767bf10b7c.mp4?playbackTicket=7e46e6866fcb48bbaaebe6f25221bafc&site=vmware.mediasite.com)
-
-[INF8260 - Automated Deployment and Configuration of the vCenter Server Appliance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b5edbdd6-355e-410e-857a-c6aeb77772cf.mp4?playbackTicket=0e7cb962ec654bcaab94bd6a4db424d9&site=vmware.mediasite.com)
-
-[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c3b67aa0-0279-4f47-8368-ca559c477884.mp4?playbackTicket=ed31cba2991d4d6bb5512bdb24550d29&site=vmware.mediasite.com)
-
-[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/77da8677-e828-4330-a148-b536b3dc1038.mp4?playbackTicket=a24288738ed843128f7c833a14669e73&site=vmware.mediasite.com)
-
-[INF8277-QT - Dear IT, You Can Be a Strategic Partner to Your Business. Let me help. Yours Truly, vSphere with Operations Management.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/242ae00e-ad21-46d2-b947-6a1d6a16f385.mp4?playbackTicket=b186b56673ef4676b9e4cc7ef644095d&site=vmware.mediasite.com)
-
-[INF8371 - How Did the Private Cloud Transform VMware IT?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/130b3d4a-2847-43ef-a006-1cf2618c4f96.mp4?playbackTicket=1fe7eea13a2c414ca973a0be3d41c09a&site=vmware.mediasite.com)
-
-[INF8374 - Zero Downtime, 20K+ VMware vSphere 6 Upgrade](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/32cdada2-55ef-403c-a276-52b0fd97b861.mp4?playbackTicket=a91e24dc530f43daa6cb73cd23b2bcee&site=vmware.mediasite.com)
-
-[INF8375 - What's New with vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80d4642c-9da5-45de-bc0d-414139f72c7a.mp4?playbackTicket=d09857c73fec485b8e8a80b1ae1a6226&site=vmware.mediasite.com)
-
-[INF8379 - Virtualization 101](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/93da5bc3-3dd3-443a-81f7-1d580b3d8c52.mp4?playbackTicket=4132321a7cd94898a8e7d0fc5e3db94c&site=vmware.mediasite.com)
-
-[INF8396 - Winter Is Coming. Are You Dev/Ops Ready? Instant Clone Is!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1414f2a7-ffa3-41b5-bcd4-75c2af91c84c.mp4?playbackTicket=18edae3e3ca54dc194d1ce30bd64f48b&site=vmware.mediasite.com)
-
-[INF8430 - vSphere 6.x Host Resource Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1eb2cc67-845c-4e0f-a99b-a48e2838c638.mp4?playbackTicket=64c78bf4511547a685010d05faaa9157&site=vmware.mediasite.com)
-
-[INF8459 - VMware Security: How to Meet Your Compliance Objectives Using Cool Technology](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/97816611-dc29-4787-968f-0e02609bbaf9.mp4?playbackTicket=3e2722d6f5da4abe955fa758943730e2&site=vmware.mediasite.com)
-
-[INF8465 - Extreme Performance Series: Power Management's Impact on Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c0ab1291-d2b5-4a8c-805c-034b99e12911.mp4?playbackTicket=b11c29daf85642f6a01a4a2a81017b19&site=vmware.mediasite.com)
-
-[INF8469 - iSCSI/iSER: HW SAN Performance Over the Converged Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1ac81c00-a233-479f-a457-b2d4330979a6.mp4?playbackTicket=5c77c4e28ccb458e93a08b1289e9fe01&site=vmware.mediasite.com)
-
-[INF8516-QT - VMware Security: The Whole Is Greater than the Sum of Parts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a3d798c2-1e61-4d71-98bc-fe8715b37e95.mp4?playbackTicket=57e53a58407c43bbab57f44698dc7879&site=vmware.mediasite.com)
-
-[INF8540-SPO - Say Yes to vRA and vRO in a Real-World Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/485b49c9-7428-411f-bded-d80dee1739bc.mp4?playbackTicket=262a3ad47a724409bb9b662ee5a73930&site=vmware.mediasite.com)
-
-[INF8553 - The Nuts and Bolts of vSphere Resource Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/441d46cf-46a9-43e8-94ac-b43871205fbe.mp4?playbackTicket=b4dedc703de34a39929191c0626b12b0&site=vmware.mediasite.com)
-
-[INF8631 - VMware Certificate Management for Mere Mortals](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0875c252-9193-4999-967a-b89d71ceafb8.mp4?playbackTicket=8187664f2fd24872a25f2db67b1cb361&site=vmware.mediasite.com)
-
-[INF8644 - Getting the Most out of vMotion: Architecture, Features, Performance and Debugging](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7efd9285-c17e-4bad-8086-184e8f8a379d.mp4?playbackTicket=ad9734d5d8cc45e8b7c0c2b6ada810e8&site=vmware.mediasite.com)
-
-[INF8663 - The Making of a Legend-Dairy Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/92835196-98e6-48c7-8c7c-189fc011ad7e.mp4?playbackTicket=3a9bfa66d0234af8afecc819e255efcb&site=vmware.mediasite.com)
-
-[INF8683 - Understanding the Role SNMP Agents Play in a vSphere Stack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/896be611-932c-46e2-a864-bab90d7908a2.mp4?playbackTicket=47ebc11c93d148f2bee6b47cb04f4d95&site=vmware.mediasite.com)
-
-[INF8755R - Troubleshooting vSphere 6: Tips and Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2e2bb9f5-1de5-4bf4-9489-d9d71cb49a83.mp4?playbackTicket=1f352f5ed28a42af923dab4106ede563&site=vmware.mediasite.com)
-
-[INF8755R - Troubleshooting vSphere 6: Tips and Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f91f2373-4041-464f-a6d3-c8e5fd14be8f.mp4?playbackTicket=75eae08bed734117b5fbf255eb4dc855&site=vmware.mediasite.com)
-
-[INF8780R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 1: CPU and RAM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/26a2ed3a-0923-4b30-86e7-2f2ff0d7a7d0.mp4?playbackTicket=b381fa7e7feb4955ab6f41cfd212328c&site=vmware.mediasite.com)
-
-[INF8780R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 1: CPU and RAM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0f7b9a5f-e1b6-419f-8478-20e17766eb9a.mp4?playbackTicket=e09f7ab68cae4324b4439b17eb53cafd&site=vmware.mediasite.com)
-
-[INF8845 - vSphere Logs Grow Up! Tech Preview of Actionable Logging with vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/07b71600-0b14-42a3-a516-16704a61407e.mp4?playbackTicket=f40a62c31ef6467398a0d737c3eedd8f&site=vmware.mediasite.com)
-
-[INF8850 - vSphere Platform Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/248ea383-bc5e-4cf8-8ff1-0cb30f4700d7.mp4?playbackTicket=36d95e313848401f8de37a7ba2a53215&site=vmware.mediasite.com)
-
-[INF8858 - vSphere Identity: Multifactor Authentication Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fba352fa-976b-4391-a406-afb4e650932f.mp4?playbackTicket=1e6e5d36e65a4c798eb5a8584781975a&site=vmware.mediasite.com)
-
-[INF8939 - Virtual Machine and Application Protection Demystified](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a47bb7b8-484f-4bdd-9115-9cb6bb86edb0.mp4?playbackTicket=4d4254c6c8d34b1eb4317b67b122d938&site=vmware.mediasite.com)
-
-[INF8959 - Extreme Performance Series: DRS Performance Deep Dive—Bigger Clusters, Better Balancing, Lower Overhead](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1649510-b8f7-40c7-b9aa-df5ae530afa6.mp4?playbackTicket=567140be25d24c3fb8f74cd6207026de&site=vmware.mediasite.com)
-
-[INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)
-
-[INF9048 - An Architect's Guide to Designing Risk: The VCDX Methodology](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cc8a552-e12b-4701-b52d-6b35dafc21ee.mp4?playbackTicket=60f41f24149b4ffa848661ddc6a54270&site=vmware.mediasite.com)
-
-[INF9083 - Ask the vCenter Server Experts Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cfecf036-2439-43e9-962e-837f194aea55.mp4?playbackTicket=43bf24884e57422cbfcf0461383faa35&site=vmware.mediasite.com)
-
-[INF9089 - Managing vCenter Server at Scale? Here's What You Need to Know](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d92dafa-054d-44aa-8722-91749035c509.mp4?playbackTicket=763fd7264be5402780cdbb7c387b5478&site=vmware.mediasite.com)
-
-[INF9144 - Through the Looking Glass:  An Overview of the vCenter Server Appliance Management Interface and API](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/849650f4-893a-44cb-8051-a65f02f5c892.mp4?playbackTicket=a5d8119a1b8a4179836f3cbcc2827d6a&site=vmware.mediasite.com)
-
-[INF9151 - Getting to Zero: Zero Downtime, Zero Data Loss with vSphere Fault Tolerance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/10afe696-10aa-454a-a088-4549715fdbaf.mp4?playbackTicket=30552f8b08e44dafbcc61c149a555ab2&site=vmware.mediasite.com)
-
-[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8a9b1309-a70b-4f1f-b87d-a58247c65bb1.mp4?playbackTicket=cff579537ba9434487dc2acef52a54d7&site=vmware.mediasite.com)
-
-[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1e0bef8-9d01-4d01-8f77-d33d4e6acbc3.mp4?playbackTicket=67f38777838e47059ad826d138ecccac&site=vmware.mediasite.com)
-
-[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2161de5-790a-484f-a931-435ef9f33fe0.mp4?playbackTicket=a5776a718a5f410b917b80242f361fd4&site=vmware.mediasite.com)
-
-[INF9455-SPO - Best Practices for All-Flash Data Reduction Arrays with VMware vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f376add-dc21-4a54-bc33-677791e0484c.mp4?playbackTicket=1951f848dee84fa38014effc856adde4&site=vmware.mediasite.com)
-
-[INF9608-SPO - How to Use Machine Learning to Increase Application Availability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dce78c7-e4ff-40a2-b53c-5f5dfe3aee3d.mp4?playbackTicket=3aa785ac2e404a26a2d322a299bafe7a&site=vmware.mediasite.com)
-
-[INF9944R - What's New with vCenter Server](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b5b5b563-4599-4226-8216-dab3d82f8ad2.mp4?playbackTicket=435ccd93c3dc49e39075451eba44c42b&site=vmware.mediasite.com)
+[MGT8884 - Our SDDC Journey - See how SDDC transformed IT in just 12 months and changed how we think about âautomationâ at Johnson & Johnson IT.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cbf0bfd-4caa-49d3-8804-44eb61cf0d67.mp4?playbackTicket=20a714d2fae644e3955e2d4bb6602ef9&site=vmware.mediasite.com)
 
 [INF9944R - What's New with vCenter Server](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5b06226a-d1fc-475b-bf2a-d79edaa1fd77.mp4?playbackTicket=d5e68f2337284e6d9d2b7e70debdb2ff&site=vmware.mediasite.com)
 
-[INF9947-S - Spotlight on vSphere: Today, Tomorrow, and Beyond](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d6fa026-80f4-4879-ab77-b14866636186.mp4?playbackTicket=1510ef6411274e5dba548d81f8953f60&site=vmware.mediasite.com)
+[INF8939 - Virtual Machine and Application Protection Demystified](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a47bb7b8-484f-4bdd-9115-9cb6bb86edb0.mp4?playbackTicket=eeace88905e24538a8943e093586d5c2&site=vmware.mediasite.com)
 
-[INF9991-QT - vSphere Web Client Plug-in Certification Program](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1af38b2f-cf0d-45c4-8d59-a440142856a5.mp4?playbackTicket=6af6b6c1a34046f9a78e73cd6ffd31b8&site=vmware.mediasite.com)
+[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8a9b1309-a70b-4f1f-b87d-a58247c65bb1.mp4?playbackTicket=565ab45dd2574ffc8ceb045e52af6033&site=vmware.mediasite.com)
 
-[MGT7629R - 360-Degree Troubleshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1b18cd73-1a3a-4a40-904a-a38c318ee006.mp4?playbackTicket=8a50aa36118e4c02916bb196bc308e18&site=vmware.mediasite.com)
+[INF8117 - Why Fiserv Deployed Auto Deploy and Why You Should as Well](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bd847eff-60cf-44c3-aea9-ea05333ed432.mp4?playbackTicket=042bf7f98aae4f0e8fa58214872f8714&site=vmware.mediasite.com)
 
-[MGT7629R - 360-Degree Troubleshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/66c85e14-7271-4af5-97ae-c3b5723f4984.mp4?playbackTicket=ec067c89adc5429a900649097c4fa89e&site=vmware.mediasite.com)
+[INF8959 - Extreme Performance Series: DRS Performance Deep DiveâBigger Clusters, Better Balancing, Lower Overhead](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1649510-b8f7-40c7-b9aa-df5ae530afa6.mp4?playbackTicket=f87ceebafd0544c59cb738947f86550c&site=vmware.mediasite.com)
 
-[MGT7671 - What's New in VMware Integrated OpenStack Version 3.0!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/57f8f101-cd2b-4052-9f8e-b310d94a0ea1.mp4?playbackTicket=b196232713e84dc8a65aa20b51d6b898&site=vmware.mediasite.com)
+[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1e0bef8-9d01-4d01-8f77-d33d4e6acbc3.mp4?playbackTicket=ac5d58f3ff9342358dcb3682006dfab0&site=vmware.mediasite.com)
 
-[MGT7685R - Insight into the World of Logs with VMware vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/25044a08-8221-4c08-b257-158ee0c8e9f2.mp4?playbackTicket=256d1f3a950e46e08cdcbd5dc562bbcd&site=vmware.mediasite.com)
+[INF8780R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 1: CPU and RAM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/26a2ed3a-0923-4b30-86e7-2f2ff0d7a7d0.mp4?playbackTicket=471a7b7aac7543fea2303469f1dfe231&site=vmware.mediasite.com)
 
-[MGT7685R - Insight into the World of Logs with VMware vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef81101b-8ac3-432e-ac60-ef6b83a5b33b.mp4?playbackTicket=1ddacfbd297247cb8890c3b9c2c9c37c&site=vmware.mediasite.com)
+[MGT8714-SPO - Creating Automated Self-Service Data Protection with Rubrik and vRealize Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8fade289-f6b9-47ab-9dc8-a6b2d31f7fa5.mp4?playbackTicket=ff298b74bd14488882f37d5a8d698656&site=vmware.mediasite.com)
 
-[MGT7713 - Intelligent IT Operations Management from Infra to Apps, On-Premises and in The Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ad09d498-3d1c-403c-8a99-030c80ce424d.mp4?playbackTicket=eb30f51a31b8486a9509841431517cee&site=vmware.mediasite.com)
+[INF8644 - Getting the Most out of vMotion: Architecture, Features, Performance and Debugging](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7efd9285-c17e-4bad-8086-184e8f8a379d.mp4?playbackTicket=7b1068ced5d04811bccd55112188899f&site=vmware.mediasite.com)
 
-[MGT7718 - The KISS of vRealize Operations!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/57b0df04-2a8f-4d72-b468-1f553af4a721.mp4?playbackTicket=d4b4f68fa8fc4fe787f732fa01a40952&site=vmware.mediasite.com)
+[INF8097 - Production Is Down and So Are My Tools: Meeting Infrastructure High Availability by Deploying an Out-of-Band Management Cluster, A Customer Evolution](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a782976f-139c-42b9-9eb4-764c5676fe23.mp4?playbackTicket=e1aab11890234186854885bb149b6aec&site=vmware.mediasite.com)
 
-[MGT7737 - Intelligent Operations Management: A Customer Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/95268c27-2a95-4d78-b215-17e46517017a.mp4?playbackTicket=817c30789d7240d79ffef161b860ac5a&site=vmware.mediasite.com)
+[INF8122 - A Storage Story: Capacity Management and Performance Planning for Storage Systems in vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c0c3db6d-a0b6-4a93-8a36-0c2c1aaa19a0.mp4?playbackTicket=62b0616702884847b034a672fd940866&site=vmware.mediasite.com)
 
-[MGT7751 - A Technical Deep Dive into VMware Integrated OpenStack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f412aace-2825-4442-8c32-1791f9a73372.mp4?playbackTicket=4b91167a51a34f8fa0dec9ca52bc47fe&site=vmware.mediasite.com)
+[INF8038r - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3e0c884f-e6aa-4a0c-84f0-995603b60b53.mp4?playbackTicket=00238dcffbbb4f73abc2bc3c187041d8&site=vmware.mediasite.com)
 
-[MGT7751R - A Technical Deep Dive into VMware Integrated OpenStack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/31a9a081-27ea-406b-b18d-795534077f0c.mp4?playbackTicket=9adeb135615a4d708cbbc03a07ac7bd2&site=vmware.mediasite.com)
+[INF7818 - Take Virtualization to the Next Level](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c3681486-24d1-4bd3-9fd3-2a0d54f2f8d4.mp4?playbackTicket=18552e3fde1b4978bac9cabe6f7ef96d&site=vmware.mediasite.com)
 
-[MGT7770 - Virtual SAN Management – Time to Level Up Your Ops Game!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8c014e7-debb-44d8-a257-fb6d3c14e4d8.mp4?playbackTicket=55b27f3862bc438ab1cbd997217637b8&site=vmware.mediasite.com)
+[INF7825 - vSphere DRS and vRealize Operations: Better Together](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/972faeb8-cae6-4cd4-85ae-8d5ddca1388e.mp4?playbackTicket=7a89c5929c83489bbe0c2ab56365d516&site=vmware.mediasite.com)
 
-[MGT7782-QT - Automating Resource Reclamation in the Modern Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f32d79f9-5b42-4875-a1dd-e27fb913ab4e.mp4?playbackTicket=da381919e90540478e93275c50a082d7&site=vmware.mediasite.com)
+[MGT7713 - Intelligent IT Operations Management from Infra to Apps, On-Premises and in The Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ad09d498-3d1c-403c-8a99-030c80ce424d.mp4?playbackTicket=caf6c2545b2f4f438da9da4733c31894&site=vmware.mediasite.com)
 
-[MGT7804 - Container Management with vRealize Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/53af543f-d537-42a2-ab25-44c520c412e3.mp4?playbackTicket=569d8141b9fc44eba4428239d16b5506&site=vmware.mediasite.com)
+[INF8459 - VMware Security: How to Meet Your Compliance Objectives Using Cool Technology](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/97816611-dc29-4787-968f-0e02609bbaf9.mp4?playbackTicket=80dafa32e7364ebba7d5a7c93b11b412&site=vmware.mediasite.com)
 
-[MGT7878 - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/607168d1-d433-4bc2-9c56-65fdda283d92.mp4?playbackTicket=f9aa05885ce747ae83f98ac52ebf7a2c&site=vmware.mediasite.com)
+[INF9151 - Getting to Zero: Zero Downtime, Zero Data Loss with vSphere Fault Tolerance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/10afe696-10aa-454a-a088-4549715fdbaf.mp4?playbackTicket=c17fe53eba0443239678c5639e047a36&site=vmware.mediasite.com)
 
-[MGT7878r - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment (Copy)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f59a5194-5d66-4e50-8aca-1464801e3ef8.mp4?playbackTicket=2a82d461e36a44009a5ca14311bc0b24&site=vmware.mediasite.com)
+[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c3b67aa0-0279-4f47-8368-ca559c477884.mp4?playbackTicket=5707603244d74f0d82eb2691fb363823&site=vmware.mediasite.com)
 
-[MGT7899 - Whose Hand Is in the Cookie Jar? Reducing the Mean Time to Innocence Using vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9aa1417e-fb35-4e49-a7fc-e49f736d6c24.mp4?playbackTicket=1a27735b5a2d41d0bfd0bd6b7706325e&site=vmware.mediasite.com)
+[MGT7878r - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment (Copy)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f59a5194-5d66-4e50-8aca-1464801e3ef8.mp4?playbackTicket=5d75b0a82b9a4de882c782f2589f344c&site=vmware.mediasite.com)
 
-[MGT7924 - vRealize Operations Capacity Explained](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8df89b89-613d-4ecf-b105-0f5548b4995c.mp4?playbackTicket=70039aabbdd74697b7aea03397585467&site=vmware.mediasite.com)
+[INF8465 - Extreme Performance Series: Power Management's Impact on Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c0ab1291-d2b5-4a8c-805c-034b99e12911.mp4?playbackTicket=c40153d54c744695b2ff44495411cb65&site=vmware.mediasite.com)
 
-[MGT8040 - Turning Up the Noise: How VMware's Private Cloud Team Is Getting Closer to the Heartbeat of Its Infrastructure, Billions of Events at a Time](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4e300c36-f458-4ffa-978d-fa17470b1857.mp4?playbackTicket=73fe00bddcf04b4486af0cb28c8c7886&site=vmware.mediasite.com)
+[INF9455-SPO - Best Practices for All-Flash Data Reduction Arrays with VMware vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f376add-dc21-4a54-bc33-677791e0484c.mp4?playbackTicket=255652f45a5d40fb9db4c5baa626d4a4&site=vmware.mediasite.com)
 
-[MGT8080 - vRealize Reference Architecture: Design, Deploy, and Realize Value at High Speed and Amaze Your Customers!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7bdbd96d-3bda-4c18-84aa-fdacd8feb6a7.mp4?playbackTicket=2076b47bbcca475aaede2b643a08ec71&site=vmware.mediasite.com)
+[INF8275R - How to Manage Health, Performance, and Capacity of Your Virtualized Data Center Using vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/77da8677-e828-4330-a148-b536b3dc1038.mp4?playbackTicket=15d1dbe5d24b4b4e95741ceedd2e99ea&site=vmware.mediasite.com)
 
-[MGT8084 - Hybrid Cloud Case study: City of New York Self-Provisioning Gateway 2.1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ed5da4fe-d8f5-4fd6-a5fa-923c04db8c4a.mp4?playbackTicket=f36a7c2fc1534f4c824d0d51814d3230&site=vmware.mediasite.com)
+[INF8553 - The Nuts and Bolts of vSphere Resource Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/441d46cf-46a9-43e8-94ac-b43871205fbe.mp4?playbackTicket=244d020c1e9d404cadc62a62075724c0&site=vmware.mediasite.com)
 
-[MGT8085 - Save Time With Everything and Anything as a Service (XXXAAS) using vRealize Automation (vRA)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/206c7998-f064-4fdb-8fca-26aa8ca5a0ec.mp4?playbackTicket=9116a3d5eb0e4d2e8627c0f18f655677&site=vmware.mediasite.com)
+[INF9205R - Troubleshooting vSphere 6 Made Easy: Expert Talk](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2161de5-790a-484f-a931-435ef9f33fe0.mp4?playbackTicket=ab37c8b1763740e2a1d9b9232663c3a1&site=vmware.mediasite.com)
 
-[MGT8332 - How I Learned to Stop Worrying and Love the vRealize Automation API](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/77be32ea-8175-4cb0-b638-4337b92868f4.mp4?playbackTicket=6cc36b9bb6194cd1affe14675da79bb6&site=vmware.mediasite.com)
+[INF7578 - A Cloud Service Provider's Success Story: Adoption of vSphere with Operations Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ec08d346-515b-40dc-89d2-c6e22e94ad5d.mp4?playbackTicket=355269147f16419f895a16c52179dc03&site=vmware.mediasite.com)
 
-[MGT8355-QT - Tutorial: Build a data-driven story around capacity planning using VMware vRealize® Operations™ and third-party Management Packs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f0b3de0f-fcc4-4b25-a595-479987b8df61.mp4?playbackTicket=31dfe42d276a4e018d365018cceceb8f&site=vmware.mediasite.com)
+[INF8663 - The Making of a Legend-Dairy Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/92835196-98e6-48c7-8c7c-189fc011ad7e.mp4?playbackTicket=16837fe1c89f49519c4f9d5f60cb6655&site=vmware.mediasite.com)
 
-[MGT8439 - Lessons Learned from EMC IT's Data Center Evolution](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abdb85ef-c635-4d99-b99b-be0cc2470498.mp4?playbackTicket=fb39a0d9050a4c2498ed92be5301021f&site=vmware.mediasite.com)
+[INF8260 - Automated Deployment and Configuration of the vCenter Server Appliance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b5edbdd6-355e-410e-857a-c6aeb77772cf.mp4?playbackTicket=2fe5f96a8efd420da47383fb4011489a&site=vmware.mediasite.com)
 
-[MGT8486 - NSX Operations with vRealize Suite](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a02aac83-8f99-46ee-b845-bc7ff2d9598b.mp4?playbackTicket=684f2e3870af4d179de576523a788926&site=vmware.mediasite.com)
+[MGT7878 - Using vRealize Suite for Endpoint Monitoring in a Multicloud Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/607168d1-d433-4bc2-9c56-65fdda283d92.mp4?playbackTicket=99e111908a6e4bf69ddc54cabd14fd4c&site=vmware.mediasite.com)
 
-[MGT8499 - Moving to Infrastructure as Code: How Fannie Mae Is Managing the SDDC with the vRCS Management Pack (aka Project Houdini)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/39c21296-ef06-400c-8d13-3ce4c0da8e2a.mp4?playbackTicket=3ec440c0a3234c6692044423d0ae482c&site=vmware.mediasite.com)
+[INF9944R - What's New with vCenter Server](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b5b5b563-4599-4226-8216-dab3d82f8ad2.mp4?playbackTicket=dfbad81565a04a309c05f64e2ffaa08c&site=vmware.mediasite.com)
 
-[MGT8543 - Simpler Extensibility in vRealize Automation 7.0 with the Event Broker](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ccfa56d7-b98d-4904-b14d-70fdca584e6d.mp4?playbackTicket=bfaf199274514a84ad26167d6e0c1acb&site=vmware.mediasite.com)
+[INF8850 - vSphere Platform Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/248ea383-bc5e-4cf8-8ff1-0cb30f4700d7.mp4?playbackTicket=36d95e313848401f8de37a7ba2a53215&site=vmware.mediasite.com)
 
-[MGT8641R - A Lot of Insight and No PowerPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c84773f2-c8df-45a4-ad6b-e5391348a700.mp4?playbackTicket=85e59105d60e48d480329853f6319f73&site=vmware.mediasite.com)
+[INF8780R - vSphere Core 4 Performance Troubleshooting and Root Cause Analysis, Part 1: CPU and RAM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0f7b9a5f-e1b6-419f-8478-20e17766eb9a.mp4?playbackTicket=6793fef4f4784be69402b69e760f8862&site=vmware.mediasite.com)
 
-[MGT8641R - A Lot of Insight and No PowerPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96abe8b8-77dc-4dbd-8b56-e2b77711a6df.mp4?playbackTicket=60bb801ef4ce44efabd098acb8625971&site=vmware.mediasite.com)
+[MGT8439 - Lessons Learned from EMC IT's Data Center Evolution](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abdb85ef-c635-4d99-b99b-be0cc2470498.mp4?playbackTicket=135416efa6a54936a143155a94845744&site=vmware.mediasite.com)
 
-[MGT8714-SPO - Creating Automated Self-Service Data Protection with Rubrik and vRealize Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8fade289-f6b9-47ab-9dc8-a6b2d31f7fa5.mp4?playbackTicket=6db2a66451f0492c8658771dc927cb63&site=vmware.mediasite.com)
+[INF8277-QT - Dear IT, You Can Be a Strategic Partner to Your Business. Let me help. Yours Truly, vSphere with Operations Management.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/242ae00e-ad21-46d2-b947-6a1d6a16f385.mp4?playbackTicket=dc69a46d45004254b283cc261edcd0dd&site=vmware.mediasite.com)
 
-[MGT8733R - Application Self-Service with On-Demand Networking & Security from vRealize Automation and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e2c595c5-4ae1-4136-8860-b5f2c51ceb19.mp4?playbackTicket=c7722ce8e43b4cd68da425d14fb314c6&site=vmware.mediasite.com)
+[INF8516-QT - VMware Security: The Whole Is Greater than the Sum of Parts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a3d798c2-1e61-4d71-98bc-fe8715b37e95.mp4?playbackTicket=6fb31db4982d4d98b1694330bd424e78&site=vmware.mediasite.com)
 
-[MGT8733R - Application Self-Service with On-Demand Networking & Security from vRealize Automation and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/68f928aa-795e-4a40-a87c-c7c4cad4dc41.mp4?playbackTicket=4aa4b4e2f22e4810b22f4bd29f9fac2b&site=vmware.mediasite.com)
+[MGT8543 - Simpler Extensibility in vRealize Automation 7.0 with the Event Broker](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ccfa56d7-b98d-4904-b14d-70fdca584e6d.mp4?playbackTicket=28c48c177cd24c3caff3dad640802f45&site=vmware.mediasite.com)
 
-[MGT8751-QT - Be the IT Hero of Your Company and Discover How to Save Thousands of Dollars by Reclaiming Underutilized CPU, Memory, and Disk Resources](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fb6cfd29-e101-47e6-8e7d-3c3f515b59e7.mp4?playbackTicket=45ecf4e42b0549d6b660e690f4167321&site=vmware.mediasite.com)
+[MGT7770 - Virtual SAN Management â Time to Level Up Your Ops Game!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8c014e7-debb-44d8-a257-fb6d3c14e4d8.mp4?playbackTicket=5478b218e44e4fe0bdfa3ddde3f5ba7d&site=vmware.mediasite.com)
 
-[MGT8762 - How to Set Up a Multicloud IT Portal to Deploy, Manage, and Control Applications on Private and Public Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e6ab72b-430d-4a3b-9468-27151330576e.mp4?playbackTicket=1ae5356d12584890b288fb2d976a5b81&site=vmware.mediasite.com)
+[MGT7751R - A Technical Deep Dive into VMware Integrated OpenStack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/31a9a081-27ea-406b-b18d-795534077f0c.mp4?playbackTicket=286423a42fc74f14a9c22ecf156077b7&site=vmware.mediasite.com)
 
-[MGT8763 - 3 Best Practices for IT to Enable Developers to Deploy on Amazon and Azure While Ensuring Security and Accountability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/02a5f93e-1703-4dbb-9ecc-5a21a5acb411.mp4?playbackTicket=5e925cee38b04f84954812210da4158d&site=vmware.mediasite.com)
+[MGT8080 - vRealize Reference Architecture: Design, Deploy, and Realize Value at High Speed and Amaze Your Customers!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7bdbd96d-3bda-4c18-84aa-fdacd8feb6a7.mp4?playbackTicket=83ed543690eb4d7f82ba288f8c099774&site=vmware.mediasite.com)
 
-[MGT8766 - How IT Can Enable DevOps and Development Teams to Rapidly Deliver and Iterate Robust Applications in a Multicloud Environment including VMware, AWS, Azure and Softlayer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4eab316d-ace5-4486-a642-84e4c5811671.mp4?playbackTicket=bbedbcf47d2a43dab2f2c4d2728de560&site=vmware.mediasite.com)
+[MGT7751 - A Technical Deep Dive into VMware Integrated OpenStack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f412aace-2825-4442-8c32-1791f9a73372.mp4?playbackTicket=ca809a0c22ca4fe8830e264f97f739e6&site=vmware.mediasite.com)
 
-[MGT8768 - How TIAA Uses an API-Centric Cloud Management Platform to Allow Applications to Be Easily Deployed and Managed on Both Public and Private Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/df16125c-cf55-4f70-b1f0-d34ec077ab71.mp4?playbackTicket=2d01c435a61f4bc290dc1ade07c30aa8&site=vmware.mediasite.com)
+[MGT7685R - Insight into the World of Logs with VMware vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/25044a08-8221-4c08-b257-158ee0c8e9f2.mp4?playbackTicket=641f2e104c5549c392d836cec111fed5&site=vmware.mediasite.com)
 
 [MGT8770 - Managing Microsoft Azure with the vRealize Suite](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e3475598-2380-4bde-9a5d-59b4e843902d.mp4?playbackTicket=107b94cbf88d4a4a8641e6e3ce9fd521&site=vmware.mediasite.com)
 
-[MGT8807 - What's New in vRealize Code Stream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9002ce06-d69a-4dc3-bc32-648d1c0b9634.mp4?playbackTicket=48ae659614354ac9b8d0d4e3eb6cfd95&site=vmware.mediasite.com)
+[MGT8641R - A Lot of Insight and No PowerPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96abe8b8-77dc-4dbd-8b56-e2b77711a6df.mp4?playbackTicket=1e1e42f36ba042ffa506b94833c15559&site=vmware.mediasite.com)
 
-[MGT8831 - Digital Transformation Through VMware DevOps Code Stream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/53468bae-c764-4a76-a765-7c975389a135.mp4?playbackTicket=07713e49428e44adb5b4510662e13d49&site=vmware.mediasite.com)
+[MGT8085 - Save Time With Everything and Anything as a Service (XXXAAS) using vRealize Automation (vRA)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/206c7998-f064-4fdb-8fca-26aa8ca5a0ec.mp4?playbackTicket=9116a3d5eb0e4d2e8627c0f18f655677&site=vmware.mediasite.com)
 
-[MGT8884 - Our SDDC Journey - See how SDDC transformed IT in just 12 months and changed how we think about “automation” at Johnson & Johnson IT.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cbf0bfd-4caa-49d3-8804-44eb61cf0d67.mp4?playbackTicket=65593e99dc7c4e08a7e108f4b28ac26a&site=vmware.mediasite.com)
+[MGT9184 - Day 2 Automated Operations with vRealize Automation 7.0 and the Event Broker Service, a Deep Dive.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5bfd6c00-bba2-4096-91de-b0026d37b4fe.mp4?playbackTicket=77630c55a5f54c3cbf7c4892491bc516&site=vmware.mediasite.com)
 
-[MGT8969 - Forrester Research POV on DevOps, Automation, and Virtualization Maturity Trends](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6d2d4f4-6465-4c3a-a9dc-5c878a50eda0.mp4?playbackTicket=d0ff59cfe2de4542b28d2edbc6c07e39&site=vmware.mediasite.com)
+[MGT8641R - A Lot of Insight and No PowerPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c84773f2-c8df-45a4-ad6b-e5391348a700.mp4?playbackTicket=f33ff7e6004d42e5ac87a6cfcdb7aa57&site=vmware.mediasite.com)
 
-[MGT9184 - Day 2 Automated Operations with vRealize Automation 7.0 and the Event Broker Service, a Deep Dive.](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5bfd6c00-bba2-4096-91de-b0026d37b4fe.mp4?playbackTicket=61decd5e385446d88ea9419a2d8eed98&site=vmware.mediasite.com)
+[MGT9948-SPO - Itâs Time to expect more from your Virtual Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9cec6924-b24b-4ac8-8a29-b60ccb52f4dc.mp4?playbackTicket=b1ffc50193c2478581cc7cd35ed6a0cd&site=vmware.mediasite.com)
 
-[MGT9220 - vRealize Automation and NSX Design Experts Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/32f50480-5374-402b-b3a9-10cfb7d15f51.mp4?playbackTicket=370ad3ef463643039da254838d116400&site=vmware.mediasite.com)
+[MGT9426-SPO - Best Practices for Cloud Service Data Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c215056d-5fad-4b62-9cb4-60bc5a0ba66b.mp4?playbackTicket=cb372de352f4496993a33ea9a4cfe682&site=vmware.mediasite.com)
 
-[MGT9426-SPO - Best Practices for Cloud Service Data Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c215056d-5fad-4b62-9cb4-60bc5a0ba66b.mp4?playbackTicket=b8f8d49fdfcf4bf29a71be45dd7aeee4&site=vmware.mediasite.com)
+[MGT8332 - How I Learned to Stop Worrying and Love the vRealize Automation API](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/77be32ea-8175-4cb0-b638-4337b92868f4.mp4?playbackTicket=20c44cf077bd4f39814ed48ed3fbd2ef&site=vmware.mediasite.com)
+
+[MGT7685R - Insight into the World of Logs with VMware vRealize Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef81101b-8ac3-432e-ac60-ef6b83a5b33b.mp4?playbackTicket=2a9d3fae0dc2485a9cc39a51602821df&site=vmware.mediasite.com)
 
 [MGT9457 - Understanding the Value of vRealize Network Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/88c36b95-83b1-47c5-b923-de4d18d63147.mp4?playbackTicket=6751929ac95d4d0ca95ed5e2c047e311&site=vmware.mediasite.com)
 
-[MGT9615-SPO - vRealize the Possibilities:  Application Agility and Rapid Deployment with vRealize Automation, Orchestration, Operations and Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1770c354-0e4d-45d9-a6c0-fca5fde01633.mp4?playbackTicket=e8effb32324a468e8b45cec96004b6d2&site=vmware.mediasite.com)
+[MGT7899 - Whose Hand Is in the Cookie Jar? Reducing the Mean Time to Innocence Using vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9aa1417e-fb35-4e49-a7fc-e49f736d6c24.mp4?playbackTicket=795ba808bd964b7a8fb2bf7ccb868ecc&site=vmware.mediasite.com)
 
-[MGT9948-SPO - It’s Time to expect more from your Virtual Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9cec6924-b24b-4ac8-8a29-b60ccb52f4dc.mp4?playbackTicket=d00623cb98b6493d9699f574c377bf04&site=vmware.mediasite.com)
+[MGT8733R - Application Self-Service with On-Demand Networking & Security from vRealize Automation and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e2c595c5-4ae1-4136-8860-b5f2c51ceb19.mp4?playbackTicket=72605e1ce66f4c648c2e6d9c3cb3d3f0&site=vmware.mediasite.com)
 
-[MGT9997-SPO - How to Automate Cloud Operations with vRealize and NSX Featuring Lessons Learned from Deluxe Corp’s Transformation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6e8217e6-de61-4fe4-bab6-1173d531c231.mp4?playbackTicket=96162b330e0f4563a2beadd12a3a1073&site=vmware.mediasite.com)
+[MGT8486 - NSX Operations with vRealize Suite](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a02aac83-8f99-46ee-b845-bc7ff2d9598b.mp4?playbackTicket=d5269dfe11d5496283fb987db1c91d6b&site=vmware.mediasite.com)
 
-[Monday, August 29 - Competitive Advantage in the Multi-Cloud Era](http:)
+[MGT9615-SPO - vRealize the Possibilities:  Application Agility and Rapid Deployment with vRealize Automation, Orchestration, Operations and Log Insight](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1770c354-0e4d-45d9-a6c0-fca5fde01633.mp4?playbackTicket=bbb2d30afac742bcb907db9b79601657&site=vmware.mediasite.com)
 
-[NET10884 - Moving to the next level of the SDDC - a Public Agency introduces VMware NSX, AirWatch, and Palo Alto Networks integration](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff96e2fd-c27c-4303-8911-14120e947a00.mp4?playbackTicket=5d9487ec67ee4601a67686d00a66cfcd&site=vmware.mediasite.com)
+[MGT7671 - What's New in VMware Integrated OpenStack Version 3.0!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/57f8f101-cd2b-4052-9f8e-b310d94a0ea1.mp4?playbackTicket=229f2445e763432bbbd3de05fd4d3866&site=vmware.mediasite.com)
 
-[NET7514 - PowerNSX and PyNSXv: Using PowerShell and Python for Automation and Management of VMware NSX for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b0e89702-2a4b-4461-bd52-2263ccc14860.mp4?playbackTicket=40b806b5e39841e78b8b4db2792897f4&site=vmware.mediasite.com)
+[MGT8763 - 3 Best Practices for IT to Enable Developers to Deploy on Amazon and Azure While Ensuring Security and Accountability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/02a5f93e-1703-4dbb-9ecc-5a21a5acb411.mp4?playbackTicket=8788440ab14740e0a72cd31e05aca387&site=vmware.mediasite.com)
 
-[NET7514R - PowerNSX and PyNSXv: Using PowerShell and Python for Automation and Management of VMware NSX for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c9187dbd-bdef-4aa3-8e51-ca14876bab14.mp4?playbackTicket=ec535c2d3acb41708b8aab5da2a8d67f&site=vmware.mediasite.com)
+[MGT8768 - How TIAA Uses an API-Centric Cloud Management Platform to Allow Applications to Be Easily Deployed and Managed on Both Public and Private Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/df16125c-cf55-4f70-b1f0-d34ec077ab71.mp4?playbackTicket=de103b7a54f8492ea15dccf3c6b3f6b8&site=vmware.mediasite.com)
 
-[NET7648 - How PG&E is Automating Secure Environments with NSX, vRealize Automation, and vRealize Orchestrator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2382388-36a9-4bb1-8657-53ad88850699.mp4?playbackTicket=971648552a6c412fa57c44b94b48caac&site=vmware.mediasite.com)
+[MGT7629R - 360-Degree Troubleshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1b18cd73-1a3a-4a40-904a-a38c318ee006.mp4?playbackTicket=6b0612c7c97640ad81b63e1014a36cdc&site=vmware.mediasite.com)
 
-[NET7656-SPO - Accelerating SDDC through mainstream adoption of network virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bf1f215e-1855-452b-8ce9-597a9085da5f.mp4?playbackTicket=5c8a20b74136473d9f28112403ffb976&site=vmware.mediasite.com)
+[MGT9220 - vRealize Automation and NSX Design Experts Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/32f50480-5374-402b-b3a9-10cfb7d15f51.mp4?playbackTicket=67f76d0db3944181a58d8c3eb6f228ae&site=vmware.mediasite.com)
 
-[NET7701 - How to Easily Become a Cool Automation NSX Cloud Network Engineer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3d21f392-4660-427c-84d8-ee526fc2193d.mp4?playbackTicket=89c5e77eee9949db888ae100b0c923e0&site=vmware.mediasite.com)
+[MGT8807 - What's New in vRealize Code Stream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9002ce06-d69a-4dc3-bc32-648d1c0b9634.mp4?playbackTicket=ee23368d7c1f4b988d690c5539c2bf2e&site=vmware.mediasite.com)
 
-[NET7760 - Enhanced Disaster Recovery with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/00980cda-d66c-4b24-aa16-5b7e1fed8d56.mp4?playbackTicket=5e7c3ae4938c48e583f2028b4684f4f8&site=vmware.mediasite.com)
+[MGT8762 - How to Set Up a Multicloud IT Portal to Deploy, Manage, and Control Applications on Private and Public Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e6ab72b-430d-4a3b-9468-27151330576e.mp4?playbackTicket=33da526a28ff45988ea4531c155716df&site=vmware.mediasite.com)
 
-[NET7774 - Day Two NSX Operations in VMware's Private Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c990199b-c895-4922-a378-ad5128590c58.mp4?playbackTicket=a4845315d1a84dab80fa22506e4047a7&site=vmware.mediasite.com)
+[MGT8733R - Application Self-Service with On-Demand Networking & Security from vRealize Automation and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/68f928aa-795e-4a40-a87c-c7c4cad4dc41.mp4?playbackTicket=90688b74d8b84223a2f17a0dce21ab5d&site=vmware.mediasite.com)
 
-[NET7834 - Introduction to VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/294283c8-dfcb-4231-8b6d-c65ce9170db7.mp4?playbackTicket=e16bba7bc68d40138feb66907fa13e25&site=vmware.mediasite.com)
+[MGT7737 - Intelligent Operations Management: A Customer Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/95268c27-2a95-4d78-b215-17e46517017a.mp4?playbackTicket=5da14c1157f945b0a57dcefcbbdb6b6d&site=vmware.mediasite.com)
 
-[NET7834r - Introduction to VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2006587c-d420-47fa-9812-69df4e0ee2ef.mp4?playbackTicket=e530fddfc73a459093ff00c7a2fff215&site=vmware.mediasite.com)
+[MGT7629R - 360-Degree Troubleshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/66c85e14-7271-4af5-97ae-c3b5723f4984.mp4?playbackTicket=e46c3fd9b5a84e54b2928fcf3b5fb144&site=vmware.mediasite.com)
 
-[NET7837 - Introduction to Application Continuity with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0bb6466d-f47f-4b33-bb19-c2b690f89554.mp4?playbackTicket=2b16bda0cf814a6abd14951266666f8d&site=vmware.mediasite.com)
+[MGT8751-QT - Be the IT Hero of Your Company and Discover How to Save Thousands of Dollars by Reclaiming Underutilized CPU, Memory, and Disk Resources](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fb6cfd29-e101-47e6-8e7d-3c3f515b59e7.mp4?playbackTicket=011efc95a6484f22981fce5fd5ebd687&site=vmware.mediasite.com)
 
-[NET7854R - Multisite Networking and Security with Cross-vCenter NSX—Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0b746cbd-40f0-453e-87a1-9604db71e55c.mp4?playbackTicket=c6b3f5eb9a4f456e90116ec5535b5ee0&site=vmware.mediasite.com)
+[MGT7782-QT - Automating Resource Reclamation in the Modern Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f32d79f9-5b42-4875-a1dd-e27fb913ab4e.mp4?playbackTicket=57966d5091da49f49e52f69e942ca996&site=vmware.mediasite.com)
 
-[NET7854R - Multisite Networking and Security with Cross-vCenter NSX—Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/72adacde-1d18-415a-9b1b-037e6073be50.mp4?playbackTicket=a38e891506624d218db7ace5957fa6f2&site=vmware.mediasite.com)
+[MGT8355-QT - Tutorial: Build a data-driven story around capacity planning using VMware vRealizeÂ® Operationsâ¢ and third-party Management Packs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f0b3de0f-fcc4-4b25-a595-479987b8df61.mp4?playbackTicket=d1bad9c6f11a47a9b555475ae4e2d351&site=vmware.mediasite.com)
 
-[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c01d09c-da0c-402c-a89d-971bd9a0ae1a.mp4?playbackTicket=9fbb24905ed542668b0fbef6925b2be7&site=vmware.mediasite.com)
+[CNA7741 - From Zero to VMware Photon Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3c85b6b2-aefa-47c6-ba5c-e7a3e5298f2d.mp4?playbackTicket=999dcc2b104c47d5ab6e88e34d668632&site=vmware.mediasite.com)
 
-[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/39c4ae41-ad86-4156-a203-2b198c9b0bf7.mp4?playbackTicket=ae7f140501334ccf9df281c4864b2f83&site=vmware.mediasite.com)
+[CNA8986R - Running Docker on Your Existing Infrastructure with vSphere Integrated Containers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a459cc08-49fd-4487-8697-0a1351f1a054.mp4?playbackTicket=5c02d4c3d9ae47aa8dd1bbc7f3f60570&site=vmware.mediasite.com)
 
-[NET7858R - Reference Design for SDDC with NSX and vSphere: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e2db62c-0e26-4abe-8be8-47dbf9923a22.mp4?playbackTicket=54440786bdd34b058ab85f76d09c2568&site=vmware.mediasite.com)
+[CNA8313 - Your Open-Source Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1666c675-e776-4d67-82db-135c40e81c49.mp4?playbackTicket=323c9be73a7a4a99b1dcc48587f46521&site=vmware.mediasite.com)
 
-[NET7858R - Reference Design for SDDC with NSX and vSphere: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/878a7c6a-c7e9-46c4-ba78-d91c10d868da.mp4?playbackTicket=05346db6e2b84fc38cfd38674889d752&site=vmware.mediasite.com)
+[CNA7524 - Photon Platform, vSphere, or Both?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d2d40873-7ad0-4272-b43d-130cbed7587a.mp4?playbackTicket=176adf415252436e8e669e38dd6db5eb&site=vmware.mediasite.com)
 
-[NET7861R - Multisite Networking and Security with Cross-vCenter NSX: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7c1e5950-7fc5-4b87-ba2e-8434c024c294.mp4?playbackTicket=a00e2b69c1474825ac4eccb46dba3087&site=vmware.mediasite.com)
+[CNA8578 - VMware Private Cloud and Containers in Production: Lessons Learned from a Real-World Deployment at Retailer Otto](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f3e7ddd3-9397-4bf0-846d-ce83323d80b7.mp4?playbackTicket=af5d21e4accc414fbb4f4e618c466b79&site=vmware.mediasite.com)
 
-[NET7861R - Multisite Networking and Security with Cross-vCenter NSX: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/19986278-3ecb-455c-94de-d9c6aa3595be.mp4?playbackTicket=80c9aef3af9c4f5194f3ca60db8592c7&site=vmware.mediasite.com)
+[CNA8145 - From Today to ''CNA'': VMware Technologies and DevOps Frameworks as a Service](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e4e498af-e8ce-49d3-8a00-4d205692d12b.mp4?playbackTicket=13381db12c304bac9d220af8b639ae04&site=vmware.mediasite.com)
 
-[NET7865 - Operational Best Practices for VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/edd17c7a-726c-4791-91bb-1e691464fc2f.mp4?playbackTicket=8cace5bc7b224b108cebf7e5ba1a486f&site=vmware.mediasite.com)
+[CTO7964 - Cloud Native Buzzwords (Demystified) for Dummies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ecd734f3-6c76-4c6c-afbe-1613fca1a917.mp4?playbackTicket=73f58c5a66734d9fab9df14459a8101b&site=vmware.mediasite.com)
 
-[NET7907 - Advanced Network Services with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/43d2278c-15ff-43a4-8b17-6d6051eb449a.mp4?playbackTicket=5f40c91c23614d719fd6ed8ba4d5c9bf&site=vmware.mediasite.com)
+[CNA8986 - Running Docker on Your Existing Infrastructure with vSphere Integrated Containers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0a23fdc4-ddbf-4e8b-adde-4668538a5c10.mp4?playbackTicket=37f185d28f8e4a42aa2e93b953ad7dae&site=vmware.mediasite.com)
 
-[NET7935 - Container Orchestration and Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9ebc72ed-5e25-4230-ab48-1e6ca316da3e.mp4?playbackTicket=d79dd6bc175b4ec694f5f2cf45b8c41c&site=vmware.mediasite.com)
+[SDDC9462-SPO - The Edge is Still Bleeding: A face-melting technical smorgasbord of all things Converged, Hyper-Converged, Cloud Native & Software Defined](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a18e8431-7d10-4c51-85ba-0470c76df70a.mp4?playbackTicket=e6cf9c4a9c4d4a0094e5e445f5530553&site=vmware.mediasite.com)
 
-[NET7944 - NSX Brownfield Deployment Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0a6d7f57-a1ba-4a11-9290-889f4f6dd39c.mp4?playbackTicket=528938f113c6421587772c4602255950&site=vmware.mediasite.com)
+[MGT7804 - Container Management with vRealize Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/53af543f-d537-42a2-ab25-44c520c412e3.mp4?playbackTicket=dc114b0fcc244ef28173ff851953d0c9&site=vmware.mediasite.com)
 
-[NET7956 - vRealize Automation and NSX Design Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9a06725d-9812-4a63-aaa8-5b715a253d09.mp4?playbackTicket=47cc2b6d3b37491892b6ca7a69485576&site=vmware.mediasite.com)
+[CNA8897 - Continuous Integration and Continuous Deployment for Containers: Confidently Promote Your Code into Production](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6e8a6150-3771-428a-b01c-33c01f30366f.mp4?playbackTicket=4e7c7bde13bc4f4bbb3acafcbde49be5&site=vmware.mediasite.com)
 
-[NET8030 - NSX Performance Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cef4d73-dccb-47b1-a93e-7290facffc8e.mp4?playbackTicket=4df9f3c80813455b877263e7bdaad67b&site=vmware.mediasite.com)
+[CNA7454 - Introduction to Containers as a Service](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c00a93e3-64d8-4672-b049-cc47c9fd57c4.mp4?playbackTicket=cbf024c0333d49e284651e9a0e073506&site=vmware.mediasite.com)
 
-[NET8039 - Bridging Virtual and Physical in NSX with Open vSwitch Database Management Protocol-Based Hardware VXLAN Tunnel Endpoint Integration](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef55ee7e-01bc-4a98-a255-71d584b66d97.mp4?playbackTicket=bae51ecfd2ad4faaafc8cc2b90ed3c6a&site=vmware.mediasite.com)
+[CNA9994-QT - VMware's Cloud Native Stack](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e51cd9b-cf8a-4a81-8a22-a9f7722aab57.mp4?playbackTicket=d8bf1161a7ac4c5fb0fccedf36b7e894&site=vmware.mediasite.com)
 
-[NET8082 - NSX Operationalization: Monitoring and Troubleshooting Your NSX  Software Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fbf63ab7-991f-48fa-9de9-14de326b6342.mp4?playbackTicket=cce845eb3d84417d893ad243f398e6dc&site=vmware.mediasite.com)
+[STO9984-QT - Business-Critical Applications for Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/81cbad16-bc19-43dd-91f1-fb985fc0c09e.mp4?playbackTicket=928829b0fc984917a4877a0ea36330f2&site=vmware.mediasite.com)
 
-[NET8109 - Amadeus's Journey Building a Software-Defined Data Center with VMware Integrated OpenStack and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fdae400c-842c-4a3d-97db-588cd7a65163.mp4?playbackTicket=c7899680f7254c35ac100b0da66e632d&site=vmware.mediasite.com)
+[DEVOP7915 - Network as Code: DevOps Implications of Programmable Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/451f8d95-0e35-4d4a-9e06-c013217edc05.mp4?playbackTicket=fbb346492a4d4c298b5a2a949fdf9507&site=vmware.mediasite.com)
 
-[NET8131R - NSX for vSphere Logical Routing Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7b9b1d75-dbcc-44d9-8d6a-be1123570aac.mp4?playbackTicket=29cf94ec204e4a1fa40e3089a776bf81&site=vmware.mediasite.com)
+[INF8255 - Evolving the vSphere API for the Modern Era](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fa25d2c4-fc32-43b4-bb5c-c2767bf10b7c.mp4?playbackTicket=7e46e6866fcb48bbaaebe6f25221bafc&site=vmware.mediasite.com)
 
-[NET8131R - NSX for vSphere Logical Routing Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/85057bc4-c329-4d80-9999-647a30321478.mp4?playbackTicket=625b8f07a32444398517cf94383f8df0&site=vmware.mediasite.com)
+[MGT8969 - Forrester Research POV on DevOps, Automation, and Virtualization Maturity Trends](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6d2d4f4-6465-4c3a-a9dc-5c878a50eda0.mp4?playbackTicket=42bfd1c21de04929815062949ef9d4d9&site=vmware.mediasite.com)
 
-[NET8193R - The Architectural Future of Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e9ec6df8-d6c4-49a8-96fa-004d3a4fa4e0.mp4?playbackTicket=f5f8575040eb46e4b787b121e7b3f271&site=vmware.mediasite.com)
+[MGT8499 - Moving to Infrastructure as Code: How Fannie Mae Is Managing the SDDC with the vRCS Management Pack (aka Project Houdini)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/39c21296-ef06-400c-8d13-3ce4c0da8e2a.mp4?playbackTicket=f38f5e1a130e4d01a7108124ddd09ce3&site=vmware.mediasite.com)
 
-[NET8193R - The Architectural Future of Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/651d9fdd-2b97-45df-89c3-46e2c2ae640e.mp4?playbackTicket=0aef3a50875640f1b6a012be62f67e83&site=vmware.mediasite.com)
+[DEVOP9403-SPO - Hacking Your Backups: Making Your Backup Data & Systems Work for You](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52479be8-d8f4-4551-9d8e-0b40dd2a2922.mp4?playbackTicket=24bb188d8e7a4a139bda22ef83d54582&site=vmware.mediasite.com)
 
-[NET8194 - How VMware IT Implemented Microsegmentation and Deployed a Large-Scale Private Cloud Using NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/eb172374-d40c-45ad-bf73-338bf6c8ad29.mp4?playbackTicket=1a6eddd1627244239da3d5e8dd73f122&site=vmware.mediasite.com)
+[DEVOP8924 - Building an Actionable Strategy Around DevOps and Platform as a Service (PaaS)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e3282a09-3b57-4119-a7a9-11d156262b62.mp4?playbackTicket=b6c495a618354c5ea96f9bc45af55802&site=vmware.mediasite.com)
 
-[NET8241 - Monitoring and Troubleshooting NSX with vRealize Network Insight (Arkin)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcbe5ea9-3927-4534-a2bf-f1860015e74e.mp4?playbackTicket=9a5643215c7a43d486f55029051777e4&site=vmware.mediasite.com)
+[NET7858R - Reference Design for SDDC with NSX and vSphere: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/878a7c6a-c7e9-46c4-ba78-d91c10d868da.mp4?playbackTicket=f8616e408e5e4ebeae5564549fbf2648&site=vmware.mediasite.com)
 
-[NET8337 - Leveraging NSX for Remote and Branch Offices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/64a2941c-824f-473b-b48f-fa3a98f4ef4d.mp4?playbackTicket=119d3cb1c6c34334ad965ee573da9e2c&site=vmware.mediasite.com)
+[DEVOP8971 - Run a Hybrid Application Across VMware and Google Cloud Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1a9e5995-9f83-4164-8471-94f38d614dc9.mp4?playbackTicket=aa7e4cb43c6c4e8c9abb333bbff34139&site=vmware.mediasite.com)
 
-[NET8343 - OpenStack Networking in the Enterprise: Real-Life Use Cases](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f3145cd4-2077-4022-9130-06d4ef8cd34f.mp4?playbackTicket=cc73091dec2243a9a4ca4e056d93c456&site=vmware.mediasite.com)
+[MGT8831 - Digital Transformation Through VMware DevOps Code Stream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/53468bae-c764-4a76-a765-7c975389a135.mp4?playbackTicket=c5e6fde26c9c4bb78bc8d6a57ca672d3&site=vmware.mediasite.com)
 
-[NET8364R - How to Deploy VMware NSX with Cisco Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/61104286-525e-4c3a-bb62-05b0e4adcf09.mp4?playbackTicket=7e3453a7270f470ca7b9e12b98f641af&site=vmware.mediasite.com)
+[DEVOP7859 - Real-World DevOps Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/26df095b-709e-4221-a6ca-4226bcdf3fb3.mp4?playbackTicket=f99f8b0ffece4a1c87c2c1415cf98f3c&site=vmware.mediasite.com)
 
-[NET8364R - How to Deploy VMware NSX with Cisco Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/314f9ab0-80f3-4239-b193-c2b408632b0f.mp4?playbackTicket=ec43f4f3d95647a1b895b9d49c411b02&site=vmware.mediasite.com)
+[DEVOP7730 - DevOps Bootcamp Actual](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dff45cf0-51e3-43af-afa0-d9810177f42e.mp4?playbackTicket=560e949e57b948569fa973edab61a2f0&site=vmware.mediasite.com)
 
-[NET8368 - Network as a Service (NaaS) Transformation with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/212c06af-c61c-46e9-9424-18cb32fbc742.mp4?playbackTicket=0683507bfaf34056a73048e44e980031&site=vmware.mediasite.com)
+[DEVOP9965-SPO - Implementing DevOps with VMware vRealize and Cisco UCS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/725fe6a3-9cab-449c-afe3-560a589fd8b6.mp4?playbackTicket=97f15d217c6641568b9b8fcde2a50efa&site=vmware.mediasite.com)
 
-[NET8675 - The Practical Path to NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5f26a99e-1a15-46a5-a9db-1f4635b5ce5f.mp4?playbackTicket=c90e911811924eae82c961cbfab9a163&site=vmware.mediasite.com)
+[NET8368 - Network as a Service (NaaS) Transformation with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/212c06af-c61c-46e9-9424-18cb32fbc742.mp4?playbackTicket=838a843d4c9946c0bab114a35ed89501&site=vmware.mediasite.com)
 
-[NET8675r - The Practical Path to NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/12b342ab-5b04-4fd5-a56f-9e6056891529.mp4?playbackTicket=60ea3270814149d6a374225433cf22fe&site=vmware.mediasite.com)
+[INF8540-SPO - Say Yes to vRA and vRO in a Real-World Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/485b49c9-7428-411f-bded-d80dee1739bc.mp4?playbackTicket=936f7cdd12e44078a849f5f567249c24&site=vmware.mediasite.com)
 
-[NET8680R - Advanced NSX Troubleshooting: Tips & Tricks for Experienced Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c7b8ab46-fbea-490e-99ae-70b98808152e.mp4?playbackTicket=27d5543a0c304f679d5d342719089bfa&site=vmware.mediasite.com)
+[NET7858R - Reference Design for SDDC with NSX and vSphere: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e2db62c-0e26-4abe-8be8-47dbf9923a22.mp4?playbackTicket=b723bef2b3ce47faa95ca2e175ae8fc6&site=vmware.mediasite.com)
 
-[NET8680R - Advanced NSX Troubleshooting: Tips & Tricks for Experienced Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51edbe55-f33b-4f22-aa4a-25ecf7b25d36.mp4?playbackTicket=16988b138aca4c2f9f612c358bbe561e&site=vmware.mediasite.com)
+[DEVOP7788 - Industry Perspective: Enterprise Reality of Doing DevOps](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/602f7c97-9082-4bc4-ada1-6c6afb1f1361.mp4?playbackTicket=c50b71128f764b1c8f7426f5baaf2cbf&site=vmware.mediasite.com)
 
-[NET8729 - NSX on Cisco ACI Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/68087b20-37f4-4d82-b067-dfe0efe595e6.mp4?playbackTicket=2bface2f2a3c477f829a4bb7654c5737&site=vmware.mediasite.com)
+[DEVOP7674 - vRA, API, CI, Oh My!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d6743640-1d0c-4ef0-849f-bab15f0268dc.mp4?playbackTicket=9300c8cbd7e745d6a6ff3be370caba2e&site=vmware.mediasite.com)
 
-[NET8731 - IT Automation with NSX Network Virtualization and Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3f16f5fc-8a2b-40d9-9181-934b82253229.mp4?playbackTicket=e404299b5e344037b773a62e02de0254&site=vmware.mediasite.com)
+[MGT8766 - How IT Can Enable DevOps and Development Teams to Rapidly Deliver and Iterate Robust Applications in a Multicloud Environment including VMware, AWS, Azure and Softlayer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4eab316d-ace5-4486-a642-84e4c5811671.mp4?playbackTicket=94c44d4910f547209e7a9123f4ff8039&site=vmware.mediasite.com)
 
-[NET8734 - Automating Networking and Security Operations with NSX Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fbe6a4a7-b9cd-47d1-b176-55696b43f392.mp4?playbackTicket=5c9dc40fb77743eba01032d5e88d6391&site=vmware.mediasite.com)
+[DEVOP7447 - Redefining Enterprise Resource Planning Using vSphere 6 and Workspace ONE](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b68e46cc-409c-44b5-958e-36175ff360b7.mp4?playbackTicket=52cdf9ec1c7047b88c4afbb52961b49c&site=vmware.mediasite.com)
 
-[NET8758 - vSphere Distributed Switch Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a448b565-4b05-408f-b97c-3c5755b09c08.mp4?playbackTicket=3615627e352f4d54b1c96238a92d5af3&site=vmware.mediasite.com)
+[DEVOP8630 - Increased Employee Productivity with Enterprise-Grade Security Using VMware ITâs Managed Public Key Infrastructure Service and AirWatch](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/befc6a60-c561-4e7b-8e96-0fd3faa3064c.mp4?playbackTicket=b716b7beef9c4e8fb1331f8626b2caed&site=vmware.mediasite.com)
 
-[NET8769-QT - Hyper-convergence in Healthcare:  The Key to Doing More with Less](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f24888cd-2591-4edc-af87-c4295f15c0d4.mp4?playbackTicket=7eda4b9058244182a7c1a8b5b4463354&site=vmware.mediasite.com)
+[EUC7799 - Design Horizon the Easy Way with Help from the Horizon Sizing Estimator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0751d0e8-46b0-472b-9c04-9ede3e382b87.mp4?playbackTicket=8f162215dc564298b72ca968b523d8a1&site=vmware.mediasite.com)
 
-[NET8832 - The Role of VIO and NSX in Virtualizing the Telecoms Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96f95edc-f786-4735-9f08-b496b9da41b6.mp4?playbackTicket=dafd6fc060df4bab9aa76e6e9854c144&site=vmware.mediasite.com)
+[EUC7562 - Cloud-Hosted Virtual Desktops and Apps: A Technical Deep Dive into Horizon Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dc80c8a-0c33-45ec-b1b1-d0813053258c.mp4?playbackTicket=2f859c3e922d4d90bdef001bec39412e&site=vmware.mediasite.com)
 
-[NET8903 - Stories from the Alexandria SDN Zone](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f150a565-74b3-4bf3-aecb-d89af91590a7.mp4?playbackTicket=147fbd77b7f8494888a5c36c795b2ac5&site=vmware.mediasite.com)
+[EUC7998 - The Latest in High-Performance Desktops and Applications with  Horizon 7, Blast Extreme Protocol,  and NVIDIA GRID vGPU](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/24ffd9ea-2f2b-482c-8950-d9a117c0a5c0.mp4?playbackTicket=603d3919da794627818b6c1e49cc16ba&site=vmware.mediasite.com)
 
-[NET8935 - NSX for Small Data Centers—Breaking Boundaries](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9c338b26-d1c9-48ec-bc0a-d0e4d0a5c1a0.mp4?playbackTicket=b737a21f5fa34424a58aa3713893608a&site=vmware.mediasite.com)
+[EUC9392 - Expand Your Enterprise Mobility Strategy with VMware and the AirWatch Partners](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3cdeaa04-4ff3-45aa-8aa7-f7d87786a5a4.mp4?playbackTicket=7337edb6319a4969b558356652ef11ea&site=vmware.mediasite.com)
 
-[NET9004-QT - Virtually Unstoppable: Scaling NSX to Bridge the Gap between Security & Cloud Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c8282e8c-bb18-4a2a-b711-f36c5636faeb.mp4?playbackTicket=c6cf123d6fc44280a8cdfea189702bfd&site=vmware.mediasite.com)
+[EUC8938 - Limitless Learning: Leveraging VMware Technology to Provide a Digital Learning and Working Environment for Every Student and All Faculty and Staff](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2c9d47f7-c4db-4509-b8f0-ddc90df7392c.mp4?playbackTicket=6ecc587742d64141a5185080a0b05980&site=vmware.mediasite.com)
 
-[NET9029 - NSX Logical Load Balancing: From Basics to Fine Art](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/174213fc-dfdb-4671-82a2-901fcfd10cb2.mp4?playbackTicket=a7b22a7f5079496f9d498b56f90e770f&site=vmware.mediasite.com)
+[EUC9386 - Whatâs new with Workspace ONE: Identity meets Mobility](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d8d5f67-6515-4e9c-aac3-6b2cc895f0f1.mp4?playbackTicket=23ba6379bca44add920ccd9977ee5c3e&site=vmware.mediasite.com)
 
-[NET9069 - Automating Traffic Visibility for the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2ff1815-4b3d-4547-a8dc-6995a89605c6.mp4?playbackTicket=4c09fee272f740e3b4e89660239cf71d&site=vmware.mediasite.com)
+[EUC7870 - VMware's Solution Strategy on Mobilityâs Evolution to Internet of Things into 2016 and Beyond](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c87ab1e1-d61a-4953-8911-727c2b99c86c.mp4?playbackTicket=e3ad665e449c49388f35d9d8a35d3b59&site=vmware.mediasite.com)
 
-[NET9094 - Customer Case Study on American Tire Distributor (ATD): Migrating to the Software-Defined Data Center with Arista Networks and VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bc209b25-f681-4f21-92ce-2f4e70f2b23f.mp4?playbackTicket=51861a86588e4e3c85fb079f4c82d74d&site=vmware.mediasite.com)
+[EUC8243R - Troubleshooting 101 for Horizon](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8a2493b-71cd-4671-9dca-bfd0807770f5.mp4?playbackTicket=fda2dbab78164408a786a4f1c6248e5a&site=vmware.mediasite.com)
 
-[NET9152 - VMware NSX—Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/db352180-d08a-459f-8f0e-c14df9536c58.mp4?playbackTicket=ebdef03bb9c34849a8cc67a80b9705be&site=vmware.mediasite.com)
+[EUC7644R - Unify Endpoint Management Across Mobile and Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff9b9d5c-3dca-41b2-ab2c-7c42ea7672d1.mp4?playbackTicket=2d233cb84d8446b6a4a174c9ea25815e&site=vmware.mediasite.com)
 
-[NET9155 - NSX Policy, Visibility, and Intelligence](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b7882556-0a6d-42e3-8023-9ae2a2a00ab1.mp4?playbackTicket=a308e3ff66f6439fbcf93f6fc4fefecd&site=vmware.mediasite.com)
+[EUC8160r - Discover AirWatch: Enterprise Mobility Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7cefde1a-fe78-46b5-9bf3-7d976f8fcc80.mp4?playbackTicket=99be2741948b422ebf754e184a7cb62b&site=vmware.mediasite.com)
 
-[NET9156 - Customer Case Study: Journey to Automate Security As a Part Of Service Delivery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/66cb8812-67f5-4f3d-ad06-5f92a6e11018.mp4?playbackTicket=9101c722bd7647cba6e53b681e201ef3&site=vmware.mediasite.com)
+[EUC8853 - Taking Back the Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/67a58451-7ada-4136-b115-c43e7db21415.mp4?playbackTicket=fda23cf5cb764876aef9aafc49ba8dac&site=vmware.mediasite.com)
 
-[NET9381 - Operationalizing NSX Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/be7b7c37-fd03-4d31-a4b7-e578b5b26e02.mp4?playbackTicket=6cbd01665f1143e4988b3a58c5761373&site=vmware.mediasite.com)
+[EUC8346 - Modernizing and Mobilizing Retail IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d4bc8d91-2cd0-43f0-993d-769d62815ef3.mp4?playbackTicket=d62cd8d475624295a28c27bcd3639db8&site=vmware.mediasite.com)
 
-[NET9447-SPO - Extensible Solution for Software Driven Data Centers (SDDC) with VMware and Arista](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e80bc914-96f0-4601-8e5e-73b7bfb83e1a.mp4?playbackTicket=df6fd6adc9c5405f92f240ef372c366a&site=vmware.mediasite.com)
+[EUC8725 - Everything You Need to Know About Horizon Remote Desktop Services Hosted Applications (But Probably Do Not)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d23d478-06ea-4e5b-b874-b01ccf6d5dfd.mp4?playbackTicket=3e38ef1c5143487e8a3571ca08050f1d&site=vmware.mediasite.com)
 
-[NET9460-SPO - Use Cases for Software Defined Data Center with NSX: Transform to Digital Business by deploying multi-tenant agile network in SDDC environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/850ba54b-4941-486f-b9dd-e226a6520564.mp4?playbackTicket=eb35f50eb5bc42d796105ab9cde4e720&site=vmware.mediasite.com)
+[EUC8521 - The Future of VMware Fusion and Workstation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/426732dd-6b9f-42b5-ace2-a480c6947905.mp4?playbackTicket=4a9a51a4a6eb4feeac74e85780bd3344&site=vmware.mediasite.com)
 
-[SDDC7502 - On the Front Line: A VCDX Perspective Working in VMware Global Support Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2dd8fd5b-d366-48d6-a6f1-1621acaae98f.mp4?playbackTicket=87e020d62eee4d539f52e0a1df034c2d&site=vmware.mediasite.com)
+[EUC7678 - Real-World Examples Using App Volumes, User Environment Manager, Mirage, and vRealize Operations to Deliver Complete Desktop, App, and User Management and Monitoring](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/551f1099-059e-40cc-9a54-23e515b78e1c.mp4?playbackTicket=27919ea9a99149bfa4d1e5627206e593&site=vmware.mediasite.com)
 
-[SDDC7587 - Software-Defined Networking in VMware Validated Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/91dbf951-2178-452a-bd80-f4e7e27a4878.mp4?playbackTicket=efcb62875011469cb7bf003362e0e376&site=vmware.mediasite.com)
+[EUC8822 - Case Study: Large-Scale Deployment of VMware App Volumes and User Environment Manager for 10,000 Seats](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/333badbf-1f4c-4ebb-964b-cb49b90e6e3b.mp4?playbackTicket=f6042d2839b44180a9e729bbfd9bb86c&site=vmware.mediasite.com)
 
-[SDDC7587r - Software-Defined Networking in VMware Validated Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5697883d-eee6-4893-afdf-b75890f2059f.mp4?playbackTicket=d004dd976f6048268f44b5a7ec10b82b&site=vmware.mediasite.com)
+[EUC9179 - Introducing Horizon Air Hybrid Mode: Low-Cost, Simplified Virtual Desktop and Application Deployment and Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4a4e16fa-61bd-46b4-b451-f3db2851327c.mp4?playbackTicket=d4d33d550b0d47238473a112c398a41d&site=vmware.mediasite.com)
 
-[SDDC7609-QT - How to Respond to the &quot;Bring Your Own Data Center&quot; Trend](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/82391ced-f3bb-41e4-9754-9d048fd69637.mp4?playbackTicket=a0dad683808443d3bcf751e64bff1079&site=vmware.mediasite.com)
+[EUC8605 - Next-Generation Mobile Productivity with Workspace ONE Apps](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/302fee13-a6fa-4c47-ab0e-0deeb22c056f.mp4?playbackTicket=eeb6404764ae4e1ca6bf6cb15fd628c5&site=vmware.mediasite.com)
 
-[SDDC7616 - Strategizing Cloud Business Management Using vRealize Business](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dbfd0a69-0569-42a5-80eb-70e995c17217.mp4?playbackTicket=5fe4d21669a24bd0b723036e519a4a26&site=vmware.mediasite.com)
+[EUC7995 - Enterprise Mobility Automation using Software Defined Data Center (SDDC): Role-based Desktop and infrastructure provisioning](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cac0cea1-25e9-43ee-a38a-535f585f3366.mp4?playbackTicket=f76ce669f18240bf8efb7f494dcfca21&site=vmware.mediasite.com)
 
-[SDDC7692 - Tips for Realizing the Full Value of Your SDDC Transformation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/85b5628a-d8d9-43e1-91a1-7c57d848709d.mp4?playbackTicket=378852f7ca7241589bcae87e9c543235&site=vmware.mediasite.com)
+[EUC9451-SPO - Preventing Attacks on Mobile Devices using AirWatch Integration with Palo Alto Networks](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/47bdb86a-ffb3-4698-bf1c-81c4d3de11ad.mp4?playbackTicket=58f17245d7d34297a4d6dd0d47dd9349&site=vmware.mediasite.com)
 
-[SDDC7780 - Agile: The Scrum Master for Your Software-Defined Data Center!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c544030e-0807-45d7-b0e9-6c19ffc73da8.mp4?playbackTicket=fc01c78b1391467783d41373117c2a93&site=vmware.mediasite.com)
+[EUC8345 - Mobilizing and Modernizing Government IT to Advance Missions: The Secure Digital Workspace for Government](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9968bd24-8546-482d-b9ba-2bc1990ece46.mp4?playbackTicket=69fbbd7327fb43408877bba882c58600&site=vmware.mediasite.com)
 
-[SDDC7808-S - How I Learned to Stop Worrying and Love Consistency: Standardizing Datacenter Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dfafac9a-4f90-4087-8b0b-194c6b495851.mp4?playbackTicket=720c97f11611427693b34629da764c58&site=vmware.mediasite.com)
+[EUC7797 - How to Manage Personal Settings with App Volumes and ThinApp](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/345bb591-6ea5-4abf-b74f-6326b60e96ab.mp4?playbackTicket=04b0ab66e37b4aed96e8d75114ccf852&site=vmware.mediasite.com)
 
-[SDDC7819-SPO - Lessons learned to provide secure service assurance for your VMware investments](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e01af4c-85d6-4d61-8593-216926fe9b94.mp4?playbackTicket=8919c2253cf24692998a99c9c6ba5d6f&site=vmware.mediasite.com)
+[EUC8784-SPO - Architecting Highly Available, Scalabe and Resilient Enterprise Mobility & Desktop/Application Solutions](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bfab2dd5-02ef-4ff4-8065-05cc2f14d541.mp4?playbackTicket=93d31012865449a698a8b2a6f5980aee&site=vmware.mediasite.com)
 
-[SDDC7876-QT - Service Automation Roadmap: Approach and Samples](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8c3f94e1-e968-4172-9d02-3187e08faf2b.mp4?playbackTicket=b86573b3048f4b28a445f3aefed6b64b&site=vmware.mediasite.com)
+[EUC8392 - Untethered Yet Secure: Technical Deep Dive on Using Horizon FLEX to Manage VMware Workstation Player and VMware Fusion Pro](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9bce471a-b9fb-4ae6-a220-5e011b345662.mp4?playbackTicket=73a3a79445794e8fba86638f4d4fdad7&site=vmware.mediasite.com)
 
-[SDDC7881-QT - Cloud Service Lifecycle in a DevOps-Focused Delivery Model](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e76123d-776c-4f84-ba61-657bcc3aeacc.mp4?playbackTicket=ef75ec7c454646049cf4422fab4a89e2&site=vmware.mediasite.com)
+[EUC8648R - Architecting VSAN for Horizon the VCDX Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/889c34d2-5e13-464d-8c21-221d3d869f96.mp4?playbackTicket=5577c6d31f8d487e87448bc4799b2b80&site=vmware.mediasite.com)
 
-[SDDC7886 - Implementing An Operating Model for Agility: A Customer Success Story](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52ceb29a-7e09-404c-b281-d4cd3080cb6a.mp4?playbackTicket=5ac9ac0c8ba3432ab38f9aa054441906&site=vmware.mediasite.com)
+[EUC8745 - Under the Hood with Identity Manager and Office 365](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/56941882-36db-4144-ba46-3ef6f9c471cd.mp4?playbackTicket=ab147e47ae1849a89d74d61e535f4bc3&site=vmware.mediasite.com)
 
-[SDDC8024 - VMWorld Hands on Labs Architecture Design](http:)
+[EUC7519 - Access Point: Advances in End-User Computing Remote Access](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5801bd25-a7d3-4122-8aa6-91d609c00a8c.mp4?playbackTicket=51e868c1768949f49e80a3d8fe3c2920&site=vmware.mediasite.com)
 
-[SDDC8214 - Case Study: VMware's Private Cloud Journey to Over 100K Virtual Machines](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcb8f3cf-d3ee-412d-a74c-0f1988d84686.mp4?playbackTicket=7f00f1db63284b188ce4cffa94050a33&site=vmware.mediasite.com)
+[EUC9388 - Customer Panel: How Enterprises Are Using VMware Identity Manager to Enable Their Users to Be Productive on Any Device, Anywhere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d8f728a4-bfe8-4cbd-8c5c-784b6a74bc47.mp4?playbackTicket=6ef388c5e7ec47c192e01cd70d9d605e&site=vmware.mediasite.com)
 
-[SDDC8351 - How VMware Cloud Foundation Makes Your Private Cloud Operation More Efficient](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d4654db-b109-4de9-aaf6-6eb791482258.mp4?playbackTicket=a2ebf87fd5a94e228ce4eeac02a91dcd&site=vmware.mediasite.com)
+[EUC9394 - Horizon Air and Interconnecting the Clouds](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/58c631da-fd14-41bd-bf09-522c23b6168d.mp4?playbackTicket=a93bb94665314c938f1087041a2f93f6&site=vmware.mediasite.com)
 
-[SDDC8357 - If They Come - Are You Ready?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d45d7d81-cfb4-41e4-ac2c-f2421ecce646.mp4?playbackTicket=c5452cf789de48549a023a7d86b45524&site=vmware.mediasite.com)
+[EUC9139 - NSX and Horizon Reference Design: Secure End-User Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a14c5bf-dc3a-44eb-9128-5373d9cee5ee.mp4?playbackTicket=b6c8defd34804c29bc192b1471324a40&site=vmware.mediasite.com)
 
-[SDDC8414 - VMware Validated Design for SDDC: A Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d37cf776-1e24-4b30-a723-d9bb1a386209.mp4?playbackTicket=f77cd3733a5b4423943282362e040041&site=vmware.mediasite.com)
+[EUC9391 - Managing Windows in a Modern Mobile-Cloud Framework](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/705317fd-7db1-4c27-942d-a50cceefa3ec.mp4?playbackTicket=f24b2547c8e94afbad6828b0618f78be&site=vmware.mediasite.com)
 
-[SDDC8423 - VMware Validated Design for SDDC – Operations Architecture Technical Deepdive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/807002c7-14ae-432c-b9b3-907903612542.mp4?playbackTicket=73c3baf10e324b85a817393ef81df833&site=vmware.mediasite.com)
+[STO7560 - Four Unique Enterprise Customers Deployment of VMware Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f9b56ed8-e637-4547-82f4-7ad1563fcbcc.mp4?playbackTicket=577c8fe7b064464a9bf20f9f116e26ad&site=vmware.mediasite.com)
 
-[SDDC8445 - VMware Validated Design for Microsegmentation Deepdive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a06343f5-12d6-4d01-b902-d19021a126ab.mp4?playbackTicket=d0a6f4a0b9734f8babd8e4117844ab45&site=vmware.mediasite.com)
+[STO8754 - Virtual SAN and Horizon: Designed for Simple, Powerful Virtual Desktops](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae6ca51e-07e9-4a31-ba27-d33ed60ca211.mp4?playbackTicket=bbb38f8e459945b8a3b0ec738a5f4bf9&site=vmware.mediasite.com)
 
-[SDDC8468 - A Beginner's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d00dc0a3-1dbf-4ae5-8b5e-d0e64645fadb.mp4?playbackTicket=e64188ad4bd94ccf92888b6de212d62e&site=vmware.mediasite.com)
+[EUC9390 - Securing Against Cyber Attacks from Datacenter to Device](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca1ca96c-439e-4879-8cbe-2adba1a32723.mp4?playbackTicket=c251b3db48d74eceaacc9e9b998ba5fa&site=vmware.mediasite.com)
 
-[SDDC8468R - A Beginner's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca166216-ef18-489e-981e-dee260e77115.mp4?playbackTicket=c718b2c99fe149efab856de2beb922ad&site=vmware.mediasite.com)
+[EUC7888 - Why Siemens Uses High-Performance Desktops with VMware Horizon and Nvidia GRID vGPU](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e72851aa-58c4-4460-b904-68a539c6951d.mp4?playbackTicket=3e708dcc248d4e30b9ef28aa158f2428&site=vmware.mediasite.com)
 
-[SDDC8472 - An IT Architect's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b32b5eb9-e753-4b65-a9c7-8512c0025cd9.mp4?playbackTicket=16fc722bab43427e9cdbae9aeca0bbc3&site=vmware.mediasite.com)
+[EUC8648R - Architecting VSAN for Horizon the VCDX Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8511e61a-b3b4-48e5-a0fd-e3fa562a2417.mp4?playbackTicket=6cb533b438f44a6099a1b25c18b81b15&site=vmware.mediasite.com)
 
-[SDDC8475-QT - A Manager's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4505b802-2ff3-4dde-9e4d-68b7e023ff46.mp4?playbackTicket=5d57e25fbb0b4a1fb62e4fb1f266838b&site=vmware.mediasite.com)
+[EUC9610-SPO - Optimize Storage Infrastructure for Horizon Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3b9e9aa7-9370-4154-93a3-6ebc250e4157.mp4?playbackTicket=721d80cd61c44a17bc27d305f57ee1ad&site=vmware.mediasite.com)
 
-[SDDC8520 - No IT Left Behind: Connecting the Software-Defined Data Center to Multi-Modal IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/29c4377d-360b-4300-b41d-7a4fa5c37f78.mp4?playbackTicket=4dddf382d0f7400b8e6dc7cd369068b1&site=vmware.mediasite.com)
+[EUC7611 - User Environment Manager 9: Do It Fast, Do It Right, Do It Big!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/465fdb6d-2db1-49c5-b21d-5761066447cc.mp4?playbackTicket=03859fd0a4394458a11129fa86135bd1&site=vmware.mediasite.com)
 
-[SDDC8614 - NSX in VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ad9332ff-7442-4713-90fc-d196c8b98ca6.mp4?playbackTicket=7e9d2c5aaa39414a98bb51bd17ae9e10&site=vmware.mediasite.com)
+[EUC8670 - Your Digital Workspace: How to Plan, How to Start](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b451012c-7040-450f-b346-4731125316a1.mp4?playbackTicket=aa3995e0dc3b4c27bf95597fcc7177f0&site=vmware.mediasite.com)
 
-[SDDC8615 - vRealize Automation 7 in VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/44ddb3c5-fd34-4ed5-95e7-715ffa4894a6.mp4?playbackTicket=7fd7ec8902ea413ba3d36875dbe12d3d&site=vmware.mediasite.com)
+[EUC7644R - Unify Endpoint Management Across Mobile and Desktop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dba82114-36af-4b2a-95b8-180e151ade94.mp4?playbackTicket=85855acb8de74c2a8d73621ef9a56093&site=vmware.mediasite.com)
 
-[SDDC8618-S - Introducing VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e0912fd2-aa5a-4144-baf8-a4491af2bf13.mp4?playbackTicket=e52c59d141054ee399b7643f001cba0f&site=vmware.mediasite.com)
+[EUC7453 - Horizon for Linux Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3e238fd9-4693-485e-b66a-c0a545377032.mp4?playbackTicket=1cc46f72ec28477697ee802904ee0bfd&site=vmware.mediasite.com)
 
-[SDDC8621 - VMware Cloud Foundation: Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/145115e1-24d9-4ee7-acf2-137b00cfdd9a.mp4?playbackTicket=3d1a07f7ace1451a99dfed62c301fb19&site=vmware.mediasite.com)
+[EUC8441 - End-to-End Security for End-User Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f972d8b3-6167-482f-82a9-72ea1107a807.mp4?playbackTicket=c14b90afb46e4268852233c071a38b35&site=vmware.mediasite.com)
 
-[SDDC8628 - Automating Virtual Desktop Deployments with VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fe609247-bc9e-4f36-925f-3c299f32b8e9.mp4?playbackTicket=a1beefbae13f4f6ca45074d1d885a1b7&site=vmware.mediasite.com)
+[EUC7856 - Solve Your Citrix Problems with VMware Technologies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/920db7a3-ccba-44e7-87bd-12b1b93f569d.mp4?playbackTicket=112b73a7e18848a0bf2308757407b005&site=vmware.mediasite.com)
 
-[SDDC8748 - Building a Successful Business Case for VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b265578c-561f-43c3-8138-8cfb68d690de.mp4?playbackTicket=1d14c773bbfe4be9b8a63dae261056c3&site=vmware.mediasite.com)
+[EUC9992 - Ask the Experts: Practical Tips and Tricks to Help You Succeed in EUC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0332e1ad-b459-41e1-abf8-a25209832c01.mp4?playbackTicket=41b462ac2e27456294e02e6e9d4b5ac8&site=vmware.mediasite.com)
 
-[SDDC8930 - American Tire Distributors: Our Journey to a Modern Private Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e508be8c-02e7-4bf7-9424-4bc65b53f4e8.mp4?playbackTicket=b40883611b024f13a5d7600830a66f9a&site=vmware.mediasite.com)
+[EUC8437 - Workspace ONEâs Secure App Token System (SATS) for Mobile Single Sign-On explained](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/aa848ed6-6904-404f-8cac-3350767eceba.mp4?playbackTicket=a873272160154b9da46d8dc527268958&site=vmware.mediasite.com)
 
-[SDDC8945-QT - Learning in the Cloud: VMware Education's New Enterprise Learning Subscription](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1cb8ea0a-f38d-4742-b703-4712b1a5ff86.mp4?playbackTicket=1ce012eec8d64ab1a2c81abc3cd02dcc&site=vmware.mediasite.com)
+[EUC8589 - Best Practices for Effectively Planning and Implementing BYOD Programs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae245971-c6a5-4e2d-a4f4-4f85831e3944.mp4?playbackTicket=73d46874a9af47a3ac3b25038b9738b4&site=vmware.mediasite.com)
 
-[SDDC8946 - Deep Dive into Deploying the vRealize Cloud Management Platform the VMware Validated Designs Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5f3e1ad2-e8f3-4cfd-80f4-3115a6d6b2a1.mp4?playbackTicket=2b08fb5aeba24d70a141c98c0a0696b8&site=vmware.mediasite.com)
+[EUC9393 - Real-time Endpoint Visibility and Control with VMware TrustPoint](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/695a0ed4-494d-40db-b04f-70337e4c5f71.mp4?playbackTicket=792bbcba4d5d4a16bd1f6ffb9e924882&site=vmware.mediasite.com)
 
-[SDDC8975 - SunTrust's Cloud Journey](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7a869c4d-1e9c-4c2b-b26a-86f2abcbd3c2.mp4?playbackTicket=2003bad5f0d14d7abd94f54ceb32604a&site=vmware.mediasite.com)
+[EUC9469-SPO - Scale, Efficiency and Data Management for EUC solutions with NetApp](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0f441738-4956-4143-a512-5303f8ae6ca0.mp4?playbackTicket=fed3d47d7b6449de9ec7ad7c5f0e843f&site=vmware.mediasite.com)
 
-[SDDC8994 - Taming the Hydra: IT in a Multi-Cloud World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/da8988b5-8811-4a9a-b79e-4085cba95b90.mp4?playbackTicket=cd0b51e01ce84b8cb44678aa5e935723&site=vmware.mediasite.com)
+[EUC9217 - On-Premises Workloads with Cloud-Based Management: Technical Deep Dive into Horizon Air Hybrid Mode](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/09a96be4-52a3-4e8b-b03e-15b93dc25c3f.mp4?playbackTicket=81d26315426a4478b4f0d6ec49abe67c&site=vmware.mediasite.com)
 
-[SDDC9023 - Hyperconverged Infrastructure at Scale with VxRack 1000 SDDC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/19a8c25d-b824-4b5a-94cb-79d90951be6e.mp4?playbackTicket=46cf616de5ac42e6b282de30f21346de&site=vmware.mediasite.com)
+[STO7443r - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a04b4f51-dd0c-47e4-a2e8-4f9460a7ff14.mp4?playbackTicket=db40e2e3e7e443009ba06c1268ce9fe8&site=vmware.mediasite.com)
 
-[SDDC9025 - VVD 101: Build Your Cloud the Right Way, First Time](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e793f827-95d9-42f7-adc1-cc4cf1ff48be.mp4?playbackTicket=f96d759695d4459dbed62c46ef18edf2&site=vmware.mediasite.com)
+[EUC9160 - Secure Digital Workspace of the Future: Embracing the Opportunities Presented by Enterprise Mobility in Financial Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/758a3a0b-2c40-4ba7-8bf4-a6e35056ba08.mp4?playbackTicket=d1290b1c5c644f2fa0fd81e4cc1ae237&site=vmware.mediasite.com)
 
-[SDDC9035-S - SDDC and Hyperconverged has Arrived – Get on Board!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/16009f16-157c-494c-83db-c36344096943.mp4?playbackTicket=299e438d91d94a49868104aa3ef5be9e&site=vmware.mediasite.com)
+[EUC8160 - Discover AirWatch: Enterprise Mobility Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1ce83258-307d-4813-a9a4-4a1c47fb4b78.mp4?playbackTicket=a3ec5d4536cd4489b91761b9bd06bd5c&site=vmware.mediasite.com)
 
-[SDDC9176 - How VMware Cloud Foundation powers the IBM Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f1afa7a1-e475-413f-8c1c-52c2226037e6.mp4?playbackTicket=4e94a74326c84bd2823f1ea63ae10601&site=vmware.mediasite.com)
+[EUC9970-SPO - 0-70 with Horizon 7](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0fbcf7e1-009d-4ffc-914f-886253b97157.mp4?playbackTicket=725078b7ba9e475f85f38168dfdb5c6f&site=vmware.mediasite.com)
 
-[SDDC9181 - VMware Cloud Foundation Backup and Disaster Recovery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/59c88da0-75a7-435b-88fa-289317d89211.mp4?playbackTicket=627ccfde8d5a4361b9650daea3036887&site=vmware.mediasite.com)
+[EUC8990 - CSC Hyper-Productive Digital Workplace](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/42287088-fb98-46a8-97b2-6e02f72cdf1b.mp4?playbackTicket=c464af8a686f44919cb25715cb0d0936&site=vmware.mediasite.com)
 
-[SDDC9404-SPO - Reinventing Disaster Recovery Leveraging Public Cloud Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5e2e320e-9f3a-4f65-8712-7456268d8b73.mp4?playbackTicket=6df03d56142645cb8a41b2dc289857a2&site=vmware.mediasite.com)
+[EUC7601R - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1fff7498-1519-4a87-adc9-9eda2a63eda2.mp4?playbackTicket=ca12621f61fe4e35926410e240aef414&site=vmware.mediasite.com)
 
-[SDDC9428-SPO - Practical Strategies for SDI and Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bc29d651-6b57-4ac5-8053-3ced1695bfdb.mp4?playbackTicket=4f6cd55155ff474aa045f7361dd44033&site=vmware.mediasite.com)
+[EUC8584 - vRealize Operations: The Authoritative Source for Monitoring and Reporting for Horizon and Citrix XenApp Deployments on vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6bdf625-2bb7-42bc-a996-9a220a87af4e.mp4?playbackTicket=014f8b5239254b38b711d3b5a70a35ae&site=vmware.mediasite.com)
 
-[SDDC9456-SPO - Implementing Self-Service Storage Provisioning with vRealize Automation XaaS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7f338d41-d20f-436e-8541-c769183a10ac.mp4?playbackTicket=97ce9a5f168d479993c3aeb70352cb98&site=vmware.mediasite.com)
+[EUC9389 - What Is VMware Workspace ONE?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6980f296-5b3a-48ed-b653-211d9c56ac57.mp4?playbackTicket=00ed00402acb4b599a60664fbe5dab6f&site=vmware.mediasite.com)
 
-[SDDC9462-SPO - The Edge is Still Bleeding: A face-melting technical smorgasbord of all things Converged, Hyper-Converged, Cloud Native & Software Defined](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a18e8431-7d10-4c51-85ba-0470c76df70a.mp4?playbackTicket=96512662697f45baa879f89f793f6812&site=vmware.mediasite.com)
+[EUC9387 - Deployment Best Practices for VMware Identity Manager](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2b083f40-2cf1-477a-998c-7409584245e5.mp4?playbackTicket=6873c27b52c640f78e6e5e08718024bb&site=vmware.mediasite.com)
 
-[SDDC9465-SPO - Level Up to IT as a Service with Hyper-Converged](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/70383486-f4fd-4e5c-b797-d6ce7a1d2729.mp4?playbackTicket=b74f8be4e205495a94afe04cdee8ef45&site=vmware.mediasite.com)
+[STO7443 - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/356309a5-f740-4cda-bc4d-5bec22a96d82.mp4?playbackTicket=e2ce58656bab4a1cb772f449c53597b2&site=vmware.mediasite.com)
 
-[SDDC9605-SPO - Using Hyper-intelligence to build next generation storage platforms](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcd52ca6-4cc9-4a21-a789-fd1210aedfb2.mp4?playbackTicket=a2076a715ccd4a08b601d82d6f282fd4&site=vmware.mediasite.com)
+[HBC7602 - Build True Hybrid Clouds: See How Service Providers Can Use NSX to Extend Customer On-Premises Data Centers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/38d02c53-daf4-4e0c-bcbf-b66890345119.mp4?playbackTicket=5df913c66f61407d9e11b7e195971a84&site=vmware.mediasite.com)
 
-[SDDC9612-SPO - How to design and implement VMware’s vCloud in production](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4f441c47-1bb9-448e-8961-d14350103470.mp4?playbackTicket=c73872f666744758a0d8bb6ad162481b&site=vmware.mediasite.com)
+[HBC8474 - Making It Easy to Orchestrate and Automate Your Hybrid Cloud Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/799aec9e-91f7-424e-bcd3-5292e896d295.mp4?playbackTicket=4f87819ff9984345923ec7324d1d0293&site=vmware.mediasite.com)
 
-[SDDC9613-SPO - Building the Future Data Center with Province of Nova Scotia](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1a43a8d3-456c-44a8-aeab-73030eeb2057.mp4?playbackTicket=f524fc9e22aa49899691d92662125d72&site=vmware.mediasite.com)
+[HBC8503 - Taking VDI and Published Application Environments to the Next Level with App Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3c07d192-efa6-41cf-8625-670210ef8037.mp4?playbackTicket=d3b67e7af77b444c90376f2486fffc2c&site=vmware.mediasite.com)
 
-[SDDC9726-SPO - Making SolidFire Invisible in your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6629b6cd-d700-47ba-9676-23c41b4c5fd2.mp4?playbackTicket=6be2e81119df45048a536a6cf30735ee&site=vmware.mediasite.com)
+[HBC9463-SPO - Data Protection as a service for your vCloud Director environment with Veeam](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c1d161f6-d86c-4f51-bd4b-a0ac96dd163a.mp4?playbackTicket=89d63649521e48a78e0f49592720af0a&site=vmware.mediasite.com)
 
-[SDDC9921-SPO - Evaluating Tradeoffs in Reducing and Eliminating Downtime Inside and Outside of the Software Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c57b7ae0-9841-450b-b245-9caf50e72ece.mp4?playbackTicket=723cb186f69e4329b3d51047fc14473d&site=vmware.mediasite.com)
+[HBC7943 - Designing a Data Center in the Cloud: A vCloud Air Perspective](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/12653315-3309-48f4-8e56-30767992e382.mp4?playbackTicket=fd9dbc4d710b4ff28f7b3149cd0ee1d0&site=vmware.mediasite.com)
 
-[SDDC9971 - Experience the Business Impact of IT Innovation & Transformation in this Live Interactive Simulation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f62de2b4-4429-47c4-b4dd-20f5a14a8207.mp4?playbackTicket=bcd17bd046234fa8b9b17d063190cac2&site=vmware.mediasite.com)
+[HBC8312 - Maintaining Regulatory Compliance in the Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/06d347aa-aac9-4df8-a124-4544d9888e29.mp4?playbackTicket=c601503d5eb44710ae165f15164525ef&site=vmware.mediasite.com)
 
-[SEC10019 - VMware NSX Micro-segmentation – Definition & Benchmark Deep-Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fc19c529-a917-4251-8af0-623ef49562a6.mp4?playbackTicket=c7d3733028094c0e9bd2d90ba2afc997&site=vmware.mediasite.com)
+[HBC8799 - How OVH, vCloud Air Network Service Provider, Is Using NSX to Easily Onboard Workloads to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/91183f3f-781d-4c55-b60e-f0f5b55468a6.mp4?playbackTicket=4e7c24ef0326435e8c69258221776bf4&site=vmware.mediasite.com)
 
-[SEC10020 - Managing Cybersecurity Risks Within SDDC: VMware and Palo Alto Networks Customers Discuss Their Perspectives and Experiences with NSX and VM-Series Deployments](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abe989c5-749c-4893-8754-a8f5b30e954e.mp4?playbackTicket=eee35ce8b45049e899723330d0bb299b&site=vmware.mediasite.com)
+[HBC9171 - Intercontinental vMotion with Purpose](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a2cbb462-5e27-4897-836d-0b3f009f2d59.mp4?playbackTicket=b3da65196126477289329f606958aad4&site=vmware.mediasite.com)
 
-[SEC7568 - Practical NSX Distributed Firewall Policy Creation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f247242f-0ec7-4bdb-b6fa-375075834e3e.mp4?playbackTicket=6b5371004b7b44babc94449567954827&site=vmware.mediasite.com)
+[HBC8484 - Data Sovereignty and Compliance Automation In The Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4b42e505-08e0-4fec-b301-da013525f163.mp4?playbackTicket=8833f4a6e8d44661aa342c70a80c88c4&site=vmware.mediasite.com)
 
-[SEC7593 - NSX Security for Horizon View 7—Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e59158e7-78cb-49b8-b062-82399b2a59cf.mp4?playbackTicket=9f2196541c56480e882216babe64ede7&site=vmware.mediasite.com)
+[HBC7999 - VMware Availability for VCAN: Native vSphere Replication](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/025a6455-130f-4542-b0ca-3f9f3191c798.mp4?playbackTicket=f6442730cce94da89f9d88dd928df072&site=vmware.mediasite.com)
 
-[SEC7628 - Use NSX to Automate Your Security Incident Response so You Can Stay Above Water](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80b1a787-3cea-46f0-8a62-11a313cc2b32.mp4?playbackTicket=99d9365754c34a7aa0f485e5ef9ca9a3&site=vmware.mediasite.com)
+[HBC8504 - Have It Your Way: Hybrid Cloud Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d006204-6f3e-44fe-b6c0-01dff52f1885.mp4?playbackTicket=2dc91b24ea574e5b97cdfcf6d2028406&site=vmware.mediasite.com)
 
-[SEC7836R - Introduction to Security with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/be6cab8f-3195-4d85-8f7e-ad065bc32c78.mp4?playbackTicket=d8b999aeeca74c6a927d3cd563c1f7b6&site=vmware.mediasite.com)
+[HBC7928 - Introduction to vCloud Air Networking and Security Portfolio: A Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/72693426-caa8-4829-888e-eac837f33266.mp4?playbackTicket=3d49c2ea9da94e8099a4f4aee6b37baf&site=vmware.mediasite.com)
 
-[SEC7836R - Introduction to Security with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fb585051-36f5-4258-929a-af2fbfa265a8.mp4?playbackTicket=90e8e2c4440044d68421164aae54a88a&site=vmware.mediasite.com)
+[MGT8084 - Hybrid Cloud Case study: City of New York Self-Provisioning Gateway 2.1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ed5da4fe-d8f5-4fd6-a5fa-923c04db8c4a.mp4?playbackTicket=cf555a4e84da442f9e011a8c0dbba2d3&site=vmware.mediasite.com)
 
-[SEC8022 - Implementing Agentless AV and IPS/IDS Security Solutions with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e6f36b5a-37e2-4c2d-b70e-8e1afecfd771.mp4?playbackTicket=79046b11154b4b479a4b2746a4321278&site=vmware.mediasite.com)
+[HBC8491 - Deep Dive: VMware on IBM Cloud Validated Design](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2d098a0a-d6b4-43f1-b95f-e9011497d904.mp4?playbackTicket=d25d9ff6f76e4563b86ddda247c3f1dd&site=vmware.mediasite.com)
 
-[SEC8081 - Healthcare: The Security Awakens](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e2ad5f1a-0538-4caa-89b2-77e5e6c3b915.mp4?playbackTicket=1f9f8e91956a42d38cd540921583ce70&site=vmware.mediasite.com)
+[HBC9453-SPO - Achieving New Levels of Cloud Efficiency over vSphere based Hyper-Converged Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a59122b8-3952-4ee1-81a9-781184008646.mp4?playbackTicket=d8ec5e766ac14c01bee40dec79253a1b&site=vmware.mediasite.com)
 
-[SEC8348 - Deploying Security in a Brownfield Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ea40cabc-8cee-40a6-ac8f-301f6868d355.mp4?playbackTicket=e3cc9a0172c741d4a6bc91eab044bf61&site=vmware.mediasite.com)
+[HBC7954 - Implementing Hybrid Cloud with VMware vCloud Air and NSX: A Closer Look](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ebef739a-a48c-4c29-829e-08943179e525.mp4?playbackTicket=5ee71fe2ac154b4ca912ab3bfed71642&site=vmware.mediasite.com)
 
-[SEC8667 - Deep Dive into Real-Life Data-Center Breaches and How They Could Have Been Avoided](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f5d438ba-393a-42a9-bc1c-068778d3f801.mp4?playbackTicket=5483c0092de44dad8d8ccb34b1ad780d&site=vmware.mediasite.com)
+[HBC9185 - How to Connect Your On-Premises Data Center to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f6ee960d-55a7-4f01-8e70-0154aa64975f.mp4?playbackTicket=30bee5c4d1e443b7a21c0a66776c5700&site=vmware.mediasite.com)
 
-[SEC8730 - NSX Security and Micro-segmentation Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/969b9b2b-2fca-4983-aa6d-4a4f81ccc526.mp4?playbackTicket=093f92a3dab74badb7fb006b5e997dfd&site=vmware.mediasite.com)
+[HBC8861 - Getting the Most Out of Your Hybrid Cloud Service Provider](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8bb37f93-6ecb-4c56-b4ac-fd8ef1217b15.mp4?playbackTicket=480856818abe401ebd0022e2eac10a31&site=vmware.mediasite.com)
 
-[SEC9446-SPO - Integrating a Threat Defense Lifecycle Security Approach with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/450ea122-fdae-4dd0-88bb-3b8f367184cd.mp4?playbackTicket=d1443341b6004b4aa5a2955d1e4b4618&site=vmware.mediasite.com)
+[HBC7830 - Virtualize, Secure, and Extend Your Data Center to the Cloud Using NSX: A Perspective for Service Providers and End Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96ab1fa7-4fb1-432c-a333-6077482f653d.mp4?playbackTicket=61e7d4b4d4d7429488a4a4742ae1ffb6&site=vmware.mediasite.com)
 
-[SEC9450-SPO - Bridging the Gap between Infrastructure and Security Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7257c5fc-70e3-40bf-bed3-bdf86a570535.mp4?playbackTicket=cb6bcb88ff774c69ac22b5795bc2f43a&site=vmware.mediasite.com)
+[HBC9949-SPO - Hybrid Cloud: Automated and validated VMware deployments on IBM Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4797fd28-6cbe-4ba0-8f2f-04d837ff4a45.mp4?playbackTicket=aada9f7b8d7840339f4cdfe4f7654d59&site=vmware.mediasite.com)
 
-[SEC9609-SPO - Trusted Security in the Software Defined Data Center: Real-World Use Cases Across VMware Platforms, including NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4f21e3d9-6da0-4e87-b5e0-4bda79132447.mp4?playbackTicket=63093df1c76743e3a56583e2eb779caf&site=vmware.mediasite.com)
+[HBC9611-SPO - OnApp: your hybrid cloud delivered](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d345739-6ad9-46b1-a9c2-596f1935def3.mp4?playbackTicket=0e7f79a28f1d4a3497266307f9fb1f78&site=vmware.mediasite.com)
 
-[SEC9618-SPO - Deep Dive:  Extending L4-L7 Security Controls for VMware NSX and VMware Integrated OpenStack (VIO) Environments with Fortinet Next Generation Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a7dec1a2-2f6f-4384-a5e6-5d8acef8f14e.mp4?playbackTicket=840710c0f221425ba07fa09cca972972&site=vmware.mediasite.com)
+[HBC8046-QT - Customer Onboarding with VMware NSX L2VPN Service for VMware vCloud Air Network](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d632a06b-7662-4524-845f-4350274c1778.mp4?playbackTicket=05615e8f13c045bcb621953e9788a300&site=vmware.mediasite.com)
 
-[SEC9619-SPO - Scale and Segment the Agile Data Center with Software-Defined Security and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/28217635-14e9-4f98-8c66-fbe1f0c7c7a8.mp4?playbackTicket=72f5ee764a00410ba9dd00da9843e01e&site=vmware.mediasite.com)
+[HBC7661-QT - Generate Revenue with vSphere Optimization Assessment (VOA) for Service Providers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d2d85af5-7f02-408e-8222-f9ae4e5a46c6.mp4?playbackTicket=e4e8ca569386447dbe46130a4e8efc99&site=vmware.mediasite.com)
 
-[SEC9968-SPO - Automate Check Point vSEC Advanced Security with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/038e1c96-3e9b-4461-89d7-669504d3f6b6.mp4?playbackTicket=28d48c5028c84e6089a2d3c4372bdd0b&site=vmware.mediasite.com)
+[HBC8915 - SLED and Cloud: Is Cost Containment the Right Question?  Yes and No](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/79227b2a-7fd1-4bcc-80e7-b5879832f0d7.mp4?playbackTicket=b2364151b5234de5b88f0f06aef766f5&site=vmware.mediasite.com)
 
-[SEC9972-SPO - Deep Dive: Secure your multi-tenant cloud with Palo Alto Networks VM-Series and VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b16415ad-38c1-472c-b253-8ea09f848221.mp4?playbackTicket=8766bf5a67574944898ed0520149300f&site=vmware.mediasite.com)
+[HBC7948 - Extending Your Data Center to vCloud Air in Less than 60 Minutes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a4ca518f-da7f-4103-a0c7-5efcfcd619b4.mp4?playbackTicket=73fcd218c35b4b2e956cc6947d76a00e&site=vmware.mediasite.com)
 
-[SEC9976-SPO - Extending security beyond the SDDC with VMware NSX and Palo Alto Networks VM-Series Virtualized Next-Generation Firewall](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/99f1a482-e8af-4218-9afc-8a1ac3177fdf.mp4?playbackTicket=c1ea630eb6614381b72814d3c36d443f&site=vmware.mediasite.com)
+[HBC9111 - vRealize Operations and vCloud Air: Monitoring Your Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f8c7643e-51a5-4c95-901f-00f21ef427df.mp4?playbackTicket=163375277e914036b6635c84da55c898&site=vmware.mediasite.com)
 
-[STO10801-SPO - Modernizing with Private and Hybrid Cloud: How CSC & VMware move enterprise clients to next-generation infrastructures](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/27af5e3c-a248-42e5-82cd-a273d89782d3.mp4?playbackTicket=6eb4d185aee14679bcd51262c5171c4c&site=vmware.mediasite.com)
+[HBC8805 - Extend Your Data Center to the Cloud: A Real-World Example](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7106079c-72a7-4bc4-a587-b90f6651198a.mp4?playbackTicket=975edcc4dd5846408d3e08eb0f7ce184&site=vmware.mediasite.com)
 
-[STO7443 - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/356309a5-f740-4cda-bc4d-5bec22a96d82.mp4?playbackTicket=6eddb4e73ee147dda203154eaa92f889&site=vmware.mediasite.com)
+[HBC10827-SPO - Ensure Success of Hybrid Cloud with Amazon Web Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a749a3ab-4c94-4f7b-abcb-f160de2023d2.mp4?playbackTicket=5c46042c556245bcbcab77476de073a4&site=vmware.mediasite.com)
 
-[STO7443r - How did VMware IT Achieve a Non-Disruptive Disaster Recovery Test in 90 Minutes for 900 Terabytes of Storage and 2000 Production Virtual Machines?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a04b4f51-dd0c-47e4-a2e8-4f9460a7ff14.mp4?playbackTicket=6945e05b61714f5fa697896570c6dec9&site=vmware.mediasite.com)
+[HBC8295 - The VMware Journey to Cloud with vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f9598f6b-9b50-4f5a-a4bb-ac2c5ed72d08.mp4?playbackTicket=3a265680878c440d89a7fe638bdb2a2d&site=vmware.mediasite.com)
 
-[STO7534 - Virtual SAN - Day 2 Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f760bfc2-3bf7-43be-9392-f9b4cd4b70a3.mp4?playbackTicket=043145f2a2dc4666bdd48965e31129eb&site=vmware.mediasite.com)
+[HBC9401 - Whats New with vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f53efd07-a26c-472d-bed0-ba09e4183c97.mp4?playbackTicket=ec0cc37688584de8b32efb40c7097580&site=vmware.mediasite.com)
+
+[HBC9092 - vCloud Air: Advanced Networking Concepts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a1f6d3d-9236-47fc-afd3-fdc163ece69a.mp4?playbackTicket=6afff1ae3f964312be53a3a4f337ee39&site=vmware.mediasite.com)
+
+[HBC9065 - Better Together: vRealize Automation and vCloud Air](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5ce767de-b2df-44ab-bf07-1df96e80670e.mp4?playbackTicket=6fd15e1798f94a829da377499aa98d08&site=vmware.mediasite.com)
+
+[HBC8292 - vCloud Air Recovery as a Service (RaaS) Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/75913957-404b-4b52-a877-1a224fac9ed4.mp4?playbackTicket=b3f8a2b9d60e4d61bb928768dcba6a60&site=vmware.mediasite.com)
+
+[HBC8617 - Seamless Security and Compliance in a Hybrid Cloud Architecture](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4668f565-aa7c-4d04-9219-fa3f2011ea13.mp4?playbackTicket=61814a65dd0545918ab53053e0afd518&site=vmware.mediasite.com)
+
+[HBC9164 - Modernizing Healthcare IT with the Public Cloud, Your Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/aa5252bd-f68e-479d-ba82-511a81ad36c2.mp4?playbackTicket=f3a9dfacc4cc4243a41ec93e1922a0c4&site=vmware.mediasite.com)
+
+[HBC8952 - vCloud Air Design Patterns for Design, Implementation, and Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d6a0dad-c682-4206-b611-ecd00d37e0ed.mp4?playbackTicket=8e25031150d84e7fbc17d8916e285956&site=vmware.mediasite.com)
+
+[HBC7646 - St. John's University Leverages vCloud Air Disaster Recovery for Its Critical ERP System, Banner](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9931795e-75c4-4278-844a-4e81e1589523.mp4?playbackTicket=a08a66e3e8274c84aac3b5f58e01aabf&site=vmware.mediasite.com)
+
+[STO8164 - Benchmarking VAIO-Integrated Caching. Is it Really Faster? How Much, and Why?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/946b3b60-7277-4823-8a43-8e657619c1e2.mp4?playbackTicket=f96709b7084948a682c89018f2f7e442&site=vmware.mediasite.com)
+
+[STO7973 - Architecting Site Recovery Manager to Meet Your Recovery Goals](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/145853e6-414b-40d3-9064-3c6258b2c562.mp4?playbackTicket=74544a39527646a5b107f240f6819fac&site=vmware.mediasite.com)
+
+[STO8422 - Virtual Volumes: Why?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c7322870-0548-49d7-8898-70fa369c71dd.mp4?playbackTicket=eadee4d8df0a479faa0a379f36d2d537&site=vmware.mediasite.com)
+
+[STO7848 - Virtual SAN Storage Efficiency Technologies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51d8e968-a14a-4fd6-9a70-78eea373aa51.mp4?playbackTicket=0760b467b9bb4bffae729201e128a660&site=vmware.mediasite.com)
+
+[STO7549 - Achieving Agility, Flexibility , Scalability and Performance with VMware Software Defined Storage (SDS) and Virtual Volumes for Business critical databases](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d219294-dd04-4027-b8d3-e1d97bc4c07f.mp4?playbackTicket=b2183881bdbd4abdab8fe32f1c37d4e2&site=vmware.mediasite.com)
+
+[STO8246R - Virtual SAN Technical Deep Dive and Whatâs New](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6bc53227-80fd-40bf-9fa2-72f6dec72e4a.mp4?playbackTicket=e6d8dcd6f295422c8b02000e5c209c7b&site=vmware.mediasite.com)
+
+[STO8619 - Transitioning to VVols: Partner Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3bbc94f5-0e4d-4eb1-b446-22846fc5fd8d.mp4?playbackTicket=d093094f2c6a41d085186058715e4b80&site=vmware.mediasite.com)
+
+[STO9925 - Enterprise-grade data protection for Virtual SAN with EMC Recoverpoint for VMs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cd4506da-6b6d-4fda-ac49-d32df4784c4d.mp4?playbackTicket=2ffd84de3b0044ab953ac9b0409d90bd&site=vmware.mediasite.com)
+
+[STO7903 - An Industry Roadmap: From storage to data management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d39a396e-cc32-4821-ba43-67ccd49d41bc.mp4?playbackTicket=af1729aac37a47ba82db44b40aed979d&site=vmware.mediasite.com)
+
+[STO9014 - Deploying HCI at datacenter scale](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/02d2d30f-5cfa-41a3-a59b-a339bf394a61.mp4?playbackTicket=2b82d42950d4442a98791431d18287cd&site=vmware.mediasite.com)
+
+[STO9157R - Achieving Unprecedented Availability, Security, & Cost Savings with VMware Virtual SAN and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ffbe6fc0-a23d-434d-90f7-2c569a28943e.mp4?playbackTicket=05e63d1ffa714bd4adc81188aa7ea16e&site=vmware.mediasite.com)
+
+[STO8795 - Ushering in a New Era of Hyperconverged Big Data - Hadoop over VSAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c9068a08-c05b-4ad7-81eb-c44b2b26bbf2.mp4?playbackTicket=b37ede5306594552be50a3d861001f91&site=vmware.mediasite.com)
+
+[STO8562 - Deployable and Tactical Hyper-Converged Software (HCS) for the Battlefield](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7dca7dbc-89a1-495b-a2be-d76e6620f8c1.mp4?playbackTicket=07f0627655f14465970526c2ca014ec3&site=vmware.mediasite.com)
+
+[STO8880 - Successful ROBO Design with vSphere & Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7fd88b7f-ac04-4d07-acd3-9729fc7e6182.mp4?playbackTicket=b831c09e7a0c4514815ef2348e412260&site=vmware.mediasite.com)
+
+[STO8750 - Troubleshooting Virtual SAN 6.2: Tips & Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/95b66ec6-541c-4fab-a042-61481853b9cd.mp4?playbackTicket=29197c0d71934de3b0439dd6e854e3aa&site=vmware.mediasite.com)
+
+[STO8718-SPO - Building Next-Gen Data Protection for VMware Environments with Rubrik](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/87aa3401-c537-46b4-934c-5e4c098e5b1c.mp4?playbackTicket=d35c8fbd128046c3bcbfffd89382985b&site=vmware.mediasite.com)
+
+[STO9423 - File Services on Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/55454cf3-9e48-47a2-a9a3-2f10341456f6.mp4?playbackTicket=2fa6cb8d991f4d1ab80da864a2ec56ce&site=vmware.mediasite.com)
+
+[STO8246R - Virtual SAN Technical Deep Dive and Whatâs New](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f2db2653-853b-47eb-9953-57f83aec95ae.mp4?playbackTicket=9aed949801b6456aae4c4a5807a691e3&site=vmware.mediasite.com)
+
+[STO8699 - Building a Business Case for VMware Hyper-Converged Software with Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b73c509d-4ed1-44d8-9c09-c2deef21b7ba.mp4?playbackTicket=a3c9d8c67acb477f99831c7d84958a01&site=vmware.mediasite.com)
+
+[STO8204 - Cohesity & VMware: Simplifying data protection for Vsphere and Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2f498060-c1c2-485c-9ec5-b606dc5c8ae1.mp4?playbackTicket=2493062db8854ae989b6c280323e2cd7&site=vmware.mediasite.com)
+
+[STO7645r - Virtual Volumes Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9aef4a6b-ab4a-414f-abfd-784e217e73e9.mp4?playbackTicket=f40a6ff3d3af42e9aa02add3498e22b7&site=vmware.mediasite.com)
+
+[STO9157R - Achieving Unprecedented Availability, Security, & Cost Savings with VMware Virtual SAN and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/84b62518-6e36-4c1f-b353-15e795338039.mp4?playbackTicket=7e5563cbe11d4ddb8ef91264779fb072&site=vmware.mediasite.com)
+
+[STO7791-SPO - Insights to success: Capitalizing on the software-defined data center with the right management and storage](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a0db9b50-7680-4818-bf9c-2bdd5a94619c.mp4?playbackTicket=d5b21b70052f48b894c1dd41cd90e5f6&site=vmware.mediasite.com)
+
+[STO8344 - SRM with vRA 7: Automating Disaster Recovery Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e51b5f6e-6dc8-44d8-b67d-5ad975ecb652.mp4?playbackTicket=bfd95e2f151b4dfca21ad7ff2337d699&site=vmware.mediasite.com)
+
+[STO8159 - Snapshots Suck: How VSAN and VVol fix all your operational nightmares](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/617fe527-34bc-43e8-91bd-2dbba4ed701b.mp4?playbackTicket=20cf5b5de6c749f69f4b8a7092dbb316&site=vmware.mediasite.com)
+
+[STO9969-SPO - How Did Designer Shoe Warehouse Lace up Success With Flash-Optimized Storage From INFINIDAT?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c14365f-1922-4589-974a-62c23ea6fb38.mp4?playbackTicket=6c608a35cbe34305b2460d9bcc60fbd8&site=vmware.mediasite.com)
+
+[STO7831 - Storage for Cloud Native Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a7c36a0-bfed-43a7-a2ab-9f9c6dec42a1.mp4?playbackTicket=48aef24b3c034aef8d144810c17b2f13&site=vmware.mediasite.com)
+
+[STO9422 - Essential Virtual SAN Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/404c7a76-5b45-4133-b851-438c9926afa9.mp4?playbackTicket=3f573ab5ce0843858a4524ac764c1a85&site=vmware.mediasite.com)
+
+[STO9449-SPO - Journey to the SDDC: The Who, What, Why and Oh No of Moving to a Modern Data Center Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abbe1b58-7dcf-46c7-a5b9-3742bb96f635.mp4?playbackTicket=b8d6cdb5817f4139a7665912e14d35da&site=vmware.mediasite.com)
+
+[STO7965 - VMware Site Recovery Manager: Technical Walkthrough and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/817de0e2-acb3-4bdf-bd12-0108388bca94.mp4?playbackTicket=292e6e19f4464c61906a76e0eb3cbbcb&site=vmware.mediasite.com)
 
 [STO7535 - Conducting a Successful Virtual SAN 6.2 Proof of Concept](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c65a5a6b-2419-41cd-8a3f-496bdb9e15d9.mp4?playbackTicket=94dbc1bda4b8489bbf7dbcc2cd282e9a&site=vmware.mediasite.com)
 
-[STO7549 - Achieving Agility, Flexibility , Scalability and Performance with VMware Software Defined Storage (SDS) and Virtual Volumes for Business critical databases](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d219294-dd04-4027-b8d3-e1d97bc4c07f.mp4?playbackTicket=df381b3cf2a9446c85160174bb6c77ed&site=vmware.mediasite.com)
+[STO9079 - Virtual SAN for VMware Service Providers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d0cd2969-d32f-4035-abc8-c53743c95145.mp4?playbackTicket=618f0991c3f44d4fb00d2a53bfcedce9&site=vmware.mediasite.com)
 
-[STO7552 - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f2e5ecb-df45-4088-95df-2346c6737be2.mp4?playbackTicket=1a0ceeadf9a1466d8444fb1a50645838&site=vmware.mediasite.com)
-
-[STO7552r - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4bb00508-f028-4529-8d7a-1dca8a59a57a.mp4?playbackTicket=bb856e9c5a7c4af4a606fab43e06dab1&site=vmware.mediasite.com)
-
-[STO7557 - Successful Virtual SAN 6 Stretched Clusters](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cac28377-f056-43e3-8e55-269a901c428f.mp4?playbackTicket=6ab2a267b37a410cb7494c4f8a9557ca&site=vmware.mediasite.com)
-
-[STO7560 - Four Unique Enterprise Customers Deployment of VMware Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f9b56ed8-e637-4547-82f4-7ad1563fcbcc.mp4?playbackTicket=b98c7d95fc5e4ceea27d75a127d8008a&site=vmware.mediasite.com)
-
-[STO7645 - Virtual Volumes Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abe4594f-f57d-4939-9fcf-10b1d0b81683.mp4?playbackTicket=7926113ebc454aca8144ecb8f28f3815&site=vmware.mediasite.com)
-
-[STO7645r - Virtual Volumes Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9aef4a6b-ab4a-414f-abfd-784e217e73e9.mp4?playbackTicket=82d1c75f94eb4b958f8a92a9b4caaef3&site=vmware.mediasite.com)
-
-[STO7650 - Software-Defined Storage at VMware Primer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff8fe8c5-04c7-4929-a042-76938a923ae5.mp4?playbackTicket=6358d88fc90f45498fb7600c2293f955&site=vmware.mediasite.com)
-
-[STO7791-SPO - Insights to success: Capitalizing on the software-defined data center with the right management and storage](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a0db9b50-7680-4818-bf9c-2bdd5a94619c.mp4?playbackTicket=58ddba17383d49e28838c8e146c0801d&site=vmware.mediasite.com)
-
-[STO7802 - Simplifying Disaster Recovery in 2016 using VSAN, NSX and SRM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8cd391ca-2d58-47b6-bf48-6c0aba6ca278.mp4?playbackTicket=dd1d343d529b4a7eb96359056e7a52cd&site=vmware.mediasite.com)
-
-[STO7831 - Storage for Cloud Native Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3a7c36a0-bfed-43a7-a2ab-9f9c6dec42a1.mp4?playbackTicket=178a2dd16a61478da93f9b9cc63b6dc9&site=vmware.mediasite.com)
-
-[STO7848 - Virtual SAN Storage Efficiency Technologies](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51d8e968-a14a-4fd6-9a70-78eea373aa51.mp4?playbackTicket=ea0b0d1d0e82443da0f7b7d012de2bc6&site=vmware.mediasite.com)
-
-[STO7875 - A Day in the Life of a VSAN I/O](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e04d9a51-2380-4ed0-af3e-54857741cfd1.mp4?playbackTicket=2f8864c028ae49d0bc74ca1c5c4a76d0&site=vmware.mediasite.com)
-
-[STO7903 - An Industry Roadmap: From storage to data management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d39a396e-cc32-4821-ba43-67ccd49d41bc.mp4?playbackTicket=c1493fd29aa24495b36d0546c9bd9ff3&site=vmware.mediasite.com)
+[STO10801-SPO - Modernizing with Private and Hybrid Cloud: How CSC & VMware move enterprise clients to next-generation infrastructures](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/27af5e3c-a248-42e5-82cd-a273d89782d3.mp4?playbackTicket=cc8887f1f1584c878f9f0712325d1986&site=vmware.mediasite.com)
 
 [STO7904 - Virtual SAN Management Current & Future](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3feebb4d-de31-40c9-8d97-42bde26aacfd.mp4?playbackTicket=a48cea9d184b4125b6eee14b536c5117&site=vmware.mediasite.com)
 
-[STO7914 - Revamped vSphere Storage DRS and SIOC for automating the Data Centers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c379cbf-2658-498d-aca2-4c747d200731.mp4?playbackTicket=857bc491b8d64a27bd243f844bcc9134&site=vmware.mediasite.com)
+[STO8165R - VSAN Networking Deep Dive and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fa572d71-aa51-4b77-a402-0c3f7de77cdd.mp4?playbackTicket=ae04bd4646444966818dd3266ee0dfbc&site=vmware.mediasite.com)
 
-[STO7953 - The Future is Here:  Turbocharge All Flash Virtual SAN with Next Generation Hardware](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/81287ef0-2e1b-4129-bc3d-5de1d9edf72a.mp4?playbackTicket=657254e8ef964e71a88b97dac0d993c1&site=vmware.mediasite.com)
+[STO8694 - High-Speed Heroics: Array-based Replication and Recovery for VMware Virtual Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7c7abe95-e28b-48d4-8a41-d94e53ad738b.mp4?playbackTicket=741655ca1ca543debb708b7d122217df&site=vmware.mediasite.com)
 
-[STO7965 - VMware Site Recovery Manager: Technical Walkthrough and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/817de0e2-acb3-4bdf-bd12-0108388bca94.mp4?playbackTicket=4cde47dda91346b8819c0027d9efbf3a&site=vmware.mediasite.com)
-
-[STO7973 - Architecting Site Recovery Manager to Meet Your Recovery Goals](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/145853e6-414b-40d3-9064-3c6258b2c562.mp4?playbackTicket=172bff2cdc6b49578a5c401c670f91b4&site=vmware.mediasite.com)
-
-[STO7977 - SRM with NSX: Simplifying Disaster Recovery Operations & Reducing RTO](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e500d561-47df-46ec-bed3-4cc833eb23ba.mp4?playbackTicket=94fb2c7e89434a70a63a9ce259e07b9c&site=vmware.mediasite.com)
-
-[STO8144 - VMware vSphere Virtual Volumes in a NetApp Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c709554e-e853-45f6-a587-868b0cae18c5.mp4?playbackTicket=4066ae23a6aa42358e5ad454e55d4d56&site=vmware.mediasite.com)
-
-[STO8159 - Snapshots Suck: How VSAN and VVol fix all your operational nightmares](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/617fe527-34bc-43e8-91bd-2dbba4ed701b.mp4?playbackTicket=05c7ffa2989a45f1a7a68288b6b22df8&site=vmware.mediasite.com)
-
-[STO8164 - Benchmarking VAIO-Integrated Caching. Is it Really Faster? How Much, and Why?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/946b3b60-7277-4823-8a43-8e657619c1e2.mp4?playbackTicket=07b462ae7bc14319b08b9f46367fc411&site=vmware.mediasite.com)
-
-[STO8165R - VSAN Networking Deep Dive and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fa572d71-aa51-4b77-a402-0c3f7de77cdd.mp4?playbackTicket=2d8f9f8b888a4945849ae6f218ae0eff&site=vmware.mediasite.com)
-
-[STO8165R - VSAN Networking Deep Dive and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/29ff33bf-9d87-41db-87a4-1727893b65d3.mp4?playbackTicket=956d563b254f476c88ecc72b0b9498fe&site=vmware.mediasite.com)
+[STO8923 - PowerShelling Storage to the extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/10b3cc7e-cfe1-427a-a39e-ea368f3e6b99.mp4?playbackTicket=6189426bd15647bd86121db84f6e944c&site=vmware.mediasite.com)
 
 [STO8179R - Understanding the Availability Features of Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e6bb9492-8265-4a30-8b9e-e8c7179c5380.mp4?playbackTicket=863ae1044ba34494b5ca93e50568d3a8&site=vmware.mediasite.com)
 
-[STO8179R - Understanding the Availability Features of Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca6f06cd-41c0-4d87-af99-4b825c5d54d9.mp4?playbackTicket=2e2241acef6849c996db7594cf5f1629&site=vmware.mediasite.com)
+[STO7802 - Simplifying Disaster Recovery in 2016 using VSAN, NSX and SRM](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8cd391ca-2d58-47b6-bf48-6c0aba6ca278.mp4?playbackTicket=354cd8d29b8c4e51a56410168d2708e7&site=vmware.mediasite.com)
 
-[STO8204 - Cohesity & VMware: Simplifying data protection for Vsphere and Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2f498060-c1c2-485c-9ec5-b606dc5c8ae1.mp4?playbackTicket=d4696d178e404fae94cdf146a506c673&site=vmware.mediasite.com)
+[STO8144 - VMware vSphere Virtual Volumes in a NetApp Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c709554e-e853-45f6-a587-868b0cae18c5.mp4?playbackTicket=7190225f7c554c2a8974eb6309e2dda7&site=vmware.mediasite.com)
 
-[STO8246R - Virtual SAN Technical Deep Dive and What’s New](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6bc53227-80fd-40bf-9fa2-72f6dec72e4a.mp4?playbackTicket=c4a945d8b560465ebd3cdc551302ffa4&site=vmware.mediasite.com)
+[STO7650 - Software-Defined Storage at VMware Primer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff8fe8c5-04c7-4929-a042-76938a923ae5.mp4?playbackTicket=0bcd4b64b1de4233b089c3530036fded&site=vmware.mediasite.com)
 
-[STO8246R - Virtual SAN Technical Deep Dive and What’s New](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f2db2653-853b-47eb-9953-57f83aec95ae.mp4?playbackTicket=1689865d42dd468ea6a68a0a2dc2a71f&site=vmware.mediasite.com)
+[STO7552r - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4bb00508-f028-4529-8d7a-1dca8a59a57a.mp4?playbackTicket=b491874bd74b40a1a7d67ed2f619b8de&site=vmware.mediasite.com)
 
-[STO8267 - Hours to Minutes: Automated Provisioning and Deployment Using PowerCLI, vRealize Automation and vRealize Orchestrator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/698493fe-181f-4997-b23d-87b3cf22cae2.mp4?playbackTicket=093ba6998b0d4ad39aca0b6772685c34&site=vmware.mediasite.com)
+[STO8840 - Deploy Scalable Private Cloud with vSphere Virtual Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4866bb37-d7a1-425a-b4c0-e91e38953280.mp4?playbackTicket=d64286fcaf834389af9f5caab1996b0c&site=vmware.mediasite.com)
 
-[STO8344 - SRM with vRA 7: Automating Disaster Recovery Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e51b5f6e-6dc8-44d8-b67d-5ad975ecb652.mp4?playbackTicket=b56c102e4222425193afb8a85393377d&site=vmware.mediasite.com)
+[STO7557 - Successful Virtual SAN 6 Stretched Clusters](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cac28377-f056-43e3-8e55-269a901c428f.mp4?playbackTicket=28d0b2c33d364c78946bd8bbf808372d&site=vmware.mediasite.com)
 
-[STO8422 - Virtual Volumes: Why?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c7322870-0548-49d7-8898-70fa369c71dd.mp4?playbackTicket=3e9ee9f1c6334155bc04c99c03f0a845&site=vmware.mediasite.com)
+[STO7953 - The Future is Here:  Turbocharge All Flash Virtual SAN with Next Generation Hardware](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/81287ef0-2e1b-4129-bc3d-5de1d9edf72a.mp4?playbackTicket=21c47012cec046969506aa5f9a34161e&site=vmware.mediasite.com)
 
-[STO8562 - Deployable and Tactical Hyper-Converged Software (HCS) for the Battlefield](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7dca7dbc-89a1-495b-a2be-d76e6620f8c1.mp4?playbackTicket=aa5dbacb6f8a4853a64b9bb50de9401d&site=vmware.mediasite.com)
+[STO8179R - Understanding the Availability Features of Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca6f06cd-41c0-4d87-af99-4b825c5d54d9.mp4?playbackTicket=95bca4f2fcf3465889c79879c25d0170&site=vmware.mediasite.com)
 
-[STO8568 - Virtual SAN with just 2 Failure Domains](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cceb944d-d62c-4868-9705-4a60d8e0e718.mp4?playbackTicket=036c79715680495f972d64203358441f&site=vmware.mediasite.com)
+[STO9058 - Evolution of VMware Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/67b74fb0-c717-4502-ab2d-844253ca0639.mp4?playbackTicket=5979ccae89994ce1af0c175821fb209a&site=vmware.mediasite.com)
 
-[STO8619 - Transitioning to VVols: Partner Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3bbc94f5-0e4d-4eb1-b446-22846fc5fd8d.mp4?playbackTicket=6fae5e13a98f41249365df718a043ad7&site=vmware.mediasite.com)
+[STO7534 - Virtual SAN - Day 2 Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f760bfc2-3bf7-43be-9392-f9b4cd4b70a3.mp4?playbackTicket=043145f2a2dc4666bdd48965e31129eb&site=vmware.mediasite.com)
 
-[STO8694 - High-Speed Heroics: Array-based Replication and Recovery for VMware Virtual Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7c7abe95-e28b-48d4-8a41-d94e53ad738b.mp4?playbackTicket=66c0e889e7be43a6b20c7e65e0d52c4c&site=vmware.mediasite.com)
+[STO9607-SPO - Running Business Critical Applications and the Software Defined Data Center on Hyper-Converged Infrastructure at the Speed of Flash](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9229c783-b259-47fc-90e9-589761e12cd4.mp4?playbackTicket=620021ef7cc24aea8be0a9586af4a4cb&site=vmware.mediasite.com)
 
-[STO8699 - Building a Business Case for VMware Hyper-Converged Software with Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b73c509d-4ed1-44d8-9c09-c2deef21b7ba.mp4?playbackTicket=b91f61a1b09744f29cf25d7e4db05c5c&site=vmware.mediasite.com)
+[STO7875 - A Day in the Life of a VSAN I/O](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e04d9a51-2380-4ed0-af3e-54857741cfd1.mp4?playbackTicket=2f8864c028ae49d0bc74ca1c5c4a76d0&site=vmware.mediasite.com)
 
-[STO8718-SPO - Building Next-Gen Data Protection for VMware Environments with Rubrik](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/87aa3401-c537-46b4-934c-5e4c098e5b1c.mp4?playbackTicket=2845505d54ef42c695e2ff929e38ceae&site=vmware.mediasite.com)
+[STO8904 - Hardware Choices in the Software Defined World â Tips on Choosing Hardware for Virtual SAN Deployment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f297417-ea36-49c4-a00d-e64e946c22dd.mp4?playbackTicket=544c040cefa1421ca1ea071cebfae71c&site=vmware.mediasite.com)
 
-[STO8743 - Extreme Performance Series: Virtual SAN Performance Troubeshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e19ef18-865b-4eba-bd76-d5aae334b7c0.mp4?playbackTicket=bdaa5011928d474b84dd86983e868321&site=vmware.mediasite.com)
+[STO9614-SPO - You have an all-flash Virtual SAN - what's next?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7a94fdf7-79a3-4b0f-974d-d0e2bac674a2.mp4?playbackTicket=42779269823f46648bd29625791ddce5&site=vmware.mediasite.com)
 
-[STO8750 - Troubleshooting Virtual SAN 6.2: Tips & Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/95b66ec6-541c-4fab-a042-61481853b9cd.mp4?playbackTicket=8ffb6b1b0ad34d0d8b5c2845f8887146&site=vmware.mediasite.com)
+[STO9054 - VVol and Storage Policy-Based Management ? Is It Everything They Said It Would Be?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4d7ec3ff-fe19-4773-a6c6-293a09d3b7e0.mp4?playbackTicket=68e9415ebbc34392b848d1f7d1ba9721&site=vmware.mediasite.com)
 
-[STO8754 - Virtual SAN and Horizon: Designed for Simple, Powerful Virtual Desktops](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae6ca51e-07e9-4a31-ba27-d33ed60ca211.mp4?playbackTicket=0f6e76d0ed174586be796e71999fde9a&site=vmware.mediasite.com)
+[STO8568 - Virtual SAN with just 2 Failure Domains](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cceb944d-d62c-4868-9705-4a60d8e0e718.mp4?playbackTicket=43fb3ca007f94f6cbf3ad51994d3aab7&site=vmware.mediasite.com)
 
-[STO8795 - Ushering in a New Era of Hyperconverged Big Data - Hadoop over VSAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c9068a08-c05b-4ad7-81eb-c44b2b26bbf2.mp4?playbackTicket=14ffc4c8fbdb4250a72a113834091084&site=vmware.mediasite.com)
+[STO8743 - Extreme Performance Series: Virtual SAN Performance Troubeshooting](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e19ef18-865b-4eba-bd76-d5aae334b7c0.mp4?playbackTicket=2428d21cb9b24c14a207d880c78fc624&site=vmware.mediasite.com)
 
-[STO8840 - Deploy Scalable Private Cloud with vSphere Virtual Volumes](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4866bb37-d7a1-425a-b4c0-e91e38953280.mp4?playbackTicket=7e73508e12e54af59b58d5473f07cf5d&site=vmware.mediasite.com)
+[STO9967-SPO - Rethinking Data Protection:  The Rise of Hyperconverged Infrastructure and Built-in Backup and Disaster Recovery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9fcc4072-3062-4ca9-86f8-3002c6f9e568.mp4?playbackTicket=67bc42e1371a4514973031fb31cd10ab&site=vmware.mediasite.com)
 
-[STO8880 - Successful ROBO Design with vSphere & Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7fd88b7f-ac04-4d07-acd3-9729fc7e6182.mp4?playbackTicket=428c47af04f04b9aa901df48d6c3f7d9&site=vmware.mediasite.com)
+[STO9396-SPO - Real World Guidance for Implementing VMware Virtual SAN from Ready Nodes to Build Your Own](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f340d793-566e-494e-a74e-2dc27c0ac97b.mp4?playbackTicket=cc21d762469a465fb83ead3592ac6d7c&site=vmware.mediasite.com)
 
-[STO8904 - Hardware Choices in the Software Defined World – Tips on Choosing Hardware for Virtual SAN Deployment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f297417-ea36-49c4-a00d-e64e946c22dd.mp4?playbackTicket=1a5e305e0bf045749ca3d684be58deda&site=vmware.mediasite.com)
+[STO8165R - VSAN Networking Deep Dive and Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/29ff33bf-9d87-41db-87a4-1727893b65d3.mp4?playbackTicket=4cb914d24e82465b9248ea6e2488040c&site=vmware.mediasite.com)
 
-[STO8923 - PowerShelling Storage to the extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/10b3cc7e-cfe1-427a-a39e-ea368f3e6b99.mp4?playbackTicket=bc9854efcc68488eb9aae43315e0f177&site=vmware.mediasite.com)
+[STO7977 - SRM with NSX: Simplifying Disaster Recovery Operations & Reducing RTO](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e500d561-47df-46ec-bed3-4cc833eb23ba.mp4?playbackTicket=b177b5e1ffd349c4b70ea8e85214d171&site=vmware.mediasite.com)
 
-[STO9014 - Deploying HCI at datacenter scale](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/02d2d30f-5cfa-41a3-a59b-a339bf394a61.mp4?playbackTicket=550460f263d946628375bd16b0d91170&site=vmware.mediasite.com)
+[STO7552 - Architecting High Availability and Workload Balancing for Tier 1 Mission Critical workloads using VMware Software Defined Storage and Extended Oracle RAC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f2e5ecb-df45-4088-95df-2346c6737be2.mp4?playbackTicket=b34e88ad1b454b089fdc61753647f55a&site=vmware.mediasite.com)
 
-[STO9054 - VVol and Storage Policy-Based Management ? Is It Everything They Said It Would Be?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4d7ec3ff-fe19-4773-a6c6-293a09d3b7e0.mp4?playbackTicket=f8f0041ee19a4d01a1e1c31d63ea5860&site=vmware.mediasite.com)
+[STO7914 - Revamped vSphere Storage DRS and SIOC for automating the Data Centers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c379cbf-2658-498d-aca2-4c747d200731.mp4?playbackTicket=1313c5593c7548608e09a55372c23f42&site=vmware.mediasite.com)
 
-[STO9058 - Evolution of VMware Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/67b74fb0-c717-4502-ab2d-844253ca0639.mp4?playbackTicket=806161c9f8404743bf984775e0da7cc7&site=vmware.mediasite.com)
+[HBC10704-QT - Backups to the cloud - Leverage the cloud for Business Continuity](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0d373172-3f12-4322-ad14-453619b57d9c.mp4?playbackTicket=b7771ffba28b412da33f67941e9a737a&site=vmware.mediasite.com)
 
-[STO9079 - Virtual SAN for VMware Service Providers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d0cd2969-d32f-4035-abc8-c53743c95145.mp4?playbackTicket=6ad3c9bbf5a5440e82647b1fe0d957d9&site=vmware.mediasite.com)
+[STO9988-QT - Running Epic with VSAN â Modern Architecture for Healthcare](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5bf7cd9b-79aa-41e1-88c3-23c20319fd94.mp4?playbackTicket=5682fd4dcd48465882db126fd0498f99&site=vmware.mediasite.com)
 
-[STO9157R - Achieving Unprecedented Availability, Security, & Cost Savings with VMware Virtual SAN and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/84b62518-6e36-4c1f-b353-15e795338039.mp4?playbackTicket=3605310b4f924854b341437c8a1b230e&site=vmware.mediasite.com)
+[STO9987-QT - Hardware Procurement Guide for Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f6be281a-a26c-4e6d-a6ed-10ca4905a4b4.mp4?playbackTicket=a7919592a99847faaaf4c9e75c74cdc8&site=vmware.mediasite.com)
 
-[STO9157R - Achieving Unprecedented Availability, Security, & Cost Savings with VMware Virtual SAN and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ffbe6fc0-a23d-434d-90f7-2c569a28943e.mp4?playbackTicket=0eb1f83a45d4488fa4edeb1079d293b9&site=vmware.mediasite.com)
+[HBC10703-QT - Top Tips for Moving to the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/753561a7-293f-4b03-937e-62d8fef159a3.mp4?playbackTicket=017bf92ee3a940adb48482dfd68bc9c3&site=vmware.mediasite.com)
 
-[STO9396-SPO - Real World Guidance for Implementing VMware Virtual SAN from Ready Nodes to Build Your Own](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f340d793-566e-494e-a74e-2dc27c0ac97b.mp4?playbackTicket=5646176e1f7e4282b687ba6b967d6e27&site=vmware.mediasite.com)
+[STO9977-QT - 5 Tips for Getting The Most From Virtual Volumes and vSphere Storage Policy-Based Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e06cf55d-e91f-4afc-8e5d-ca3b6c1acf83.mp4?playbackTicket=36a92ba1eec0492f9b32d28bbbf215a1&site=vmware.mediasite.com)
 
-[STO9405-SPO - Stopping Global Threats with Converged Infrastructure for the US DoD Cyber Range](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/634f6b69-587c-4eb1-a9ab-589084e3522e.mp4?playbackTicket=8fe3977bfc864fa096185e3237b34782&site=vmware.mediasite.com)
+[INF9991-QT - vSphere Web Client Plug-in Certification Program](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1af38b2f-cf0d-45c4-8d59-a440142856a5.mp4?playbackTicket=84fb8a8493914472affa2e85935ed837&site=vmware.mediasite.com)
 
-[STO9422 - Essential Virtual SAN Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/404c7a76-5b45-4133-b851-438c9926afa9.mp4?playbackTicket=982526c7e73345bfaa13eda2b1f56f57&site=vmware.mediasite.com)
+[STO8267 - Hours to Minutes: Automated Provisioning and Deployment Using PowerCLI, vRealize Automation and vRealize Orchestrator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/698493fe-181f-4997-b23d-87b3cf22cae2.mp4?playbackTicket=a4dd8e42074741b59d871dc568659701&site=vmware.mediasite.com)
 
-[STO9423 - File Services on Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/55454cf3-9e48-47a2-a9a3-2f10341456f6.mp4?playbackTicket=6399882c0d7f4973b71067832dbaafdd&site=vmware.mediasite.com)
+[INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)
 
-[STO9424-S - Taking HCI Mainstream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/192fe167-453f-4961-b241-df10a01f9202.mp4?playbackTicket=211eab7ccd8d4f6ab94168f61f1cffd8&site=vmware.mediasite.com)
+[INF8225 - The vCenter Server and Platform Services Controller Guide to the Galaxy](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3fc56ead-c735-436b-9f49-de699335b666.mp4?playbackTicket=244b6e8412274704846d3d86d1abe40b&site=vmware.mediasite.com)
 
-[STO9424-S - Taking HCI Mainstream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/192fe167-453f-4961-b241-df10a01f9202.mp4?playbackTicket=532076153c2b4e4b811fdca5e514379b&site=vmware.mediasite.com)
+[MGT7924 - vRealize Operations Capacity Explained](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8df89b89-613d-4ecf-b105-0f5548b4995c.mp4?playbackTicket=fd056457e2124da9afea51c79fd64318&site=vmware.mediasite.com)
 
-[STO9449-SPO - Journey to the SDDC: The Who, What, Why and Oh No of Moving to a Modern Data Center Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abbe1b58-7dcf-46c7-a5b9-3742bb96f635.mp4?playbackTicket=0a3f334255ad4c8b91fcf9b4a8eaf6e3&site=vmware.mediasite.com)
+[CTO9943 - VMware Chief Technology Officer Panel - Trends and Futures](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/089b2b2c-abb9-4b89-802f-1ae5feafbed5.mp4?playbackTicket=8de66fb932644fd6b3f475626713fc42&site=vmware.mediasite.com)
 
-[STO9607-SPO - Running Business Critical Applications and the Software Defined Data Center on Hyper-Converged Infrastructure at the Speed of Flash](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9229c783-b259-47fc-90e9-589761e12cd4.mp4?playbackTicket=109acf4f8ac64bb19d5a893b4eca71e2&site=vmware.mediasite.com)
+[CTO7516 - Ask the Experts - Titans of Tech](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5a6e8319-01e7-4e34-b2fa-8fdfcab5a9f3.mp4?playbackTicket=a3c4e0cc4d644c3b90d464e2ea204d1a&site=vmware.mediasite.com)
 
-[STO9614-SPO - You have an all-flash Virtual SAN - what's next?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7a94fdf7-79a3-4b0f-974d-d0e2bac674a2.mp4?playbackTicket=34c370e306b94fa3a395affd34072f62&site=vmware.mediasite.com)
+[INF7827 - vSphere DRS Deep Dive: Understanding the Best Practices, Advanced Concepts, and Future Direction of DRS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e665824-de61-4007-80c0-6752f6e1f626.mp4?playbackTicket=bba75249951546c88b7bbd5e1bca866d&site=vmware.mediasite.com)
 
-[STO9617-SPO - Containers & VVols - a technical deep dive on new technologies that revolutionize storage for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5b3b9ade-a3c6-4714-9186-a573d8523b7b.mp4?playbackTicket=6dc7f8f4b9e74097a5f0f1e054fe918e&site=vmware.mediasite.com)
+[SDDC8468 - A Beginner's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d00dc0a3-1dbf-4ae5-8b5e-d0e64645fadb.mp4?playbackTicket=1f1f06a5f68a451a83fbe9aa9e029248&site=vmware.mediasite.com)
 
-[STO9886-SPO - Modernize Remote/Branch Office (ROBO) Operations with Software-Defined Edge](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/747af7fa-7640-4384-835a-d19dce0f0c24.mp4?playbackTicket=624ed2dee5854589a71fc7f2a5ccfb36&site=vmware.mediasite.com)
+[EUC8203 - Beyond the Marketing: Horizon Instant Clones Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9b6f6f52-5dfa-4fa3-8dc8-f6d51e98f586.mp4?playbackTicket=1dfe30ed4ac840f5a62630d9d44d77fd&site=vmware.mediasite.com)
 
-[STO9925 - Enterprise-grade data protection for Virtual SAN with EMC Recoverpoint for VMs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cd4506da-6b6d-4fda-ac49-d32df4784c4d.mp4?playbackTicket=fb286897df654fc8a6d780f110ea0b85&site=vmware.mediasite.com)
+[INF8755R - Troubleshooting vSphere 6: Tips and Tricks for the Real World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f91f2373-4041-464f-a6d3-c8e5fd14be8f.mp4?playbackTicket=75eae08bed734117b5fbf255eb4dc855&site=vmware.mediasite.com)
 
-[STO9967-SPO - Rethinking Data Protection:  The Rise of Hyperconverged Infrastructure and Built-in Backup and Disaster Recovery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9fcc4072-3062-4ca9-86f8-3002c6f9e568.mp4?playbackTicket=ef78978d5a124aed8d8e061faf15ed37&site=vmware.mediasite.com)
+[INF8089 - Extreme Performance Series: vSphere Compute and Memory](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7ecb27d4-9fe7-44b6-9bc2-8b96206693fb.mp4?playbackTicket=301d01605c18402abaeec8634745d2f4&site=vmware.mediasite.com)
 
-[STO9969-SPO - How Did Designer Shoe Warehouse Lace up Success With Flash-Optimized Storage From INFINIDAT?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c14365f-1922-4589-974a-62c23ea6fb38.mp4?playbackTicket=136bb46f8b04404c90e5222949ec0174&site=vmware.mediasite.com)
+[CNA7522 - Containers for the vSphere Admin](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a30fe5bb-d60b-4f33-bd10-3defe6afda99.mp4?playbackTicket=82237a79a3c544108511ff49a9616b4d&site=vmware.mediasite.com)
 
-[STO9977-QT - 5 Tips for Getting The Most From Virtual Volumes and vSphere Storage Policy-Based Management](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e06cf55d-e91f-4afc-8e5d-ca3b6c1acf83.mp4?playbackTicket=6aca5c7f120349c7b57ae670186a2f4b&site=vmware.mediasite.com)
+[INF8430 - vSphere 6.x Host Resource Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1eb2cc67-845c-4e0f-a99b-a48e2838c638.mp4?playbackTicket=64c78bf4511547a685010d05faaa9157&site=vmware.mediasite.com)
 
-[STO9984-QT - Business-Critical Applications for Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/81cbad16-bc19-43dd-91f1-fb985fc0c09e.mp4?playbackTicket=af55abf97bd740208c81c8c3a8d5f13c&site=vmware.mediasite.com)
+[EUC8243R - Troubleshooting 101 for Horizon](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a1effcaa-ae5e-481f-9d06-58d29be1928d.mp4?playbackTicket=e4e1cae373e6480a89a606b8e4f71297&site=vmware.mediasite.com)
 
-[STO9987-QT - Hardware Procurement Guide for Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f6be281a-a26c-4e6d-a6ed-10ca4905a4b4.mp4?playbackTicket=21e5ce2a2d9743df8670bd3343fa9847&site=vmware.mediasite.com)
+[NET7907 - Advanced Network Services with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/43d2278c-15ff-43a4-8b17-6d6051eb449a.mp4?playbackTicket=5f40c91c23614d719fd6ed8ba4d5c9bf&site=vmware.mediasite.com)
 
-[STO9988-QT - Running Epic with VSAN – Modern Architecture for Healthcare](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5bf7cd9b-79aa-41e1-88c3-23c20319fd94.mp4?playbackTicket=b4f0b6f4d6504b36a13667d84d384a39&site=vmware.mediasite.com)
+[NET8364R - How to Deploy VMware NSX with Cisco Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/61104286-525e-4c3a-bb62-05b0e4adcf09.mp4?playbackTicket=d1b7a62e12594b4aa6c2a30c6a6687d4&site=vmware.mediasite.com)
 
-[Tuesday, August 30 - Competitive Advantage in the Multi-Cloud Era](http:)
+[INF8092 - The Power Hour: Deep Dive, DevOps, and New Features of PowerCLI](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4022bd26-efd7-4db0-a63e-9d62dfd006f8.mp4?playbackTicket=02f59dceac544d738401e3c161ca0e3d&site=vmware.mediasite.com)
 
-[VIRT7507 - How to Design and Tune Virtualized Trading Platforms](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f548e5c6-fde3-4f6f-8b30-b41b647cf8c4.mp4?playbackTicket=6cc3a911713d4f7f83d5883e4834b3b2&site=vmware.mediasite.com)
+[STO9617-SPO - Containers & VVols - a technical deep dive on new technologies that revolutionize storage for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5b3b9ade-a3c6-4714-9186-a573d8523b7b.mp4?playbackTicket=8e8cedb6ea9d4388a4a50ae9c09ca272&site=vmware.mediasite.com)
 
-[VIRT7511 - Performance Tuning and Monitoring for Virtualized Database Servers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e5735769-400e-4f2a-baa0-475b5917c98e.mp4?playbackTicket=d9e072057c4e477184513269f13bbacb&site=vmware.mediasite.com)
+[VIRT8290R - Monster VMs (Database Virtualization) Doing IT Right](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/23e6a4d1-84d5-488a-ad38-b86ebf82b5c9.mp4?playbackTicket=976bdb5e62434948992cd7dad342afe1&site=vmware.mediasite.com)
 
-[VIRT7550 - Providing HA and DR to Mission Critical Oracle Databases using vSphere Metro Storage Cluster and VMware Software defined Storage and Networking](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7e847d8c-32e4-48b3-8a2c-381905c66afc.mp4?playbackTicket=f1caad4de5654bec8224d2d2d9c2f152&site=vmware.mediasite.com)
+[EUC8404 - What's New with Horizon 7](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a23fe748-0d10-43c4-aa4e-32a754dd94a6.mp4?playbackTicket=e14800125fd54e639affdb2e55c00800&site=vmware.mediasite.com)
 
-[VIRT7575 - Architecting NSX with Business Critical Applications for Security, Automation and Business Continuity](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/077cfabe-994f-4021-b2bb-11fa359fee83.mp4?playbackTicket=c4d45b3f7d9349fb84a220d3b5116d32&site=vmware.mediasite.com)
+[MGT7718 - The KISS of vRealize Operations!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/57b0df04-2a8f-4d72-b468-1f553af4a721.mp4?playbackTicket=d4b4f68fa8fc4fe787f732fa01a40952&site=vmware.mediasite.com)
 
-[VIRT7598 - Extreme Performance Series: Monster VM Database Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/703a6607-5dd8-4c20-811a-3c0eb0c16a09.mp4?playbackTicket=104fa7e517474e0985a1280d86ceb001&site=vmware.mediasite.com)
+[VIRT7621 - Virtualize Active Directory, the Right Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/06fefe16-b378-4167-9022-ea6d1d0c7f64.mp4?playbackTicket=c34380252d5b4b8ba683233652b20cba&site=vmware.mediasite.com)
 
-[VIRT7620 - Successfully Virtualize and Operate Your Microsoft Skype for Business Infrastructure on the VMware vSphere Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b6d1bf35-22fd-4dcc-b8a2-ad792d73b7e0.mp4?playbackTicket=716be4865bbe4de9978e46d251fb307f&site=vmware.mediasite.com)
+[INF8036 - Enforcing a vSphere Cluster Design with PowerCLI Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6ba959a6-9220-4524-b886-4a48df46d36d.mp4?playbackTicket=ebfa511ad225455b91e4c5c4f21c30ba&site=vmware.mediasite.com)
 
-[VIRT7621 - Virtualize Active Directory, the Right Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/06fefe16-b378-4167-9022-ea6d1d0c7f64.mp4?playbackTicket=a419d77e8eae445bb762d6d433fec2af&site=vmware.mediasite.com)
+[INF9083 - Ask the vCenter Server Experts Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/cfecf036-2439-43e9-962e-837f194aea55.mp4?playbackTicket=72e38233c61541da8d45cfc9851ba96f&site=vmware.mediasite.com)
 
-[VIRT7632 - SQL Server On-Premises in the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/701a8981-3b63-4f20-86ff-3e8cb7c24503.mp4?playbackTicket=3248bfa164824e4fb1af25d018b1787a&site=vmware.mediasite.com)
+[STO7645 - Virtual Volumes Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abe4594f-f57d-4939-9fcf-10b1d0b81683.mp4?playbackTicket=b11b92a3bfda44b6b7cc862b371a5dae&site=vmware.mediasite.com)
 
-[VIRT7654 - SQL Server on vSphere: A Panel with Some of the World's Most Renowned Experts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b2d1c69a-d1aa-4562-b7d1-6b480a0a8944.mp4?playbackTicket=7f770d8100244bdabe3023f5493fdeea&site=vmware.mediasite.com)
+[INF8038 - Getting Started with PowerShell and PowerCLI for Your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6c26b53f-53b8-45d5-8215-395edf199814.mp4?playbackTicket=b3611efbf3834c6a8067e0793bc83dfe&site=vmware.mediasite.com)
 
-[VIRT7684 - SAP on Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/938dc975-ecd1-43e4-aac2-7511f9db36ea.mp4?playbackTicket=82c8513eec374d66847971e3e0f14dd0&site=vmware.mediasite.com)
+[STO9424-S - Taking HCI Mainstream](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/192fe167-453f-4961-b241-df10a01f9202.mp4?playbackTicket=228334e8937b4ab89bf3a94e9e904402&site=vmware.mediasite.com)
 
-[VIRT7699 - Use Cases in Performance Root Cause Resolution for SQL Server: How to Use vRealize Operations Manager, SIOS iQ Machine Learning Analytics, and SQL Sentry Performance Advisor](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/74740c5a-9b34-4048-9287-dd04e09cb974.mp4?playbackTicket=52be8487784e4a2483158715305e2cd6&site=vmware.mediasite.com)
+[EUC7601 - Advances in Remote Display Protocol Technology with VMware Blast Extreme](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c6dbb3b5-ff86-4071-b6f6-2796cee9af27.mp4?playbackTicket=adbe016f76144cd0b41731fd1e7a00a8&site=vmware.mediasite.com)
 
-[VIRT7709 - Innovations from Cloudera and VMware for Virtualizing Hadoop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fd4c7cb4-17dc-4496-862c-8004b4b6450b.mp4?playbackTicket=db817e7d4905415ca5e9b97fb05f302d&site=vmware.mediasite.com)
+[NET9094 - Customer Case Study on American Tire Distributor (ATD): Migrating to the Software-Defined Data Center with Arista Networks and VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bc209b25-f681-4f21-92ce-2f4e70f2b23f.mp4?playbackTicket=0427a6798c9b4075a106541e5ed1117f&site=vmware.mediasite.com)
 
-[VIRT7840 - VMware and Microsoft Present: Successfully Virtualizing Microsoft Exchange Server, the Right Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/74a36563-6d67-48ea-a05a-df447b25295a.mp4?playbackTicket=1d63ea8cafe942cea9a1b83c10a341fb&site=vmware.mediasite.com)
+[NET9069 - Automating Traffic Visibility for the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2ff1815-4b3d-4547-a8dc-6995a89605c6.mp4?playbackTicket=8fd02854a1354980afb3a640b3ec0c81&site=vmware.mediasite.com)
 
-[VIRT7931 - SAP on SDDC: Business Benefits of SAP Automation with SDDC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/539bf66d-4f9f-48ef-8fe9-731b28d6b896.mp4?playbackTicket=aaaba6e34a72464e8ace714339bca898&site=vmware.mediasite.com)
+[SEC8081 - Healthcare: The Security Awakens](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e2ad5f1a-0538-4caa-89b2-77e5e6c3b915.mp4?playbackTicket=703054740b4645cd8ca890265d04960c&site=vmware.mediasite.com)
 
-[VIRT7941 - The Best of Both Words: Achieving SQL Server High Availability with VMware](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/308e14df-2601-4c42-8cf0-1ce2bdc581b2.mp4?playbackTicket=54736f5a5d8242b6b96a8ad9122bab05&site=vmware.mediasite.com)
+[SEC8667 - Deep Dive into Real-Life Data-Center Breaches and How They Could Have Been Avoided](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f5d438ba-393a-42a9-bc1c-068778d3f801.mp4?playbackTicket=11b30f46851642b2bcd74c570246c37a&site=vmware.mediasite.com)
 
-[VIRT8071 - Making Virtualized Hadoop Deployments Successful](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/79e99643-7392-4679-a2d0-c1146683aeb5.mp4?playbackTicket=ab07ab2609f54355af5d878e2e1fe8d3&site=vmware.mediasite.com)
+[NET8832 - The Role of VIO and NSX in Virtualizing the Telecoms Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/96f95edc-f786-4735-9f08-b496b9da41b6.mp4?playbackTicket=73b13b0ece8447499d0d83bdba48a3e4&site=vmware.mediasite.com)
 
-[VIRT8182 - Virtualizing Internet of Things with SAP HANA in a Flash](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae1514fc-a72d-4b88-836c-17d523abf8d1.mp4?playbackTicket=22d86f0d3d2e4ebdbc7521dd9bd8b8b8&site=vmware.mediasite.com)
+[NET8194 - How VMware IT Implemented Microsegmentation and Deployed a Large-Scale Private Cloud Using NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/eb172374-d40c-45ad-bf73-338bf6c8ad29.mp4?playbackTicket=3bf6da2685a74b85b140f8fb0a6ead23&site=vmware.mediasite.com)
 
-[VIRT8198 - Automating Deployments of Mission-Critical Applications - in a Flash!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/23bb5813-7124-4ecf-82ec-f719203666b9.mp4?playbackTicket=462476923f69436093cb20d8a71cc1b3&site=vmware.mediasite.com)
+[NET8131R - NSX for vSphere Logical Routing Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/85057bc4-c329-4d80-9999-647a30321478.mp4?playbackTicket=37dc3b048cca4de7aea45b9708fdfcdb&site=vmware.mediasite.com)
 
-[VIRT8239-QT - Things You Should Know about Big Data](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/745b7d28-7e3d-4aa4-b711-68beefdb2b5f.mp4?playbackTicket=c917b5d8ae2a4842b6f80bf3834abd8c&site=vmware.mediasite.com)
+[NET7861R - Multisite Networking and Security with Cross-vCenter NSX: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7c1e5950-7fc5-4b87-ba2e-8434c024c294.mp4?playbackTicket=a00e2b69c1474825ac4eccb46dba3087&site=vmware.mediasite.com)
 
-[VIRT8278 - Snapshots and SQL Server - Technical Deep Dive and Detailed Lab Findings](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c4e34999-0ac0-49cc-962a-fa2e40c3e2fb.mp4?playbackTicket=1575b31f9f45401c93d10ea615f51441&site=vmware.mediasite.com)
+[NET8758 - vSphere Distributed Switch Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a448b565-4b05-408f-b97c-3c5755b09c08.mp4?playbackTicket=22088202783244b9ae24235062edf62f&site=vmware.mediasite.com)
+
+[SEC7593 - NSX Security for Horizon View 7âDeep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e59158e7-78cb-49b8-b062-82399b2a59cf.mp4?playbackTicket=ea2c445996f74de59f093bb13f053ea4&site=vmware.mediasite.com)
+
+[NET9447-SPO - Extensible Solution for Software Driven Data Centers (SDDC) with VMware and Arista](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e80bc914-96f0-4601-8e5e-73b7bfb83e1a.mp4?playbackTicket=2f11c1e613474add9e21970a18998749&site=vmware.mediasite.com)
+
+[NET7854R - Multisite Networking and Security with Cross-vCenter NSXâPart 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0b746cbd-40f0-453e-87a1-9604db71e55c.mp4?playbackTicket=c6b3f5eb9a4f456e90116ec5535b5ee0&site=vmware.mediasite.com)
+
+[NET8030 - NSX Performance Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5cef4d73-dccb-47b1-a93e-7290facffc8e.mp4?playbackTicket=94a9fe1944da4f02b76d5fb267fff64d&site=vmware.mediasite.com)
+
+[SEC9450-SPO - Bridging the Gap between Infrastructure and Security Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7257c5fc-70e3-40bf-bed3-bdf86a570535.mp4?playbackTicket=9cf3bad61d4543e2acf4077e75571ca2&site=vmware.mediasite.com)
+
+[NET8109 - Amadeus's Journey Building a Software-Defined Data Center with VMware Integrated OpenStack and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fdae400c-842c-4a3d-97db-588cd7a65163.mp4?playbackTicket=1b30498c1f5c4e5f8221463be9e63791&site=vmware.mediasite.com)
+
+[NET7701 - How to Easily Become a Cool Automation NSX Cloud Network Engineer](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3d21f392-4660-427c-84d8-ee526fc2193d.mp4?playbackTicket=7287afe903f74196b6a9b3f91bbfb4ae&site=vmware.mediasite.com)
+
+[NET7514 - PowerNSX and PyNSXv: Using PowerShell and Python for Automation and Management of VMware NSX for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b0e89702-2a4b-4461-bd52-2263ccc14860.mp4?playbackTicket=40b806b5e39841e78b8b4db2792897f4&site=vmware.mediasite.com)
+
+[SEC10020 - Managing Cybersecurity Risks Within SDDC: VMware and Palo Alto Networks Customers Discuss Their Perspectives and Experiences with NSX and VM-Series Deployments](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/abe989c5-749c-4893-8754-a8f5b30e954e.mp4?playbackTicket=a491fa23324c4198b6865703400d7e99&site=vmware.mediasite.com)
+
+[SEC9619-SPO - Scale and Segment the Agile Data Center with Software-Defined Security and NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/28217635-14e9-4f98-8c66-fbe1f0c7c7a8.mp4?playbackTicket=a31310f5c333491596ffc56d145ee277&site=vmware.mediasite.com)
+
+[NET7648 - How PG&E is Automating Secure Environments with NSX, vRealize Automation, and vRealize Orchestrator](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c2382388-36a9-4bb1-8657-53ad88850699.mp4?playbackTicket=17e1c8fd50b74a62aa6e6c23854c8f45&site=vmware.mediasite.com)
+
+[NET9155 - NSX Policy, Visibility, and Intelligence](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b7882556-0a6d-42e3-8023-9ae2a2a00ab1.mp4?playbackTicket=4ff2279faf30452384bd8a266dcae15f&site=vmware.mediasite.com)
+
+[NET8082 - NSX Operationalization: Monitoring and Troubleshooting Your NSX  Software Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fbf63ab7-991f-48fa-9de9-14de326b6342.mp4?playbackTicket=86af58837d2842daa824bbaf76968672&site=vmware.mediasite.com)
+
+[NET9029 - NSX Logical Load Balancing: From Basics to Fine Art](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/174213fc-dfdb-4671-82a2-901fcfd10cb2.mp4?playbackTicket=98147e213ea5447f97b9aa83123c0e96&site=vmware.mediasite.com)
+
+[NET8337 - Leveraging NSX for Remote and Branch Offices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/64a2941c-824f-473b-b48f-fa3a98f4ef4d.mp4?playbackTicket=119d3cb1c6c34334ad965ee573da9e2c&site=vmware.mediasite.com)
+
+[SEC8022 - Implementing Agentless AV and IPS/IDS Security Solutions with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e6f36b5a-37e2-4c2d-b70e-8e1afecfd771.mp4?playbackTicket=949e6c5755f24332935dc37d0e00b52f&site=vmware.mediasite.com)
+
+[NET8343 - OpenStack Networking in the Enterprise: Real-Life Use Cases](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f3145cd4-2077-4022-9130-06d4ef8cd34f.mp4?playbackTicket=351b1817e99a4557857d8bb4970e9770&site=vmware.mediasite.com)
+
+[STO9886-SPO - Modernize Remote/Branch Office (ROBO) Operations with Software-Defined Edge](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/747af7fa-7640-4384-835a-d19dce0f0c24.mp4?playbackTicket=33ba13c307604cb3801f1f66ce3a8b66&site=vmware.mediasite.com)
+
+[SEC9446-SPO - Integrating a Threat Defense Lifecycle Security Approach with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/450ea122-fdae-4dd0-88bb-3b8f367184cd.mp4?playbackTicket=151f71dedfc2436a9f9beb2c4c23afe4&site=vmware.mediasite.com)
+
+[SEC8348 - Deploying Security in a Brownfield Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ea40cabc-8cee-40a6-ac8f-301f6868d355.mp4?playbackTicket=262fa2295df543d3a8dd34e20baa6e67&site=vmware.mediasite.com)
+
+[NET7956 - vRealize Automation and NSX Design Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9a06725d-9812-4a63-aaa8-5b715a253d09.mp4?playbackTicket=ee218a0d229f4fc1ba61414dd4164b0c&site=vmware.mediasite.com)
+
+[NET8680R - Advanced NSX Troubleshooting: Tips & Tricks for Experienced Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/51edbe55-f33b-4f22-aa4a-25ecf7b25d36.mp4?playbackTicket=ce6d9eac713847ad9e8ccaa8c196fb70&site=vmware.mediasite.com)
+
+[NET7865 - Operational Best Practices for VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/edd17c7a-726c-4791-91bb-1e691464fc2f.mp4?playbackTicket=c448c2dce1694795bc8a5dbeda1ff67a&site=vmware.mediasite.com)
+
+[NET8364R - How to Deploy VMware NSX with Cisco Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/314f9ab0-80f3-4239-b193-c2b408632b0f.mp4?playbackTicket=909cb4d6e0974d11bd7d4c934bcd0e53&site=vmware.mediasite.com)
+
+[NET7514R - PowerNSX and PyNSXv: Using PowerShell and Python for Automation and Management of VMware NSX for vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c9187dbd-bdef-4aa3-8e51-ca14876bab14.mp4?playbackTicket=a50f02db4ac2418699d002ade024f286&site=vmware.mediasite.com)
+
+[SEC7836R - Introduction to Security with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fb585051-36f5-4258-929a-af2fbfa265a8.mp4?playbackTicket=64e9b3cc0dff451aa8d7cf27f3969219&site=vmware.mediasite.com)
+
+[NET8193R - The Architectural Future of Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e9ec6df8-d6c4-49a8-96fa-004d3a4fa4e0.mp4?playbackTicket=d742e90edc5943168fbbc00558433f10&site=vmware.mediasite.com)
+
+[SEC7628 - Use NSX to Automate Your Security Incident Response so You Can Stay Above Water](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/80b1a787-3cea-46f0-8a62-11a313cc2b32.mp4?playbackTicket=30dd274c363c4775860a9228b4ea6c78&site=vmware.mediasite.com)
+
+[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/39c4ae41-ad86-4156-a203-2b198c9b0bf7.mp4?playbackTicket=e5474750547948d7be0c7f30ae54e3c3&site=vmware.mediasite.com)
+
+[NET8039 - Bridging Virtual and Physical in NSX with Open vSwitch Database Management Protocol-Based Hardware VXLAN Tunnel Endpoint Integration](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef55ee7e-01bc-4a98-a255-71d584b66d97.mp4?playbackTicket=72e3d78ebb6d4c01bf277bba6355eef1&site=vmware.mediasite.com)
+
+[NET8935 - NSX for Small Data CentersâBreaking Boundaries](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9c338b26-d1c9-48ec-bc0a-d0e4d0a5c1a0.mp4?playbackTicket=b737a21f5fa34424a58aa3713893608a&site=vmware.mediasite.com)
+
+[NET8675r - The Practical Path to NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/12b342ab-5b04-4fd5-a56f-9e6056891529.mp4?playbackTicket=16d01446fdd94e6db69c39308262f71a&site=vmware.mediasite.com)
+
+[SEC9609-SPO - Trusted Security in the Software Defined Data Center: Real-World Use Cases Across VMware Platforms, including NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4f21e3d9-6da0-4e87-b5e0-4bda79132447.mp4?playbackTicket=4d1af2599ff5443395f302a57f0b0c3c&site=vmware.mediasite.com)
+
+[NET8734 - Automating Networking and Security Operations with NSX Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fbe6a4a7-b9cd-47d1-b176-55696b43f392.mp4?playbackTicket=622b794f95364c3cad7570ebe1331915&site=vmware.mediasite.com)
+
+[NET9156 - Customer Case Study: Journey to Automate Security As a Part Of Service Delivery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/66cb8812-67f5-4f3d-ad06-5f92a6e11018.mp4?playbackTicket=8e7e7be4725f43f5a7e7520930ba4d02&site=vmware.mediasite.com)
+
+[NET7861R - Multisite Networking and Security with Cross-vCenter NSX: Part 2](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/19986278-3ecb-455c-94de-d9c6aa3595be.mp4?playbackTicket=28eb24f617724af3960b0c6e8d1c1552&site=vmware.mediasite.com)
+
+[NET7760 - Enhanced Disaster Recovery with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/00980cda-d66c-4b24-aa16-5b7e1fed8d56.mp4?playbackTicket=64b6e263223d42d6a8416a2ebb2eaf5d&site=vmware.mediasite.com)
+
+[NET7854R - Multisite Networking and Security with Cross-vCenter NSXâPart 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/72adacde-1d18-415a-9b1b-037e6073be50.mp4?playbackTicket=8799baa1c3054a22bf7caade97c3bb89&site=vmware.mediasite.com)
+
+[NET8680R - Advanced NSX Troubleshooting: Tips & Tricks for Experienced Users](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c7b8ab46-fbea-490e-99ae-70b98808152e.mp4?playbackTicket=c461566d2c644931bd88b39d514c0815&site=vmware.mediasite.com)
+
+[NET8903 - Stories from the Alexandria SDN Zone](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f150a565-74b3-4bf3-aecb-d89af91590a7.mp4?playbackTicket=9b5c90d347dd4c08a198f6a81fa33a88&site=vmware.mediasite.com)
+
+[SEC9976-SPO - Extending security beyond the SDDC with VMware NSX and Palo Alto Networks VM-Series Virtualized Next-Generation Firewall](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/99f1a482-e8af-4218-9afc-8a1ac3177fdf.mp4?playbackTicket=8c32c671ec114c3896f9f266652c2e9a&site=vmware.mediasite.com)
+
+[NET8241 - Monitoring and Troubleshooting NSX with vRealize Network Insight (Arkin)](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcbe5ea9-3927-4534-a2bf-f1860015e74e.mp4?playbackTicket=fa8b3cd495d24f50b9d0ce694f63e669&site=vmware.mediasite.com)
+
+[NET8131R - NSX for vSphere Logical Routing Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7b9b1d75-dbcc-44d9-8d6a-be1123570aac.mp4?playbackTicket=bbcd092ee7314debb777a09f2de58820&site=vmware.mediasite.com)
+
+[SEC8730 - NSX Security and Micro-segmentation Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/969b9b2b-2fca-4983-aa6d-4a4f81ccc526.mp4?playbackTicket=335ef05a336648718b47bc1c26c4764d&site=vmware.mediasite.com)
+
+[NET7834r - Introduction to VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2006587c-d420-47fa-9812-69df4e0ee2ef.mp4?playbackTicket=f53fcf9520ff4703b2b3a6aebb8a1d5f&site=vmware.mediasite.com)
+
+[NET7944 - NSX Brownfield Deployment Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0a6d7f57-a1ba-4a11-9290-889f4f6dd39c.mp4?playbackTicket=dea475c6e3eb470db37e9958ea70ba19&site=vmware.mediasite.com)
+
+[SEC7568 - Practical NSX Distributed Firewall Policy Creation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f247242f-0ec7-4bdb-b6fa-375075834e3e.mp4?playbackTicket=e1cb1e4d0dec45f9ab1175b43f4e148a&site=vmware.mediasite.com)
+
+[NET8731 - IT Automation with NSX Network Virtualization and Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3f16f5fc-8a2b-40d9-9181-934b82253229.mp4?playbackTicket=525b2a6033f442208cb09705f85ef82d&site=vmware.mediasite.com)
+
+[SEC9972-SPO - Deep Dive: Secure your multi-tenant cloud with Palo Alto Networks VM-Series and VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b16415ad-38c1-472c-b253-8ea09f848221.mp4?playbackTicket=0bd9c5f4dcd34a94954827c148cd9fe4&site=vmware.mediasite.com)
+
+[SEC9618-SPO - Deep Dive:  Extending L4-L7 Security Controls for VMware NSX and VMware Integrated OpenStack (VIO) Environments with Fortinet Next Generation Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a7dec1a2-2f6f-4384-a5e6-5d8acef8f14e.mp4?playbackTicket=b26a8c5d72c749078a316b4f4c9ecd99&site=vmware.mediasite.com)
+
+[SEC9968-SPO - Automate Check Point vSEC Advanced Security with NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/038e1c96-3e9b-4461-89d7-669504d3f6b6.mp4?playbackTicket=48d8226c7ec846a6855764f2fa809a19&site=vmware.mediasite.com)
+
+[NET8729 - NSX on Cisco ACI Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/68087b20-37f4-4d82-b067-dfe0efe595e6.mp4?playbackTicket=efe46c375169476ba37180325d034e27&site=vmware.mediasite.com)
+
+[NET7837 - Introduction to Application Continuity with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0bb6466d-f47f-4b33-bb19-c2b690f89554.mp4?playbackTicket=acafcd7ddfae4ea2aa717b40836bb2e7&site=vmware.mediasite.com)
+
+[NET7935 - Container Orchestration and Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9ebc72ed-5e25-4230-ab48-1e6ca316da3e.mp4?playbackTicket=cffe995843744d89bcd0c9e6b710e17c&site=vmware.mediasite.com)
+
+[NET7656-SPO - Accelerating SDDC through mainstream adoption of network virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bf1f215e-1855-452b-8ce9-597a9085da5f.mp4?playbackTicket=4d6dfc50ce6543ecad5a95dc1be09da5&site=vmware.mediasite.com)
+
+[NET8193R - The Architectural Future of Network Virtualization](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/651d9fdd-2b97-45df-89c3-46e2c2ae640e.mp4?playbackTicket=0aef3a50875640f1b6a012be62f67e83&site=vmware.mediasite.com)
+
+[SEC7836R - Introduction to Security with VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/be6cab8f-3195-4d85-8f7e-ad065bc32c78.mp4?playbackTicket=6b499796801949ae88bdcd23c8b9dd32&site=vmware.mediasite.com)
+
+[NET7834 - Introduction to VMware NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/294283c8-dfcb-4231-8b6d-c65ce9170db7.mp4?playbackTicket=81e47f8b09a040d28c93b15162859dfe&site=vmware.mediasite.com)
+
+[NET8675 - The Practical Path to NSX](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5f26a99e-1a15-46a5-a9db-1f4635b5ce5f.mp4?playbackTicket=547c66008ad945d4a5a197a5003ed233&site=vmware.mediasite.com)
+
+[NET7857R - Reference Design for SDDC with NSX and vSphere: Part 1](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0c01d09c-da0c-402c-a89d-971bd9a0ae1a.mp4?playbackTicket=15ff258495e4474d860fea08449951a1&site=vmware.mediasite.com)
+
+[SEC10019 - VMware NSX Micro-segmentation â Definition & Benchmark Deep-Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fc19c529-a917-4251-8af0-623ef49562a6.mp4?playbackTicket=25944f3713c04292889cbd7cb95c85aa&site=vmware.mediasite.com)
+
+[NET9381 - Operationalizing NSX Customer Panel](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/be7b7c37-fd03-4d31-a4b7-e578b5b26e02.mp4?playbackTicket=a0de361f96844f94aef239d8804d8c8f&site=vmware.mediasite.com)
+
+[NET9152 - VMware NSXâDeep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/db352180-d08a-459f-8f0e-c14df9536c58.mp4?playbackTicket=608fe6dea1d54d42808ed21bc5e90505&site=vmware.mediasite.com)
+
+[NET10884 - Moving to the next level of the SDDC - a Public Agency introduces VMware NSX, AirWatch, and Palo Alto Networks integration](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ff96e2fd-c27c-4303-8911-14120e947a00.mp4?playbackTicket=795785aeb4064f4ab4ce8a23282c5043&site=vmware.mediasite.com)
+
+[NET9004-QT - Virtually Unstoppable: Scaling NSX to Bridge the Gap between Security & Cloud Automation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c8282e8c-bb18-4a2a-b711-f36c5636faeb.mp4?playbackTicket=8f55ea09f50f4402b706b2e543fddfe9&site=vmware.mediasite.com)
+
+[NET8769-QT - Hyper-convergence in Healthcare:  The Key to Doing More with Less](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f24888cd-2591-4edc-af87-c4295f15c0d4.mp4?playbackTicket=a87f8002392d408c86b3abe4c2954ab3&site=vmware.mediasite.com)
+
+[NET7774 - Day Two NSX Operations in VMware's Private Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c990199b-c895-4922-a378-ad5128590c58.mp4?playbackTicket=a742993defc14ff18861721948843923&site=vmware.mediasite.com)
+
+[SDDC8621 - VMware Cloud Foundation: Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/145115e1-24d9-4ee7-acf2-137b00cfdd9a.mp4?playbackTicket=3d1a07f7ace1451a99dfed62c301fb19&site=vmware.mediasite.com)
+
+[SDDC8472 - An IT Architect's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b32b5eb9-e753-4b65-a9c7-8512c0025cd9.mp4?playbackTicket=413d4a7a550840b48a484ffd36b0c1f5&site=vmware.mediasite.com)
+
+[SDDC7780 - Agile: The Scrum Master for Your Software-Defined Data Center!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c544030e-0807-45d7-b0e9-6c19ffc73da8.mp4?playbackTicket=194f6081051e45afa905468b50496dd9&site=vmware.mediasite.com)
+
+[SDDC7886 - Implementing An Operating Model for Agility: A Customer Success Story](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/52ceb29a-7e09-404c-b281-d4cd3080cb6a.mp4?playbackTicket=cf1bef8bd3dc4ac5a40fb07381f004f2&site=vmware.mediasite.com)
+
+[SDDC8468R - A Beginner's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ca166216-ef18-489e-981e-dee260e77115.mp4?playbackTicket=eed65476996042f9a9ab865a7b1580cd&site=vmware.mediasite.com)
+
+[SDDC9971 - Experience the Business Impact of IT Innovation & Transformation in this Live Interactive Simulation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f62de2b4-4429-47c4-b4dd-20f5a14a8207.mp4?playbackTicket=3dbe6b09f7ec4ef086c676d19bba68af&site=vmware.mediasite.com)
+
+[SDDC8414 - VMware Validated Design for SDDC: A Technical Deep Dive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d37cf776-1e24-4b30-a723-d9bb1a386209.mp4?playbackTicket=bbedb96789d14e7f8dc20fe877cf8478&site=vmware.mediasite.com)
+
+[SDDC7502 - On the Front Line: A VCDX Perspective Working in VMware Global Support Services](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2dd8fd5b-d366-48d6-a6f1-1621acaae98f.mp4?playbackTicket=c3b1846bf18d44d8a9bf8ec893c52465&site=vmware.mediasite.com)
+
+[SDDC9456-SPO - Implementing Self-Service Storage Provisioning with vRealize Automation XaaS](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7f338d41-d20f-436e-8541-c769183a10ac.mp4?playbackTicket=3f06844c81f940348d3505fd3ba273cf&site=vmware.mediasite.com)
+
+[SDDC8615 - vRealize Automation 7 in VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/44ddb3c5-fd34-4ed5-95e7-715ffa4894a6.mp4?playbackTicket=bbc5291537444e7b97d8a5708d433efa&site=vmware.mediasite.com)
+
+[SDDC7692 - Tips for Realizing the Full Value of Your SDDC Transformation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/85b5628a-d8d9-43e1-91a1-7c57d848709d.mp4?playbackTicket=b316ec00b3ea48cf897d95825e5446e2&site=vmware.mediasite.com)
+
+[SDDC8748 - Building a Successful Business Case for VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b265578c-561f-43c3-8138-8cfb68d690de.mp4?playbackTicket=0aa8ebf6ed6b4ed5ac9bb4770c05bb08&site=vmware.mediasite.com)
+
+[SDDC9612-SPO - How to design and implement VMwareâs vCloud in production](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4f441c47-1bb9-448e-8961-d14350103470.mp4?playbackTicket=aca7a6d423f643abb68ecc9e346637bb&site=vmware.mediasite.com)
+
+[SDDC9726-SPO - Making SolidFire Invisible in your VMware Environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6629b6cd-d700-47ba-9676-23c41b4c5fd2.mp4?playbackTicket=9af7ac9b50124fefaf0af1f409e11a12&site=vmware.mediasite.com)
+
+[STO9405-SPO - Stopping Global Threats with Converged Infrastructure for the US DoD Cyber Range](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/634f6b69-587c-4eb1-a9ab-589084e3522e.mp4?playbackTicket=6c074f9a34eb40f3a13beca444af4954&site=vmware.mediasite.com)
+
+[SDDC9181 - VMware Cloud Foundation Backup and Disaster Recovery](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/59c88da0-75a7-435b-88fa-289317d89211.mp4?playbackTicket=532a4a41a1c1493c815208e94dd7608e&site=vmware.mediasite.com)
+
+[SDDC8614 - NSX in VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ad9332ff-7442-4713-90fc-d196c8b98ca6.mp4?playbackTicket=a267b90fb80e4b4ea0d96ffcc2873809&site=vmware.mediasite.com)
+
+[SDDC9465-SPO - Level Up to IT as a Service with Hyper-Converged](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/70383486-f4fd-4e5c-b797-d6ce7a1d2729.mp4?playbackTicket=521d0472987e47acb8ecc2496bab4d52&site=vmware.mediasite.com)
+
+[SDDC8357 - If They Come - Are You Ready?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d45d7d81-cfb4-41e4-ac2c-f2421ecce646.mp4?playbackTicket=57ea34011dc6482ab77fb51038da89c6&site=vmware.mediasite.com)
+
+[SDDC9428-SPO - Practical Strategies for SDI and Security](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/bc29d651-6b57-4ac5-8053-3ced1695bfdb.mp4?playbackTicket=0160c0ad5462491aa1ec2d7c519d7041&site=vmware.mediasite.com)
+
+[SDDC8946 - Deep Dive into Deploying the vRealize Cloud Management Platform the VMware Validated Designs Way!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5f3e1ad2-e8f3-4cfd-80f4-3115a6d6b2a1.mp4?playbackTicket=b34bc33b90ee475fbb6f34023176bc75&site=vmware.mediasite.com)
+
+[SDDC8445 - VMware Validated Design for Microsegmentation Deepdive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a06343f5-12d6-4d01-b902-d19021a126ab.mp4?playbackTicket=73a4ef5e87ff4cc29d677da17bd1323b&site=vmware.mediasite.com)
+
+[SDDC8628 - Automating Virtual Desktop Deployments with VMware Cloud Foundation](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fe609247-bc9e-4f36-925f-3c299f32b8e9.mp4?playbackTicket=15629cee2a8d466f904ce7dabd91e716&site=vmware.mediasite.com)
+
+[SDDC9921-SPO - Evaluating Tradeoffs in Reducing and Eliminating Downtime Inside and Outside of the Software Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c57b7ae0-9841-450b-b245-9caf50e72ece.mp4?playbackTicket=d2099e24fe87401a8da3e0b24f6d168b&site=vmware.mediasite.com)
+
+[SDDC7587r - Software-Defined Networking in VMware Validated Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5697883d-eee6-4893-afdf-b75890f2059f.mp4?playbackTicket=e74608f07e4c4cc79fbf0dfbe0dccd75&site=vmware.mediasite.com)
+
+[SDDC9613-SPO - Building the Future Data Center with Province of Nova Scotia](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1a43a8d3-456c-44a8-aeab-73030eeb2057.mp4?playbackTicket=3ce184a234cc42e9b7fc226ac3c5e6de&site=vmware.mediasite.com)
+
+[SDDC8520 - No IT Left Behind: Connecting the Software-Defined Data Center to Multi-Modal IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/29c4377d-360b-4300-b41d-7a4fa5c37f78.mp4?playbackTicket=efef8858e8b141218613f8e0ed141e80&site=vmware.mediasite.com)
+
+[SDDC8214 - Case Study: VMware's Private Cloud Journey to Over 100K Virtual Machines](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcb8f3cf-d3ee-412d-a74c-0f1988d84686.mp4?playbackTicket=cc28ce48efa84ef7850a89da968a781a&site=vmware.mediasite.com)
+
+[SDDC8423 - VMware Validated Design for SDDC â Operations Architecture Technical Deepdive](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/807002c7-14ae-432c-b9b3-907903612542.mp4?playbackTicket=0f92525fb8c347959db029e13fff52b9&site=vmware.mediasite.com)
+
+[SDDC8975 - SunTrust's Cloud Journey](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7a869c4d-1e9c-4c2b-b26a-86f2abcbd3c2.mp4?playbackTicket=f19f306895574ef0af48ff2d16033c2e&site=vmware.mediasite.com)
+
+[SDDC9025 - VVD 101: Build Your Cloud the Right Way, First Time](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e793f827-95d9-42f7-adc1-cc4cf1ff48be.mp4?playbackTicket=e31e23d6cca74e85aa75168deb6c657b&site=vmware.mediasite.com)
+
+[SDDC9605-SPO - Using Hyper-intelligence to build next generation storage platforms](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fcd52ca6-4cc9-4a21-a789-fd1210aedfb2.mp4?playbackTicket=71fb30b5d9454acd99b954178cfe5009&site=vmware.mediasite.com)
+
+[SDDC9176 - How VMware Cloud Foundation powers the IBM Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f1afa7a1-e475-413f-8c1c-52c2226037e6.mp4?playbackTicket=90184b3e75334602a355f51350fb1320&site=vmware.mediasite.com)
+
+[SDDC8930 - American Tire Distributors: Our Journey to a Modern Private Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e508be8c-02e7-4bf7-9424-4bc65b53f4e8.mp4?playbackTicket=f6d48c98af0c40808e21a2fbf79d1143&site=vmware.mediasite.com)
+
+[SDDC8994 - Taming the Hydra: IT in a Multi-Cloud World](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/da8988b5-8811-4a9a-b79e-4085cba95b90.mp4?playbackTicket=0078b79fbc754e778a254ae6c2ccd893&site=vmware.mediasite.com)
+
+[SDDC7819-SPO - Lessons learned to provide secure service assurance for your VMware investments](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9e01af4c-85d6-4d61-8593-216926fe9b94.mp4?playbackTicket=231b8266e133490cb8084c810db6965c&site=vmware.mediasite.com)
+
+[NET9460-SPO - Use Cases for Software Defined Data Center with NSX: Transform to Digital Business by deploying multi-tenant agile network in SDDC environment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/850ba54b-4941-486f-b9dd-e226a6520564.mp4?playbackTicket=cba8a47180b44fa9851ddee979acfa83&site=vmware.mediasite.com)
+
+[SDDC9023 - Hyperconverged Infrastructure at Scale with VxRack 1000 SDDC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/19a8c25d-b824-4b5a-94cb-79d90951be6e.mp4?playbackTicket=2e2722a12f494c529fdc511ac9bf323e&site=vmware.mediasite.com)
+
+[SDDC8351 - How VMware Cloud Foundation Makes Your Private Cloud Operation More Efficient](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1d4654db-b109-4de9-aaf6-6eb791482258.mp4?playbackTicket=1659cb0dd3364758873b86c1235c80e3&site=vmware.mediasite.com)
+
+[SDDC9404-SPO - Reinventing Disaster Recovery Leveraging Public Cloud Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5e2e320e-9f3a-4f65-8712-7456268d8b73.mp4?playbackTicket=1f6d049a9bae48a8a917da711c755f72&site=vmware.mediasite.com)
+
+[SDDC7616 - Strategizing Cloud Business Management Using vRealize Business](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/dbfd0a69-0569-42a5-80eb-70e995c17217.mp4?playbackTicket=8bfafe4f058b4511882187f14d695374&site=vmware.mediasite.com)
+
+[SDDC7587 - Software-Defined Networking in VMware Validated Designs](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/91dbf951-2178-452a-bd80-f4e7e27a4878.mp4?playbackTicket=f5d5554b38f14acf83610b1257e1cf3d&site=vmware.mediasite.com)
+
+[SDDC8475-QT - A Manager's Guide to the Software-Defined Data Center](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/4505b802-2ff3-4dde-9e4d-68b7e023ff46.mp4?playbackTicket=145550b2650b459d8687fcc86ac0dc9e&site=vmware.mediasite.com)
+
+[SDDC7609-QT - How to Respond to the &quot;Bring Your Own Data Center&quot; Trend](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/82391ced-f3bb-41e4-9754-9d048fd69637.mp4?playbackTicket=dd32330879804c6aa47048415515ec59&site=vmware.mediasite.com)
+
+[SDDC7881-QT - Cloud Service Lifecycle in a DevOps-Focused Delivery Model](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/0e76123d-776c-4f84-ba61-657bcc3aeacc.mp4?playbackTicket=23b6ce62de1e41ab9af311198e5539de&site=vmware.mediasite.com)
+
+[SDDC8945-QT - Learning in the Cloud: VMware Education's New Enterprise Learning Subscription](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/1cb8ea0a-f38d-4742-b703-4712b1a5ff86.mp4?playbackTicket=c5ba1bb6f3ac470bbc40ac273c9de903&site=vmware.mediasite.com)
+
+[SDDC7876-QT - Service Automation Roadmap: Approach and Samples](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8c3f94e1-e968-4172-9d02-3187e08faf2b.mp4?playbackTicket=b86573b3048f4b28a445f3aefed6b64b&site=vmware.mediasite.com)
+
+[SDDC8024 - VMWorld Hands on Labs Architecture Design](http:)
+
+[CTO8519 - Best of Both Worlds: Achieving Ultra-Low VM Network Latencies and Extreme Bandwidth Without Compromise](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/6486a7e1-de71-437e-a245-7aa3a8ca69a6.mp4?playbackTicket=c0d10f404f9c4b1caf66f6581b66bb47&site=vmware.mediasite.com)
+
+[CTO9606 - Open Source as Critical Ingredient in Enterprise Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ec63056a-7995-42a7-a8d3-a339a0c0ec6b.mp4?playbackTicket=9d15635380214baabdd77032a8cacfd3&site=vmware.mediasite.com)
+
+[CTO8120 - Debunking the Myths about Virtualizing High Performance Computing](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7addbc86-091d-49b7-bce1-4b82f4d2300b.mp4?playbackTicket=44182afe302d4dff99c8c75e00d7b4eb&site=vmware.mediasite.com)
+
+[CTO9036 - Providing Management Tools for the Emerging IoT Infrastructure](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5239219a-9e26-43f2-afb3-f292203de50f.mp4?playbackTicket=1b9246a9ef60461a912c97436d915ef7&site=vmware.mediasite.com)
+
+[CTO9471-SPO - New Capabilities in ONTAP 9 Optimized for All Flash Virtualized Workloads](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b0a4825f-5c93-4b0f-a434-bfc1c47da3f4.mp4?playbackTicket=507c5dc1c2af4b5c93e14199a5cdeaec&site=vmware.mediasite.com)
+
+[CTO9951-SPO - Whatâs Old Is New Again: Next Generation Storage](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/d52773e8-b6c5-4523-9113-643a24a4d5b9.mp4?playbackTicket=e310d3dc513e41aaa1796d7146f3b220&site=vmware.mediasite.com)
+
+[CTO9018 - VMware Internet of Things Strategy; Unveiled](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a36f731f-0772-41cb-87ce-c97451f20aba.mp4?playbackTicket=8f7bc72d67de40339d57b80024ba24de&site=vmware.mediasite.com)
+
+[CTO9032 - Is it Possible to Use NSX to Cut WAN Network Costs in Half?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a9038d55-f8bb-40cc-b70d-ebca41e83845.mp4?playbackTicket=d922c5fc9281400d904a5bfa7b8298c4&site=vmware.mediasite.com)
+
+[CTO7942 - Unik: A Platform for Automating Unikernels Compilation and Deployment](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e77b2fd4-110f-4db9-a816-ed7acb8ba825.mp4?playbackTicket=b0173215eb3748bda81f98684f03beed&site=vmware.mediasite.com)
+
+[CTO9996-SPO - Fortifying the Cloud: What the New Samsung-VMware Partnership Means](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ef193cad-b079-4716-882c-bab49e29c035.mp4?playbackTicket=16cdfe82973b4fb7b58d5f73d0d0e3d0&site=vmware.mediasite.com)
+
+[CTO8995-QT - How Do You Manage Security Vs Privacy in IoT Beyond Device Management?](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ab81a983-a114-4f53-9a10-1172d4f95007.mp4?playbackTicket=ee543cc4f02549beaa2ce5bcd3b85fc1&site=vmware.mediasite.com)
+
+[CTO9002-QT - Artificial Intelligence Is the Future of IT](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/a657dff9-c9e6-42de-9feb-d7655a146def.mp4?playbackTicket=b70da3cd87f6439980a7280fde05a268&site=vmware.mediasite.com)
+
+[VIRT9034 - Oracle Databases Licensing on a Hyper-Converged Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b541aeb8-6944-4707-aa8a-bdb73d5e1df2.mp4?playbackTicket=3915d68324fe4ad6838e737b900389c9&site=vmware.mediasite.com)
+
+[VIRT8443 - Extreme Performance Series: Evaluate the Performance of Your Cloud with Weathervane and VMware vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/de2b1eb5-c391-4b99-993b-f7fd7aaf0b2c.mp4?playbackTicket=488b57b6bcc14d50a4178461f9ce1d2d&site=vmware.mediasite.com)
+
+[VIRT7620 - Successfully Virtualize and Operate Your Microsoft Skype for Business Infrastructure on the VMware vSphere Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b6d1bf35-22fd-4dcc-b8a2-ad792d73b7e0.mp4?playbackTicket=56feb446191b4b79ac4025012dd797a7&site=vmware.mediasite.com)
+
+[VIRT7941 - The Best of Both Words: Achieving SQL Server High Availability with VMware](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/308e14df-2601-4c42-8cf0-1ce2bdc581b2.mp4?playbackTicket=fac043c7b3ec40969ee79e0c6e30769f&site=vmware.mediasite.com)
 
 [VIRT8290R - Monster VMs (Database Virtualization) Doing IT Right](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/68f7bf93-4794-49e9-805e-0c50cd4edb28.mp4?playbackTicket=43ca2115c99e4857bccf11c8ddd93d14&site=vmware.mediasite.com)
 
-[VIRT8290R - Monster VMs (Database Virtualization) Doing IT Right](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/23e6a4d1-84d5-488a-ad38-b86ebf82b5c9.mp4?playbackTicket=eb76bbf8708e4773bc55ffc0f1dea07e&site=vmware.mediasite.com)
+[VIRT7699 - Use Cases in Performance Root Cause Resolution for SQL Server: How to Use vRealize Operations Manager, SIOS iQ Machine Learning Analytics, and SQL Sentry Performance Advisor](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/74740c5a-9b34-4048-9287-dd04e09cb974.mp4?playbackTicket=70e872cb58d749bb84022c0eaf798e12&site=vmware.mediasite.com)
 
-[VIRT8443 - Extreme Performance Series: Evaluate the Performance of Your Cloud with Weathervane and VMware vRealize Operations](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/de2b1eb5-c391-4b99-993b-f7fd7aaf0b2c.mp4?playbackTicket=cbf5e2fed3584e43830e5e7896839d6a&site=vmware.mediasite.com)
+[VIRT8182 - Virtualizing Internet of Things with SAP HANA in a Flash](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/ae1514fc-a72d-4b88-836c-17d523abf8d1.mp4?playbackTicket=896e31e4a0d24af581aaea42e59698c3&site=vmware.mediasite.com)
 
-[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f4373e0-8868-4282-984e-5b8328e3e044.mp4?playbackTicket=58415a19c9bb4ae9826162cfc97dbe00&site=vmware.mediasite.com)
+[VIRT9009 - Licensing SQL Server and Oracle  on vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/38993112-12c8-41ef-8d15-40dbbec89d9d.mp4?playbackTicket=302150d45c1c49a8b51a8f601597cbcd&site=vmware.mediasite.com)
 
-[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dbfa642-cf54-41ad-8035-9d610e15fb44.mp4?playbackTicket=2580dba304dc4cf5b0d69d4b8b1ca38a&site=vmware.mediasite.com)
+[VIRT7598 - Extreme Performance Series: Monster VM Database Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/703a6607-5dd8-4c20-811a-3c0eb0c16a09.mp4?playbackTicket=f2eba980a4564d42b4fc1190323ca254&site=vmware.mediasite.com)
 
-[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d968302-43ce-4c00-99ce-892ca3ccd0cc.mp4?playbackTicket=042da7a323094712ae1c90a91fea0943&site=vmware.mediasite.com)
+[VIRT7840 - VMware and Microsoft Present: Successfully Virtualizing Microsoft Exchange Server, the Right Way](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/74a36563-6d67-48ea-a05a-df447b25295a.mp4?playbackTicket=78b11a3378dd48678e9d4961b7053ed5&site=vmware.mediasite.com)
 
-[VIRT8612-S - How Travis Credit Union Virtualized Their Systems and Significantly Improved Stability and Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2131953d-b383-4d2a-8328-16c1888f3f86.mp4?playbackTicket=19181d07fdb34fc6a3561e87425cf423&site=vmware.mediasite.com)
+[VIRT9402-SPO - Modern Storage Strategies for On-Demand Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8735e1f6-3ccf-4846-9765-3112f6f3e635.mp4?playbackTicket=f567c21a6be749108e18a06dec7538af&site=vmware.mediasite.com)
 
-[VIRT8708 - Understanding Difficult Applications that Require Extra TLC for Better Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f62f836c-6ef5-4987-ba1c-da31ceb91d90.mp4?playbackTicket=0b62904376904835964c1dc0b8308a45&site=vmware.mediasite.com)
+[VIRT9435-SPO - Accelerate, Simplify and Control: Add Data Virtualization to Your Enterprise](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/90c84369-5407-463a-bcba-00f55e4c7df1.mp4?playbackTicket=bda8401d6aaa4c31af8352066621e5e7&site=vmware.mediasite.com)
 
-[VIRT8738 - Extreme Performance Series: Virtualized Big Data Performance Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e0b656c2-2c61-4071-90bf-067ba8023943.mp4?playbackTicket=a95c6c84f8e54f36858f11834626bc29&site=vmware.mediasite.com)
+[VIRT7511 - Performance Tuning and Monitoring for Virtualized Database Servers](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e5735769-400e-4f2a-baa0-475b5917c98e.mp4?playbackTicket=45a4bf6472594f62a61b8addcb21be39&site=vmware.mediasite.com)
 
-[VIRT9009 - Licensing SQL Server and Oracle  on vSphere](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/38993112-12c8-41ef-8d15-40dbbec89d9d.mp4?playbackTicket=854d1c208c504577aa742ffee5501a2e&site=vmware.mediasite.com)
+[VIRT7575 - Architecting NSX with Business Critical Applications for Security, Automation and Business Continuity](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/077cfabe-994f-4021-b2bb-11fa359fee83.mp4?playbackTicket=7241dc62e4874a058db767f7ad5fe6b0&site=vmware.mediasite.com)
 
-[VIRT9034 - Oracle Databases Licensing on a Hyper-Converged Platform](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b541aeb8-6944-4707-aa8a-bdb73d5e1df2.mp4?playbackTicket=2a50cbadc2014c84aca48c609dfe42cf&site=vmware.mediasite.com)
+[VIRT8738 - Extreme Performance Series: Virtualized Big Data Performance Best Practices](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/e0b656c2-2c61-4071-90bf-067ba8023943.mp4?playbackTicket=ae3f5e6524ac4f13bcda55c3ab4c034a&site=vmware.mediasite.com)
 
-[VIRT9132 - Virtualized Extended Distance RAC on Hyperconverged Infrastructure in a Private Cloud - The Perfect Marriage of Availability and On-demand Scalability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b9de61bb-a773-45b6-87d1-e137aebb5bb8.mp4?playbackTicket=b190bae399044daa952fb52860f5057d&site=vmware.mediasite.com)
+[VIRT8278 - Snapshots and SQL Server - Technical Deep Dive and Detailed Lab Findings](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/c4e34999-0ac0-49cc-962a-fa2e40c3e2fb.mp4?playbackTicket=9a003c46e0e64f4487d7ffa0f221347a&site=vmware.mediasite.com)
 
-[VIRT9366-QT - Business Critical Applications at VMware and DBaaS with the Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/117befe9-72c9-401e-ac7c-34e909352c5f.mp4?playbackTicket=37a37ff94c6c4d2b84ade3d6595ea774&site=vmware.mediasite.com)
+[VIRT9459-SPO - High Performance Software Defined Data Center for Business Critical Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/24956ef0-3277-484d-8367-930c7000e3ba.mp4?playbackTicket=d47384627def40afa76445e34b096a34&site=vmware.mediasite.com)
 
-[VIRT9402-SPO - Modern Storage Strategies for On-Demand Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/8735e1f6-3ccf-4846-9765-3112f6f3e635.mp4?playbackTicket=c8786b333f384f04b06a5945d0b31bb6&site=vmware.mediasite.com)
+[VIRT7684 - SAP on Virtual SAN](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/938dc975-ecd1-43e4-aac2-7511f9db36ea.mp4?playbackTicket=8c642efdfa4e45d8b01abf4a5770123b&site=vmware.mediasite.com)
 
-[VIRT9435-SPO - Accelerate, Simplify and Control: Add Data Virtualization to Your Enterprise](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/90c84369-5407-463a-bcba-00f55e4c7df1.mp4?playbackTicket=dfd97d742a1b45e9a114fff9318f6b71&site=vmware.mediasite.com)
+[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/3dbfa642-cf54-41ad-8035-9d610e15fb44.mp4?playbackTicket=310ebe5b7da647ad9412e8ccd1a280cf&site=vmware.mediasite.com)
 
-[VIRT9459-SPO - High Performance Software Defined Data Center for Business Critical Applications](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/24956ef0-3277-484d-8367-930c7000e3ba.mp4?playbackTicket=c037e8f31bd84c569a86cce174c99fc2&site=vmware.mediasite.com)
+[VIRT7550 - Providing HA and DR to Mission Critical Oracle Databases using vSphere Metro Storage Cluster and VMware Software defined Storage and Networking](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/7e847d8c-32e4-48b3-8a2c-381905c66afc.mp4?playbackTicket=75dacd605ac24fde9441288c6789e3d7&site=vmware.mediasite.com)
 
-[VIRT9923-SPO - Virtual SQL Server for the Non-DBA](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2a387a56-0346-464b-8046-2e77ce8d0d57.mp4?playbackTicket=b16cbcc61de442d591b5fec957f96d3f&site=vmware.mediasite.com)
+[VIRT8708 - Understanding Difficult Applications that Require Extra TLC for Better Performance](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f62f836c-6ef5-4987-ba1c-da31ceb91d90.mp4?playbackTicket=84cc4b9c244f46e6bb87745f8d32b0ca&site=vmware.mediasite.com)
 
-[﻿INF9047 - Managing vSphere 6.0 Deployments and Upgrades](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b4060695-2e20-4abe-a638-a97a2fffebfb.mp4?playbackTicket=2fa56c8ed5d04f3bb547350e4d7a968f&site=vmware.mediasite.com)
+[VIRT7709 - Innovations from Cloudera and VMware for Virtualizing Hadoop](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/fd4c7cb4-17dc-4496-862c-8004b4b6450b.mp4?playbackTicket=56b526c1c4164ac39c85d603f2c73e19&site=vmware.mediasite.com)
+
+[VIRT8071 - Making Virtualized Hadoop Deployments Successful](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/79e99643-7392-4679-a2d0-c1146683aeb5.mp4?playbackTicket=906c58b2aa344effa3c1d85221990236&site=vmware.mediasite.com)
+
+[VIRT7654 - SQL Server on vSphere: A Panel with Some of the World's Most Renowned Experts](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b2d1c69a-d1aa-4562-b7d1-6b480a0a8944.mp4?playbackTicket=2435b048c6304a36a920bd8f8f6338f9&site=vmware.mediasite.com)
+
+[VIRT9923-SPO - Virtual SQL Server for the Non-DBA](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/2a387a56-0346-464b-8046-2e77ce8d0d57.mp4?playbackTicket=9eec645bf0984908b81791b9b10e8491&site=vmware.mediasite.com)
+
+[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/5d968302-43ce-4c00-99ce-892ca3ccd0cc.mp4?playbackTicket=290d356a312c46bdb0e8354aaca3071b&site=vmware.mediasite.com)
+
+[VIRT7931 - SAP on SDDC: Business Benefits of SAP Automation with SDDC](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/539bf66d-4f9f-48ef-8fe9-731b28d6b896.mp4?playbackTicket=850248ff922a4ddba6e27d620214659c&site=vmware.mediasite.com)
+
+[VIRT9132 - Virtualized Extended Distance RAC on Hyperconverged Infrastructure in a Private Cloud - The Perfect Marriage of Availability and On-demand Scalability](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/b9de61bb-a773-45b6-87d1-e137aebb5bb8.mp4?playbackTicket=40447e6b3897413caa86f2f79ce14ef8&site=vmware.mediasite.com)
+
+[VIRT8198 - Automating Deployments of Mission-Critical Applications - in a Flash!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/23bb5813-7124-4ecf-82ec-f719203666b9.mp4?playbackTicket=4e0ca06821ae4877afbf69552d6203ea&site=vmware.mediasite.com)
+
+[VIRT7632 - SQL Server On-Premises in the Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/701a8981-3b63-4f20-86ff-3e8cb7c24503.mp4?playbackTicket=84022f562df24ac383f49c631eacb9f8&site=vmware.mediasite.com)
+
+[VIRT7507 - How to Design and Tune Virtualized Trading Platforms](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/f548e5c6-fde3-4f6f-8b30-b41b647cf8c4.mp4?playbackTicket=deac7670bc4f474a86b0cef2b558ba8b&site=vmware.mediasite.com)
+
+[VIRT8530R - Deep Dive on pNUMA & vNUMA - Save Your SQL VMs from Certain DoomA!](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/9f4373e0-8868-4282-984e-5b8328e3e044.mp4?playbackTicket=b604075d1d17427e9d65f5d2fc28ab4c&site=vmware.mediasite.com)
+
+[VIRT9366-QT - Business Critical Applications at VMware and DBaaS with the Hybrid Cloud](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/117befe9-72c9-401e-ac7c-34e909352c5f.mp4?playbackTicket=4c4d803261ae42b690dcef708312eb04&site=vmware.mediasite.com)
+
+[VIRT8239-QT - Things You Should Know about Big Data](http://msn-evt7-ims-ond.mediasite.com/media/mediasite02/vmware/MP4Video/745b7d28-7e3d-4aa4-b711-68beefdb2b5f.mp4?playbackTicket=025a6abd4e144b42a91d4ec8fe63fab2&site=vmware.mediasite.com)
